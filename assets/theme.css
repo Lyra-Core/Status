@@ -49,3 +49,15 @@ h1, h2, h3 {
   color: var(--font-color);
   font-weight: var(--heading-font-weight);
 }
+
+/* Hide visible site name but keep semantic content for SEO */
+.navbar .name {
+  display: none !important;
+}
+
+/* Adjust logo alignment so it stays nicely centered vertically */
+.navbar .logo {
+  margin-right: 0;
+  vertical-align: middle;
+  height: 36px; /* tweak if your logo appears too big/small */
+}
