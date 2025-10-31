@@ -4,224 +4,48 @@ repo: Status # The name of this repository
 
 sites:
   # Backend APIs - Multi-region monitoring
-  - name: Backend APIs - Australia East
+  - name: Backend APIs
     url: https://api.lyrawellbeing.health/status-0123456789abcdef
-    type: globalping
-    location: australia
-    maxResponseTime: 3000
-  - name: Backend APIs - East Asia
-    url: https://api.lyrawellbeing.health/status-0123456789abcdef
-    type: globalping
-    location: singapore
-    maxResponseTime: 3000
-  - name: Backend APIs - France Central
-    url: https://api.lyrawellbeing.health/status-0123456789abcdef
-    type: globalping
-    location: france
-    maxResponseTime: 3000
-  - name: Backend APIs - North Central US
-    url: https://api.lyrawellbeing.health/status-0123456789abcdef
-    type: globalping
-    location: north-carolina
-    maxResponseTime: 3000
-  - name: Backend APIs - UK West
-    url: https://api.lyrawellbeing.health/status-0123456789abcdef
-    type: globalping
-    location: united-kingdom
-    maxResponseTime: 3000
+    maxResponseTime: 3000  
   
   # Hub - Multi-region monitoring
-  - name: Hub - Australia East
-    url: https://app.lyrawellbeing.health
-    type: globalping
-    location: australia
-    maxResponseTime: 3000
-  - name: Hub - East Asia
-    url: https://app.lyrawellbeing.health
-    type: globalping
-    location: singapore
-    maxResponseTime: 3000
-  - name: Hub - France Central
-    url: https://app.lyrawellbeing.health
-    type: globalping
-    location: france
-    maxResponseTime: 3000
-  - name: Hub - North Central US
-    url: https://app.lyrawellbeing.health
-    type: globalping
-    location: north-carolina
-    maxResponseTime: 3000
-  - name: Hub - UK West
-    url: https://app.lyrawellbeing.health
-    type: globalping
-    location: united-kingdom
-    maxResponseTime: 3000
+  - name: Hub
+    url: https://app.lyrawellbeing.health   
+    maxResponseTime: 3000 
   
   # Portal - Multi-region monitoring
-  - name: Portal - Australia East
-    url: https://portal.lyrawellbeing.health
-    type: globalping
-    location: australia
+  - name: Portal
+    url: https://portal.lyrawellbeing.health   
     maxResponseTime: 3000
-  - name: Portal - East Asia
-    url: https://portal.lyrawellbeing.health
-    type: globalping
-    location: singapore
-    maxResponseTime: 3000
-  - name: Portal - France Central
-    url: https://portal.lyrawellbeing.health
-    type: globalping
-    location: france
-    maxResponseTime: 3000
-  - name: Portal - North Central US
-    url: https://portal.lyrawellbeing.health
-    type: globalping
-    location: north-carolina
-    maxResponseTime: 3000
-  - name: Portal - UK West
-    url: https://portal.lyrawellbeing.health
-    type: globalping
-    location: united-kingdom
-    maxResponseTime: 3000
-  
+   
   # Zoho - Single check (no regional monitoring)
   - name: Zoho
     url: https://salesiq.zoho.eu/icas/liveview
     maxResponseTime: 10000
   
   # International Website - Multi-region monitoring
-  - name: International Website - Australia East
+  - name: International Website
     url: https://lyrahealthinternational.com
-    type: globalping
-    location: australia
-    maxResponseTime: 3000
-  - name: International Website - East Asia
-    url: https://lyrahealthinternational.com
-    type: globalping
-    location: singapore
-    maxResponseTime: 3000
-  - name: International Website - France Central
-    url: https://lyrahealthinternational.com
-    type: globalping
-    location: france
-    maxResponseTime: 3000
-  - name: International Website - North Central US
-    url: https://lyrahealthinternational.com
-    type: globalping
-    location: north-carolina
-    maxResponseTime: 3000
-  - name: International Website - UK West
-    url: https://lyrahealthinternational.com
-    type: globalping
-    location: united-kingdom
     maxResponseTime: 3000
   
   # Schweiz Website - Multi-region monitoring
-  - name: Schweiz Website - Australia East
+  - name: Schweiz Website
     url: https://lyrawellbeing.ch
-    type: globalping
-    location: australia
-    maxResponseTime: 3000
-  - name: Schweiz Website - East Asia
-    url: https://lyrawellbeing.ch
-    type: globalping
-    location: singapore
-    maxResponseTime: 3000
-  - name: Schweiz Website - France Central
-    url: https://lyrawellbeing.ch
-    type: globalping
-    location: france
-    maxResponseTime: 3000
-  - name: Schweiz Website - North Central US
-    url: https://lyrawellbeing.ch
-    type: globalping
-    location: north-carolina
-    maxResponseTime: 3000
-  - name: Schweiz Website - UK West
-    url: https://lyrawellbeing.ch
-    type: globalping
-    location: united-kingdom
     maxResponseTime: 3000
   
   # Germany Website - Multi-region monitoring
-  - name: Germany Website - Australia East
+  - name: Germany Website
     url: https://lyrawellbeing.de
-    type: globalping
-    location: australia
-    maxResponseTime: 3000
-  - name: Germany Website - East Asia
-    url: https://lyrawellbeing.de
-    type: globalping
-    location: singapore
-    maxResponseTime: 3000
-  - name: Germany Website - France Central
-    url: https://lyrawellbeing.de
-    type: globalping
-    location: france
-    maxResponseTime: 3000
-  - name: Germany Website - North Central US
-    url: https://lyrawellbeing.de
-    type: globalping
-    location: north-carolina
-    maxResponseTime: 3000
-  - name: Germany Website - UK West
-    url: https://lyrawellbeing.de
-    type: globalping
-    location: united-kingdom
     maxResponseTime: 3000
   
   # France Website - Multi-region monitoring
-  - name: France Website - Australia East
+  - name: France Website
     url: https://lyrawellbeing.fr
-    type: globalping
-    location: australia
-    maxResponseTime: 3000
-  - name: France Website - East Asia
-    url: https://lyrawellbeing.fr
-    type: globalping
-    location: singapore
-    maxResponseTime: 3000
-  - name: France Website - France Central
-    url: https://lyrawellbeing.fr
-    type: globalping
-    location: france
-    maxResponseTime: 3000
-  - name: France Website - North Central US
-    url: https://lyrawellbeing.fr
-    type: globalping
-    location: north-carolina
-    maxResponseTime: 3000
-  - name: France Website - UK West
-    url: https://lyrawellbeing.fr
-    type: globalping
-    location: united-kingdom
     maxResponseTime: 3000
   
   # Help Website - Multi-region monitoring
-  - name: Help Website - Australia East
+  - name: Help Website
     url: https://lyrawellbeing.help
-    type: globalping
-    location: australia
-    maxResponseTime: 3000
-  - name: Help Website - East Asia
-    url: https://lyrawellbeing.help
-    type: globalping
-    location: singapore
-    maxResponseTime: 3000
-  - name: Help Website - France Central
-    url: https://lyrawellbeing.help
-    type: globalping
-    location: france
-    maxResponseTime: 3000
-  - name: Help Website - North Central US
-    url: https://lyrawellbeing.help
-    type: globalping
-    location: north-carolina
-    maxResponseTime: 3000
-  - name: Help Website - UK West
-    url: https://lyrawellbeing.help
-    type: globalping
-    location: united-kingdom
     maxResponseTime: 3000
 
 status-website:
