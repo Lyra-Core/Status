@@ -36,6 +36,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /Status
   logoUrl: https://raw.githubusercontent.com/Lyra-Core/Status/refs/heads/master/assets/lyra-logo.png
+  themeUrl: https://raw.githubusercontent.com/Lyra-Core/Status/refs/heads/master/assets/theme.css
   name: Lyra Wellbeing Status
   introTitle: "Lyra Wellbeing System Status"
   introMessage: "We continuously monitor the performance and availability of Lyra Wellbeing’s platform. This page provides real-time insights into our APIs, applications, and integrations—so you can stay focused on wellbeing, not uptime."
