@@ -1,41 +1,46 @@
+/* ===========================
+   Lyra Wellbeing Custom Theme
+   Light + Dark modes
+   =========================== */
 :root {
-  /* Brand colours (light mode) */
-  --primary-color: #00A8B5;           /* Aqua accent from logo */
-  --secondary-color: #2B3A4A;         /* Slate-navy */
-  --background-color: #F9FAFB;        /* Very light neutral background */
-  --card-background-color: #FFFFFF;   /* Cards in light mode */
-  --font-color: #2B3A4A;              /* Main text in light mode */
-  --muted-color: #5B6B7B;             /* Secondary text */
-  --border-color: #E1E7EB;            /* Dividers */
-  
-  /* Status colours */
-  --up-color: #00A8B5;                /* Up: brand aqua */
-  --degraded-color: #FFC15A;          /* Warning/degraded: amber */
-  --down-color: #FF5C5C;              /* Down: reddish */
-  
+  /* Light mode brand colors */
+  --primary-color: #00A8B5;           /* Aqua accent */
+  --secondary-color: #2B3A4A;         /* Deep slate navy */
+  --background-color: #F9FAFB;        /* Page background */
+  --card-background-color: #FFFFFF;   /* Panels */
+  --font-color: #2B3A4A;              /* Main text */
+  --muted-color: #5B6B7B;             /* Subtext */
+  --border-color: #E1E7EB;            /* Lines/dividers */
+  --nav-background-color: var(--secondary-color);
+  --footer-background-color: #f2f4f5;
+
+  /* Status colors */
+  --up-color: #00A8B5;
+  --degraded-color: #FFC15A;
+  --down-color: #FF5C5C;
+
   /* Typography */
   --font-family: 'Inter', 'Segoe UI', Roboto, sans-serif;
   --heading-font-weight: 600;
   --text-font-weight: 400;
 }
 
-/* Dark mode overrides */
+/* Dark mode override */
 @media (prefers-color-scheme: dark) {
   :root {
-    --background-color: #0E1B19;        /* Dark background */
-    --card-background-color: #142422;   /* Panel dark tone */
-    --font-color: #E7F6F3;               /* Light text */
-    --muted-color: #A5C8C0;              /* Light muted text */
-    --border-color: #22443F;             /* Divider dark tone */
-    
-    /* Keep same accent/status colours or adjust slightly for dark mode */
-    --up-color: #2CC5B6;
-    --degraded-color: #FFC15A;
-    --down-color: #FF6B6B;
+    --primary-color: #2CC5B6;
+    --secondary-color: #0F1E1D;
+    --background-color: #0E1B19;
+    --card-background-color: #142422;
+    --font-color: #E7F6F3;
+    --muted-color: #A5C8C0;
+    --border-color: #22443F;
+    --nav-background-color: #0F1E1D;
+    --footer-background-color: #0F1E1D;
   }
 }
 
-/* Global styling */
+/* Global page */
 body {
   background-color: var(--background-color);
   color: var(--font-color);
@@ -43,10 +48,10 @@ body {
   font-weight: var(--text-font-weight);
 }
 
-/* Navbar & Footer */
-.navbar, .footer {
-  background-color: var(--secondary-color);
-  color: #FFFFFF;
+/* Navbar */
+.navbar {
+  background-color: var(--nav-background-color);
+  border-bottom: 1px solid var(--border-color);
 }
 .navbar .name {
   display: none !important;
@@ -62,14 +67,12 @@ a {
   color: var(--primary-color);
   text-decoration: none;
 }
-a:hover, a:focus {
+a:hover {
   color: #0099a3;
   text-decoration: underline;
-  outline: 2px solid var(--primary-color);
-  outline-offset: 2px;
 }
 
-/* Cards / Status sections */
+/* Cards and sections */
 .status {
   background-color: var(--card-background-color);
   border: 1px solid var(--border-color);
@@ -77,27 +80,22 @@ a:hover, a:focus {
   box-shadow: 0 2px 6px rgba(0,0,0,.05);
   color: var(--font-color);
 }
-.status.up {
-  border-left: 5px solid var(--up-color);
-}
-.status.degraded {
-  border-left: 5px solid var(--degraded-color);
-}
-.status.down {
-  border-left: 5px solid var(--down-color);
-}
+.status.up { border-left: 5px solid var(--up-color); }
+.status.degraded { border-left: 5px solid var(--degraded-color); }
+.status.down { border-left: 5px solid var(--down-color); }
 
+/* Headings */
 h1, h2, h3 {
   color: var(--font-color);
   font-weight: var(--heading-font-weight);
 }
-
-/* Intro & Footer text adjustments */
-.intro, .footer {
-  color: var(--font-color);
+h4, h5, h6 {
+  color: var(--muted-color);
 }
+
+/* Footer */
 .footer {
-  background-color: #F2F4F5;
+  background-color: var(--footer-background-color);
   border-top: 1px solid var(--border-color);
   color: var(--muted-color);
   font-size: 0.9rem;
