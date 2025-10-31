@@ -1,102 +1,121 @@
-/* ===========================
-   Lyra Wellbeing Custom Theme
-   Light + Dark modes
-   =========================== */
-:root {
-  /* Light mode brand colors */
-  --primary-color: #00A8B5;           /* Aqua accent */
-  --secondary-color: #2B3A4A;         /* Deep slate navy */
-  --background-color: #F9FAFB;        /* Page background */
-  --card-background-color: #FFFFFF;   /* Panels */
-  --font-color: #2B3A4A;              /* Main text */
-  --muted-color: #5B6B7B;             /* Subtext */
-  --border-color: #E1E7EB;            /* Lines/dividers */
-  --nav-background-color: var(--secondary-color);
-  --footer-background-color: #f2f4f5;
+/* ===========================================
+   LYRA WELLBEING CUSTOM THEME (final tuned)
+   Clean light mode + balanced dark mode
+   =========================================== */
 
-  /* Status colors */
+/* ---------- Light Mode (default) ---------- */
+:root {
+  --primary-color: #00A8B5;          /* Aqua accent */
+  --secondary-color: #2B3A4A;        /* Deep slate */
+  --background-color: #FDFDFD;       /* Pure light backdrop */
+  --card-background-color: #FFFFFF;  /* Clean white cards */
+  --font-color: #2B3A4A;             /* Primary text */
+  --muted-color: #5B6B7B;            /* Subtext */
+  --border-color: #E3E8EC;           /* Soft dividers */
+  --nav-background-color: #FFFFFF;   /* White navbar for airy header */
+  --footer-background-color: #FFFFFF;
+
   --up-color: #00A8B5;
   --degraded-color: #FFC15A;
   --down-color: #FF5C5C;
 
-  /* Typography */
   --font-family: 'Inter', 'Segoe UI', Roboto, sans-serif;
   --heading-font-weight: 600;
   --text-font-weight: 400;
 }
 
-/* Dark mode override */
+/* ---------- Dark Mode ---------- */
 @media (prefers-color-scheme: dark) {
   :root {
-    --primary-color: #2CC5B6;
-    --secondary-color: #0F1E1D;
-    --background-color: #0E1B19;
-    --card-background-color: #142422;
-    --font-color: #E7F6F3;
-    --muted-color: #A5C8C0;
-    --border-color: #22443F;
-    --nav-background-color: #0F1E1D;
-    --footer-background-color: #0F1E1D;
+    --primary-color: #00D0C3;
+    --secondary-color: #0E1B19;
+    --background-color: #101B1A;
+    --card-background-color: #162826;
+    --font-color: #E9F6F3;
+    --muted-color: #9ABDB5;
+    --border-color: #21423E;
+    --nav-background-color: #0E1B19;
+    --footer-background-color: #0E1B19;
   }
 }
 
-/* Global page */
+/* ---------- Base ---------- */
 body {
   background-color: var(--background-color);
   color: var(--font-color);
   font-family: var(--font-family);
   font-weight: var(--text-font-weight);
+  line-height: 1.6;
 }
 
-/* Navbar */
+/* ---------- Navbar ---------- */
 .navbar {
   background-color: var(--nav-background-color);
   border-bottom: 1px solid var(--border-color);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
 }
 .navbar .name {
   display: none !important;
 }
 .navbar .logo {
-  height: 40px;
-  margin: 0 1rem;
+  height: 36px;
+  margin: 0.5rem 1rem;
   vertical-align: middle;
 }
 
-/* Links */
-a {
-  color: var(--primary-color);
-  text-decoration: none;
-}
-a:hover {
-  color: #0099a3;
-  text-decoration: underline;
-}
-
-/* Cards and sections */
-.status {
-  background-color: var(--card-background-color);
-  border: 1px solid var(--border-color);
-  border-radius: 10px;
-  box-shadow: 0 2px 6px rgba(0,0,0,.05);
-  color: var(--font-color);
-}
-.status.up { border-left: 5px solid var(--up-color); }
-.status.degraded { border-left: 5px solid var(--degraded-color); }
-.status.down { border-left: 5px solid var(--down-color); }
-
-/* Headings */
+/* ---------- Headings ---------- */
 h1, h2, h3 {
-  color: var(--font-color);
+  color: var(--secondary-color);
   font-weight: var(--heading-font-weight);
 }
 h4, h5, h6 {
   color: var(--muted-color);
 }
 
-/* Footer */
+/* ---------- Links ---------- */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+a:hover {
+  color: #009ca8;
+  text-decoration: underline;
+}
+
+/* ---------- Cards & Graphs ---------- */
+.status {
+  background-color: var(--card-background-color);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,.05);
+  color: var(--font-color);
+}
+
+.status.up {
+  border-left: 5px solid var(--up-color);
+}
+.status.degraded {
+  border-left: 5px solid var(--degraded-color);
+}
+.status.down {
+  border-left: 5px solid var(--down-color);
+}
+
+/* Override Upptime graph background */
+.status.graph {
+  --background: none !important;
+  background: var(--card-background-color) !important;
+}
+
+/* ---------- Footer ---------- */
 .footer {
   background-color: var(--footer-background-color);
   border-top: 1px solid var(--border-color);
   color: var(--muted-color);
   font-size: 0.9rem;
+  text-align: center;
+  padding: 1rem;
 }
