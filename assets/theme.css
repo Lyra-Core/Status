@@ -51,13 +51,6 @@ h1, h2, h3 {
 }
 
 /* Hide visible site name but keep semantic content for SEO */
-.navbar .name {
+#sapper > nav > div > div > a > div {
   display: none !important;
-}
-
-/* Adjust logo alignment so it stays nicely centered vertically */
-.navbar .logo {
-  margin-right: 0;
-  vertical-align: middle;
-  height: 36px; /* tweak if your logo appears too big/small */
 }
