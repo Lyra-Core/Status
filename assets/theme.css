@@ -1,48 +1,90 @@
 :root {
-  /* Brand colors */
-  --primary-color: #2cc5b6;          /* Lyra teal accent */
-  --secondary-color: #1f3c38;        /* Deep green background tint */
-  --success-color: #32b09d;          /* Healthful green tone */
-  --background-color: #0e1917;       /* Main background */
-  --card-background-color: #142422;  /* Slightly lighter panels */
-  --font-color: #e7f6f3;             /* Soft white text */
-  --muted-color: #a5c8c0;            /* Subtext / secondary text */
-  --border-color: #22443f;           /* Divider lines */
-
+  /* Brand colours (light mode) */
+  --primary-color: #00A8B5;           /* Aqua accent from logo */
+  --secondary-color: #2B3A4A;         /* Slate-navy */
+  --background-color: #F9FAFB;        /* Very light neutral background */
+  --card-background-color: #FFFFFF;   /* Cards in light mode */
+  --font-color: #2B3A4A;              /* Main text in light mode */
+  --muted-color: #5B6B7B;             /* Secondary text */
+  --border-color: #E1E7EB;            /* Dividers */
+  
+  /* Status colours */
+  --up-color: #00A8B5;                /* Up: brand aqua */
+  --degraded-color: #FFC15A;          /* Warning/degraded: amber */
+  --down-color: #FF5C5C;              /* Down: reddish */
+  
   /* Typography */
-  --font-family: 'Inter', 'Segoe UI', sans-serif;
+  --font-family: 'Inter', 'Segoe UI', Roboto, sans-serif;
   --heading-font-weight: 600;
   --text-font-weight: 400;
-
-  /* Status colors */
-  --up-color: #2cc5b6;
-  --down-color: #ff6b6b;
-  --degraded-color: #ffc15a;
 }
 
+/* Dark mode overrides */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #0E1B19;        /* Dark background */
+    --card-background-color: #142422;   /* Panel dark tone */
+    --font-color: #E7F6F3;               /* Light text */
+    --muted-color: #A5C8C0;              /* Light muted text */
+    --border-color: #22443F;             /* Divider dark tone */
+    
+    /* Keep same accent/status colours or adjust slightly for dark mode */
+    --up-color: #2CC5B6;
+    --degraded-color: #FFC15A;
+    --down-color: #FF6B6B;
+  }
+}
+
+/* Global styling */
 body {
   background-color: var(--background-color);
   color: var(--font-color);
   font-family: var(--font-family);
+  font-weight: var(--text-font-weight);
 }
 
+/* Navbar & Footer */
 .navbar, .footer {
   background-color: var(--secondary-color);
-  color: var(--font-color);
+  color: #FFFFFF;
+}
+.navbar .name {
+  display: none !important;
+}
+.navbar .logo {
+  height: 40px;
+  margin: 0 1rem;
+  vertical-align: middle;
 }
 
+/* Links */
 a {
   color: var(--primary-color);
+  text-decoration: none;
 }
-a:hover {
-  color: #48e0d2;
+a:hover, a:focus {
+  color: #0099a3;
   text-decoration: underline;
+  outline: 2px solid var(--primary-color);
+  outline-offset: 2px;
 }
 
+/* Cards / Status sections */
 .status {
   background-color: var(--card-background-color);
   border: 1px solid var(--border-color);
   border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,.05);
+  color: var(--font-color);
+}
+.status.up {
+  border-left: 5px solid var(--up-color);
+}
+.status.degraded {
+  border-left: 5px solid var(--degraded-color);
+}
+.status.down {
+  border-left: 5px solid var(--down-color);
 }
 
 h1, h2, h3 {
@@ -50,7 +92,13 @@ h1, h2, h3 {
   font-weight: var(--heading-font-weight);
 }
 
-/* Hide visible site name but keep semantic content for SEO */
-#sapper > nav > div > div > a > div {
-  display: none !important;
+/* Intro & Footer text adjustments */
+.intro, .footer {
+  color: var(--font-color);
+}
+.footer {
+  background-color: #F2F4F5;
+  border-top: 1px solid var(--border-color);
+  color: var(--muted-color);
+  font-size: 0.9rem;
 }
