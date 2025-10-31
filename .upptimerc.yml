@@ -36,8 +36,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /Status
-  logoUrl: https://$OWNER.github.io/$REPO/lyra-logo.png
-  themeUrl: https://$OWNER.github.io/$REPO/theme.css
+  logoUrl: https://lyra-core.github.io/Status/lyra-logo.png
+  themeUrl: https://lyra-core.github.io/Status/theme.css
   name: Lyra Wellbeing Status
   introTitle: "Lyra Wellbeing System Status"
   introMessage: "We continuously monitor the performance and availability of Lyra Wellbeing’s platform. This page provides real-time insights into our APIs, applications, and integrations—so you can stay focused on wellbeing, not uptime."
