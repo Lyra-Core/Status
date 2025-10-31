@@ -1,0 +1,51 @@
+:root {
+  /* Brand colors */
+  --primary-color: #2cc5b6;          /* Lyra teal accent */
+  --secondary-color: #1f3c38;        /* Deep green background tint */
+  --success-color: #32b09d;          /* Healthful green tone */
+  --background-color: #0e1917;       /* Main background */
+  --card-background-color: #142422;  /* Slightly lighter panels */
+  --font-color: #e7f6f3;             /* Soft white text */
+  --muted-color: #a5c8c0;            /* Subtext / secondary text */
+  --border-color: #22443f;           /* Divider lines */
+
+  /* Typography */
+  --font-family: 'Inter', 'Segoe UI', sans-serif;
+  --heading-font-weight: 600;
+  --text-font-weight: 400;
+
+  /* Status colors */
+  --up-color: #2cc5b6;
+  --down-color: #ff6b6b;
+  --degraded-color: #ffc15a;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--font-color);
+  font-family: var(--font-family);
+}
+
+.navbar, .footer {
+  background-color: var(--secondary-color);
+  color: var(--font-color);
+}
+
+a {
+  color: var(--primary-color);
+}
+a:hover {
+  color: #48e0d2;
+  text-decoration: underline;
+}
+
+.status {
+  background-color: var(--card-background-color);
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+}
+
+h1, h2, h3 {
+  color: var(--font-color);
+  font-weight: var(--heading-font-weight);
+}
