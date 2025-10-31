@@ -1,121 +1,352 @@
 /* ===========================================
-   LYRA WELLBEING CUSTOM THEME (final tuned)
+   LYRA WELLBEING CUSTOM THEME
    Clean light mode + balanced dark mode
    =========================================== */
 
-/* ---------- Light Mode (default) ---------- */
+/* ---------- Light Mode Variables ---------- */
 :root {
-  --primary-color: #00A8B5;          /* Aqua accent */
-  --secondary-color: #2B3A4A;        /* Deep slate */
-  --background-color: #FDFDFD;       /* Pure light backdrop */
-  --card-background-color: #FFFFFF;  /* Clean white cards */
-  --font-color: #2B3A4A;             /* Primary text */
-  --muted-color: #5B6B7B;            /* Subtext */
-  --border-color: #E3E8EC;           /* Soft dividers */
-  --nav-background-color: #FFFFFF;   /* White navbar for airy header */
-  --footer-background-color: #FFFFFF;
-
-  --up-color: #00A8B5;
-  --degraded-color: #FFC15A;
-  --down-color: #FF5C5C;
-
-  --font-family: 'Inter', 'Segoe UI', Roboto, sans-serif;
-  --heading-font-weight: 600;
-  --text-font-weight: 400;
+  /* Upptime uses these specific variable names */
+  --body-background-color: #F8F9FA;
+  --body-text-color: #2B3A4A;
+  --card-background-color: #FFFFFF;
+  --nav-background-color: #FFFFFF;
+  --nav-border-bottom-color: #E3E8EC;
+  --nav-current-border-bottom-color: #00A8B5;
+  --card-border-color: #E3E8EC;
+  --down-border-left: #EF4444;
+  --degraded-border-left: #F59E0B;
+  --up-border-left: #10B981;
+  --tag-color: #5B6B7B;
+  --graph-opacity: 1;
+  --graph-filter: none;
+  
+  /* Custom variables */
+  --primary-color: #00A8B5;
+  --secondary-color: #2B3A4A;
+  --muted-color: #6B7280;
+  --border-radius: 12px;
+  --font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif;
 }
 
-/* ---------- Dark Mode ---------- */
+/* ---------- Dark Mode Variables ---------- */
 @media (prefers-color-scheme: dark) {
   :root {
+    --body-background-color: #0F1419;
+    --body-text-color: #E9ECEF;
+    --card-background-color: #1A1F26;
+    --nav-background-color: #151A21;
+    --nav-border-bottom-color: #2D3748;
+    --nav-current-border-bottom-color: #00D0C3;
+    --card-border-color: #2D3748;
+    --down-border-left: #F87171;
+    --degraded-border-left: #FBBF24;
+    --up-border-left: #34D399;
+    --tag-color: #9CA3AF;
     --primary-color: #00D0C3;
-    --secondary-color: #0E1B19;
-    --background-color: #101B1A;
-    --card-background-color: #162826;
-    --font-color: #E9F6F3;
-    --muted-color: #9ABDB5;
-    --border-color: #21423E;
-    --nav-background-color: #0E1B19;
-    --footer-background-color: #0E1B19;
+    --secondary-color: #E9ECEF;
+    --muted-color: #9CA3AF;
   }
 }
 
-/* ---------- Base ---------- */
+/* ---------- Base Styles ---------- */
+* {
+  box-sizing: border-box;
+}
+
 body {
-  background-color: var(--background-color);
-  color: var(--font-color);
-  font-family: var(--font-family);
-  font-weight: var(--text-font-weight);
+  background-color: var(--body-background-color) !important;
+  color: var(--body-text-color) !important;
+  font-family: var(--font-family) !important;
   line-height: 1.6;
+  margin: 0;
+  padding: 0;
 }
 
 /* ---------- Navbar ---------- */
-.navbar {
-  background-color: var(--nav-background-color);
-  border-bottom: 1px solid var(--border-color);
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+nav, .nav, .navbar, header {
+  background-color: var(--nav-background-color) !important;
+  border-bottom: 1px solid var(--nav-border-bottom-color) !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) !important;
 }
+
+.nav a, .navbar a, nav a {
+  color: var(--body-text-color) !important;
+}
+
+.nav a:hover, .navbar a:hover, nav a:hover {
+  color: var(--primary-color) !important;
+}
+
+/* Hide "name" text in navbar if logo exists */
 .navbar .name {
   display: none !important;
 }
-.navbar .logo {
-  height: 36px;
-  margin: 0.5rem 1rem;
-  vertical-align: middle;
+
+/* Hide text in navbar logo link */
+nav .logo div, .nav .logo div, a.logo div {
+  display: none !important;
 }
 
-/* ---------- Headings ---------- */
-h1, h2, h3 {
-  color: var(--secondary-color);
-  font-weight: var(--heading-font-weight);
+.navbar .logo, .nav .logo {
+  height: 36px;
+  margin: 0.5rem 1rem;
 }
-h4, h5, h6 {
-  color: var(--muted-color);
+
+/* Page header (not navbar) */
+main > header, .container > header {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 2rem 0 1rem 0 !important;
+  margin-bottom: 2rem !important;
+}
+
+main > header h1, .container > header h1 {
+  margin-top: 0 !important;
+}
+
+main > header p, .container > header p {
+  margin-bottom: 0 !important;
+}
+
+/* ---------- Typography ---------- */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--body-text-color) !important;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+
+p {
+  color: var(--body-text-color) !important;
+  margin-bottom: 1rem;
 }
 
 /* ---------- Links ---------- */
 a {
-  color: var(--primary-color);
+  color: var(--primary-color) !important;
   text-decoration: none;
-  transition: color 0.2s ease;
+  transition: all 0.2s ease;
 }
+
 a:hover {
-  color: #009ca8;
+  color: var(--primary-color) !important;
+  opacity: 0.8;
   text-decoration: underline;
 }
 
-/* ---------- Cards & Graphs ---------- */
-.status {
-  background-color: var(--card-background-color);
-  border: 1px solid var(--border-color);
-  border-radius: 12px;
-  padding: 0.75rem 1rem;
-  margin-bottom: 1rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,.05);
-  color: var(--font-color);
+/* ---------- Status Cards ---------- */
+.status, .monitor, .service, article.up, article.down, article.degraded, article.graph {
+  background-color: var(--card-background-color) !important;
+  border: 1px solid var(--card-border-color) !important;
+  border-radius: var(--border-radius) !important;
+  padding: 1.25rem 1.5rem !important;
+  margin-bottom: 1rem !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) !important;
+  color: var(--body-text-color) !important;
 }
 
-.status.up {
-  border-left: 5px solid var(--up-color);
-}
-.status.degraded {
-  border-left: 5px solid var(--degraded-color);
-}
-.status.down {
-  border-left: 5px solid var(--down-color);
+/* Status card text */
+.status *, .monitor *, .service *, article.up *, article.graph * {
+  color: var(--body-text-color) !important;
 }
 
-/* Override Upptime graph background */
-.status.graph {
-  --background: none !important;
-  background: var(--card-background-color) !important;
+/* Status indicators with colored left border */
+.status.up, .monitor.up, article.up {
+  border-left: 4px solid var(--up-border-left) !important;
+  padding-left: 1.25rem !important;
+}
+
+.status.degraded, .monitor.degraded, article.degraded {
+  border-left: 4px solid var(--degraded-border-left) !important;
+  padding-left: 1.25rem !important;
+}
+
+.status.down, .monitor.down, article.down {
+  border-left: 4px solid var(--down-border-left) !important;
+  padding-left: 1.25rem !important;
+}
+
+/* ---------- Incident Cards ---------- */
+.incident, .alert, article.down, article.degraded {
+  background-color: var(--card-background-color) !important;
+  border: 1px solid var(--degraded-border-left) !important;
+  border-left: 4px solid var(--degraded-border-left) !important;
+  border-radius: var(--border-radius) !important;
+  padding: 1.25rem 1.5rem !important;
+  padding-left: 1.25rem !important;
+  margin-bottom: 1rem !important;
+  color: var(--body-text-color) !important;
+}
+
+.incident *, .alert *, article.down *, article.degraded * {
+  color: var(--body-text-color) !important;
+}
+
+/* Incident content spacing */
+article.down .f, article.degraded .f {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+article.down h4, article.degraded h4 {
+  margin-top: 0 !important;
+  margin-bottom: 0.5rem !important;
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+}
+
+article.down div > div:first-child, article.degraded div > div:first-child {
+  color: var(--muted-color) !important;
+  font-size: 0.875rem !important;
+}
+
+/* ---------- Badges & Tags ---------- */
+.badge, .tag, .label {
+  background-color: var(--card-background-color) !important;
+  border: 1px solid var(--card-border-color) !important;
+  border-radius: 6px !important;
+  padding: 0.25rem 0.5rem !important;
+  font-size: 0.875rem !important;
+  color: var(--tag-color) !important;
+}
+
+.badge.up {
+  background-color: rgba(16, 185, 129, 0.1) !important;
+  border-color: var(--up-border-left) !important;
+  color: var(--up-border-left) !important;
+}
+
+.badge.degraded {
+  background-color: rgba(245, 158, 11, 0.1) !important;
+  border-color: var(--degraded-border-left) !important;
+  color: var(--degraded-border-left) !important;
+}
+
+.badge.down {
+  background-color: rgba(239, 68, 68, 0.1) !important;
+  border-color: var(--down-border-left) !important;
+  color: var(--down-border-left) !important;
+}
+
+/* ---------- Graphs ---------- */
+.graph, .chart {
+  background-color: var(--card-background-color) !important;
+  border-radius: var(--border-radius) !important;
+  padding: 1rem !important;
+  opacity: var(--graph-opacity) !important;
+  filter: var(--graph-filter) !important;
+}
+
+/* ---------- Tables ---------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: var(--card-background-color) !important;
+  color: var(--body-text-color) !important;
+}
+
+th, td {
+  padding: 0.75rem !important;
+  text-align: left !important;
+  border-bottom: 1px solid var(--card-border-color) !important;
+  color: var(--body-text-color) !important;
+}
+
+th {
+  font-weight: 600 !important;
+  color: var(--body-text-color) !important;
+}
+
+tr:hover {
+  background-color: var(--body-background-color) !important;
+}
+
+/* ---------- Buttons ---------- */
+button, .button, .btn {
+  background-color: var(--primary-color) !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 8px !important;
+  padding: 0.5rem 1rem !important;
+  font-weight: 500 !important;
+  cursor: pointer !important;
+  transition: all 0.2s ease !important;
+}
+
+button:hover, .button:hover, .btn:hover {
+  opacity: 0.9 !important;
+  transform: translateY(-1px) !important;
 }
 
 /* ---------- Footer ---------- */
-.footer {
-  background-color: var(--footer-background-color);
-  border-top: 1px solid var(--border-color);
-  color: var(--muted-color);
-  font-size: 0.9rem;
-  text-align: center;
-  padding: 1rem;
+footer, .footer {
+  background-color: var(--nav-background-color) !important;
+  border-top: 1px solid var(--nav-border-bottom-color) !important;
+  color: var(--muted-color) !important;
+  padding: 2rem 1rem !important;
+  margin-top: 4rem !important;
+  text-align: center !important;
+}
+
+footer *, .footer * {
+  color: var(--muted-color) !important;
+}
+
+footer a, .footer a {
+  color: var(--primary-color) !important;
+}
+
+/* ---------- Container & Layout ---------- */
+.container, .wrapper, main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+/* ---------- Time Period Filters ---------- */
+.tabs, .filters, .time-range {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.tabs button, .filters button, .time-range button {
+  background-color: transparent !important;
+  color: var(--muted-color) !important;
+  border: 1px solid var(--card-border-color) !important;
+  padding: 0.5rem 1rem !important;
+}
+
+.tabs button.active, .filters button.active, .time-range button.active {
+  background-color: var(--primary-color) !important;
+  color: white !important;
+  border-color: var(--primary-color) !important;
+}
+
+/* ---------- Responsive Design ---------- */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+  
+  .status, .monitor, .service {
+    padding: 0.75rem !important;
+  }
+  
+  table {
+    font-size: 0.875rem;
+  }
 }
