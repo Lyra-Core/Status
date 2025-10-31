@@ -14,6 +14,7 @@ sites:
     maxResponseTime: 3000
   - name: Zoho
     url: https://salesiq.zoho.eu/icas/liveview
+    maxResponseTime: 10000
   - name: International Website
     url: https://lyrahealthinternational.com
     maxResponseTime: 3000
@@ -35,8 +36,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /Status
-  logoUrl: https://raw.githubusercontent.com/Lyra-Core/Status/refs/heads/master/assets/lyra-logo.png
-  themeUrl: https://raw.githubusercontent.com/Lyra-Core/Status/refs/heads/master/assets/theme.css
+  logoUrl: https://$OWNER.github.io/$REPO/lyra-logo.png
+  themeUrl: https://$OWNER.github.io/$REPO/theme.css
   name: Lyra Wellbeing Status
   introTitle: "Lyra Wellbeing System Status"
   introMessage: "We continuously monitor the performance and availability of Lyra Wellbeing’s platform. This page provides real-time insights into our APIs, applications, and integrations—so you can stay focused on wellbeing, not uptime."
