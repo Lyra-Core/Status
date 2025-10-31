@@ -472,19 +472,19 @@
     "url": "https://lyrawellbeing.de",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.de.ico",
     "slug": "germany-website-australia-east",
-    "status": "degraded",
-    "uptime": "75.10%",
-    "uptimeDay": "75.10%",
-    "uptimeWeek": "75.10%",
-    "uptimeMonth": "75.10%",
-    "uptimeYear": "75.10%",
-    "time": 3200,
-    "timeDay": 3200,
-    "timeWeek": 3200,
-    "timeMonth": 3200,
-    "timeYear": 3200,
+    "status": "up",
+    "uptime": "66.99%",
+    "uptimeDay": "66.99%",
+    "uptimeWeek": "66.99%",
+    "uptimeMonth": "66.99%",
+    "uptimeYear": "66.99%",
+    "time": 3111,
+    "timeDay": 3111,
+    "timeWeek": 3111,
+    "timeMonth": 3111,
+    "timeYear": 3111,
     "dailyMinutesDown": {
-      "2025-10-31": 29
+      "2025-10-31": 43
     }
   },
   {
