@@ -5,22 +5,30 @@ repo: Status # The name of this repository
 sites:
   - name: Backend APIs
     url: https://api.lyrawellbeing.health/status-0123456789abcdef
+    maxResponseTime: 3000
   - name: Hub
     url: https://app.lyrawellbeing.health/home/explore
+    maxResponseTime: 3000
   - name: Portal
     url: https://portal.lyrawellbeing.health
+    maxResponseTime: 3000
   - name: Zoho
     url: https://salesiq.zoho.eu/icas/liveview
   - name: International Website
     url: https://lyrahealthinternational.com
+    maxResponseTime: 3000
   - name: Schweiz Website
     url: https://lyrawellbeing.ch
+    maxResponseTime: 3000
   - name: Germany Website
     url: https://lyrawellbeing.de
+    maxResponseTime: 3000
   - name: France Website
     url: https://lyrawellbeing.fr
+    maxResponseTime: 3000
   - name: Help Website
     url: https://lyrawellbeing.help
+    maxResponseTime: 3000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -29,8 +37,11 @@ status-website:
   baseUrl: /Status
   logoUrl: https://raw.githubusercontent.com/Lyra-Core/Status/refs/heads/master/assets/lyra-logo.png
   name: Lyra Wellbeing Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Lyra Wellbeing System Status"
+  introMessage: "We continuously monitor the performance and availability of Lyra Wellbeing’s platform. This page provides real-time insights into our APIs, applications, and integrations—so you can stay focused on wellbeing, not uptime."
+  metaTags:
+    - name: description
+      content: "Live uptime and performance monitoring for Lyra Wellbeing’s services and integrations."
   navbar:
     - title: Status
       href: /
