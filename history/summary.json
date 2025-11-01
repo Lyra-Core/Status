@@ -94,7 +94,7 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "degraded",
+    "status": "down",
     "uptime": "0.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.09%",
@@ -106,7 +106,7 @@
     "timeMonth": 21909,
     "timeYear": 21909,
     "dailyMinutesDown": {
-      "2025-11-01": 1138,
+      "2025-11-01": 1145,
       "2025-10-31": 466
     }
   },
