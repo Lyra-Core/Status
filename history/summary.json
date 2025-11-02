@@ -101,12 +101,13 @@
     "uptimeMonth": "0.08%",
     "uptimeYear": "0.08%",
     "time": 22000,
-    "timeDay": 21526,
+    "timeDay": 21065,
     "timeWeek": 22000,
     "timeMonth": 22000,
     "timeYear": 22000,
     "dailyMinutesDown": {
-      "2025-11-01": 1388,
+      "2025-11-02": 8,
+      "2025-11-01": 1440,
       "2025-10-31": 466
     }
   },
