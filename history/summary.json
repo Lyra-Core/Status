@@ -106,7 +106,7 @@
     "timeMonth": 22193,
     "timeYear": 22193,
     "dailyMinutesDown": {
-      "2025-11-03": 472,
+      "2025-11-03": 479,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 466
@@ -135,18 +135,20 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1710,
-    "timeDay": 1615,
-    "timeWeek": 1710,
-    "timeMonth": 1710,
-    "timeYear": 1710,
-    "dailyMinutesDown": {}
+    "time": 2053,
+    "timeDay": 3375,
+    "timeWeek": 2053,
+    "timeMonth": 2053,
+    "timeYear": 2053,
+    "dailyMinutesDown": {
+      "2025-11-03": 0
+    }
   },
   {
     "name": "Help Website",
