@@ -1,7 +1,7 @@
 url: https://lyrawellbeing.ch
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-03T14:21:50.894Z
+status: degraded
+code: 200
+responseTime: 28972
+lastUpdated: 2025-11-03T14:34:32.853Z
 startTime: 2025-10-31T16:12:48.539Z
 generator: Upptime <https://github.com/upptime/upptime>
