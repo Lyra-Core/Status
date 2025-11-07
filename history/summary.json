@@ -95,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
     "status": "up",
-    "uptime": "30.76%",
+    "uptime": "31.01%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "30.76%",
-    "uptimeMonth": "30.76%",
-    "uptimeYear": "30.76%",
+    "uptimeWeek": "31.01%",
+    "uptimeMonth": "31.01%",
+    "uptimeYear": "31.01%",
     "time": 17055,
     "timeDay": 2116,
     "timeWeek": 17055,
@@ -119,9 +119,9 @@
     "url": "https://lyrawellbeing.de",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.de.ico",
     "slug": "germany-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,7 +130,9 @@
     "timeWeek": 2684,
     "timeMonth": 2684,
     "timeYear": 2684,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-07": 0
+    }
   },
   {
     "name": "France Website",
