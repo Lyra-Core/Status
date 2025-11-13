@@ -58,9 +58,9 @@
     "url": "https://salesiq.zoho.eu/icas/liveview",
     "icon": "https://icons.duckduckgo.com/ip3/salesiq.zoho.eu.ico",
     "slug": "zoho",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 1269,
     "timeMonth": 1383,
     "timeYear": 1383,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-13": 0
+    }
   },
   {
     "name": "International Website",
@@ -95,14 +97,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
     "status": "up",
-    "uptime": "63.83%",
+    "uptime": "65.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.89%",
-    "uptimeMonth": "63.83%",
-    "uptimeYear": "63.83%",
+    "uptimeMonth": "65.66%",
+    "uptimeYear": "65.66%",
     "time": 14881,
     "timeDay": 1995,
-    "timeWeek": 3540,
+    "timeWeek": 3595,
     "timeMonth": 14881,
     "timeYear": 14881,
     "dailyMinutesDown": {
