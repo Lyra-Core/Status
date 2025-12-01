@@ -7,45 +7,109 @@ sites:
   - name: Backend APIs
     url: https://api.lyrawellbeing.health/status-0123456789abcdef
     maxResponseTime: 3000  
-  
+
   # Hub - Multi-region monitoring
   - name: Hub
-    url: https://app.lyrawellbeing.health   
-    maxResponseTime: 3000 
-  
+    url: https://app.lyrawellbeing.health
+    maxResponseTime: 3000
+
   # Portal - Multi-region monitoring
   - name: Portal
-    url: https://portal.lyrawellbeing.health   
+    url: https://portal.lyrawellbeing.health
     maxResponseTime: 3000
-   
+
   # Zoho - Single check (no regional monitoring)
   - name: Zoho
     url: https://salesiq.zoho.eu/icas/liveview
     maxResponseTime: 10000
-  
+
   # International Website - Multi-region monitoring
   - name: International Website
     url: https://lyrahealthinternational.com
     maxResponseTime: 3000
-  
+
   # Schweiz Website - Multi-region monitoring
   - name: Schweiz Website
     url: https://lyrawellbeing.ch
     maxResponseTime: 3000
-  
+
   # Germany Website - Multi-region monitoring
   - name: Germany Website
     url: https://lyrawellbeing.de
     maxResponseTime: 3000
-  
+
   # France Website - Multi-region monitoring
   - name: France Website
     url: https://lyrawellbeing.fr
     maxResponseTime: 3000
-  
-  # Help Website - Multi-region monitoring
-  - name: Help Website
-    url: https://lyrawellbeing.help
+
+    # Additional International Domains
+  - name: United Arab Emirates Website
+    url: https://lyrawellbeing.ae
+    maxResponseTime: 3000
+
+  - name: Argentina Website
+    url: https://lyrawellbeing.ar
+    maxResponseTime: 3000
+
+  - name: Austria Website
+    url: https://lyrawellbeing.at
+    maxResponseTime: 3000
+
+  - name: Canada Website
+    url: https://lyrawellbeing.ca
+    maxResponseTime: 3000
+
+  - name: Kenya Website
+    url: https://lyrawellbeing.co.ke
+    maxResponseTime: 3000
+
+  - name: South Africa Website
+    url: https://lyrawellbeing.co.za
+    maxResponseTime: 3000
+
+  - name: Mexico Website
+    url: https://lyrawellbeing.com.mx
+    maxResponseTime: 3000
+
+  - name: Spain Website
+    url: https://lyrawellbeing.es
+    maxResponseTime: 3000
+
+  - name: Hungary Website
+    url: https://lyrawellbeing.hu
+    maxResponseTime: 3000
+
+  - name: India Website
+    url: https://lyrawellbeing.in
+    maxResponseTime: 3000
+
+  - name: Italy Website
+    url: https://lyrawellbeing.it
+    maxResponseTime: 3000
+
+  - name: Luxembourg Website
+    url: https://lyrawellbeing.lu
+    maxResponseTime: 3000
+
+  - name: Malaysia Website
+    url: https://lyrawellbeing.my
+    maxResponseTime: 3000
+
+  - name: Netherlands Website
+    url: https://lyrawellbeing.nl
+    maxResponseTime: 3000
+
+  - name: Portugal Website
+    url: https://lyrawellbeing.pt
+    maxResponseTime: 3000
+
+  - name: Singapore Website
+    url: https://lyrawellbeing.sg
+    maxResponseTime: 3000
+
+  - name: United Kingdom Website
+    url: https://lyrawellbeing.uk
     maxResponseTime: 3000
 
 status-website:
@@ -61,9 +125,6 @@ status-website:
   metaTags:
     - name: description
       content: "Live uptime and performance monitoring for Lyra Wellbeing’s services and integrations."
-  navbar:
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
