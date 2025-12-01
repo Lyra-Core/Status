@@ -8,6 +8,11 @@ sites:
     url: https://api.lyrawellbeing.health/status-0123456789abcdef
     maxResponseTime: 3000  
 
+# Main sites
+  - name: TestShouldFail
+    url: https://app222.lyrawellbeing.health
+    maxResponseTime: 3000
+
   # Main sites
   - name: Hub
     url: https://app.lyrawellbeing.health
