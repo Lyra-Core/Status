@@ -364,18 +364,20 @@
     "url": "https://lyrawellbeing.pt",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.pt.ico",
     "slug": "portugal-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 984,
-    "timeDay": 984,
-    "timeWeek": 984,
-    "timeMonth": 984,
-    "timeYear": 984,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 944,
+    "timeDay": 944,
+    "timeWeek": 944,
+    "timeMonth": 944,
+    "timeYear": 944,
+    "dailyMinutesDown": {
+      "2025-12-02": 0
+    }
   },
   {
     "name": "Schweiz Website",
@@ -391,7 +393,7 @@
     "time": 13301,
     "timeDay": 1935,
     "timeWeek": 1951,
-    "timeMonth": 10090,
+    "timeMonth": 9675,
     "timeYear": 13301,
     "dailyMinutesDown": {}
   },
