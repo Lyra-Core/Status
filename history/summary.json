@@ -184,18 +184,20 @@
     "url": "https://lyrawellbeing.de",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.de.ico",
     "slug": "germany-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2335,
-    "timeDay": 1947,
-    "timeWeek": 2107,
-    "timeMonth": 2099,
-    "timeYear": 2335,
-    "dailyMinutesDown": {}
+    "time": 2559,
+    "timeDay": 8857,
+    "timeWeek": 6660,
+    "timeMonth": 2479,
+    "timeYear": 2559,
+    "dailyMinutesDown": {
+      "2025-12-10": 0
+    }
   },
   {
     "name": "Hungary Website",
