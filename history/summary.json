@@ -94,9 +94,9 @@
     "url": "https://lyrawellbeing.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 3641,
     "timeMonth": 3002,
     "timeYear": 3002,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-10": 0
+    }
   },
   {
     "name": "Austria Website",
@@ -367,19 +369,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.pt.ico",
     "slug": "portugal-website",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 926,
     "timeDay": 856,
     "timeWeek": 835,
     "timeMonth": 926,
     "timeYear": 926,
-    "dailyMinutesDown": {
-      "2025-12-10": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Schweiz Website",
