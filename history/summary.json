@@ -94,18 +94,20 @@
     "url": "https://lyrawellbeing.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 3057,
     "timeDay": 4313,
     "timeWeek": 3979,
     "timeMonth": 3057,
     "timeYear": 3057,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-10": 1
+    }
   },
   {
     "name": "Austria Website",
@@ -230,7 +232,7 @@
     "uptimeYear": "100.00%",
     "time": 434,
     "timeDay": 1082,
-    "timeWeek": 903,
+    "timeWeek": 986,
     "timeMonth": 434,
     "timeYear": 434,
     "dailyMinutesDown": {}
@@ -374,7 +376,7 @@
     "uptimeYear": "100.00%",
     "time": 935,
     "timeDay": 893,
-    "timeWeek": 903,
+    "timeWeek": 833,
     "timeMonth": 935,
     "timeYear": 935,
     "dailyMinutesDown": {}
@@ -385,19 +387,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 13153,
     "timeDay": 10451,
     "timeWeek": 8335,
     "timeMonth": 2760,
     "timeYear": 13153,
-    "dailyMinutesDown": {
-      "2025-12-10": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Singapore Website",
