@@ -330,9 +330,9 @@
     "url": "https://lyrawellbeing.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.com.mx.ico",
     "slug": "mexico-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -341,7 +341,9 @@
     "timeWeek": 153,
     "timeMonth": 137,
     "timeYear": 137,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-12": 0
+    }
   },
   {
     "name": "Netherlands Website",
@@ -367,11 +369,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.pt.ico",
     "slug": "portugal-website",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "97.86%",
     "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 1480,
     "timeDay": 2963,
     "timeWeek": 2078,
@@ -393,7 +395,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 12959,
-    "timeDay": 3150,
+    "timeDay": 2384,
     "timeWeek": 5594,
     "timeMonth": 2817,
     "timeYear": 12959,
