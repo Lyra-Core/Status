@@ -295,18 +295,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
     "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.82%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 2301,
     "timeDay": 4680,
     "timeWeek": 2619,
     "timeMonth": 2301,
     "timeYear": 2301,
     "dailyMinutesDown": {
-      "2025-12-13": 0
+      "2025-12-13": 32
     }
   },
   {
@@ -370,18 +370,19 @@
     "url": "https://lyrawellbeing.pt",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.pt.ico",
     "slug": "portugal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 1264,
-    "timeDay": 866,
-    "timeWeek": 1437,
-    "timeMonth": 1264,
-    "timeYear": 1264,
+    "time": 1250,
+    "timeDay": 827,
+    "timeWeek": 1410,
+    "timeMonth": 1250,
+    "timeYear": 1250,
     "dailyMinutesDown": {
+      "2025-12-13": 0,
       "2025-12-12": 31
     }
   },
