@@ -535,14 +535,14 @@
     "url": "https://lyrawellbeing.pt",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.pt.ico",
     "slug": "portugal-website",
-    "status": "down",
-    "uptime": "98.74%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "97.75%",
-    "uptimeYear": "98.74%",
+    "status": "up",
+    "uptime": "98.73%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "98.73%",
     "time": 832,
-    "timeDay": 583,
+    "timeDay": 639,
     "timeWeek": 753,
     "timeMonth": 740,
     "timeYear": 832,
@@ -591,7 +591,7 @@
       "2026-05-23": 24,
       "2026-05-25": 68,
       "2026-05-26": 72,
-      "2026-05-28": 41
+      "2026-05-28": 55
     }
   },
   {
