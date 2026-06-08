@@ -87,11 +87,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/salesiq.zoho.eu.ico",
     "slug": "zoho",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.78%",
     "time": 1533,
     "timeDay": 1142,
     "timeWeek": 1387,
@@ -546,9 +546,9 @@
     "slug": "portugal-website",
     "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "65.16%",
-    "uptimeWeek": "76.92%",
-    "uptimeMonth": "92.84%",
+    "uptimeDay": "63.70%",
+    "uptimeWeek": "76.72%",
+    "uptimeMonth": "92.79%",
     "uptimeYear": "98.25%",
     "time": 822,
     "timeDay": 651,
@@ -597,7 +597,7 @@
       "2026-06-04": 282,
       "2026-06-05": 287,
       "2026-06-07": 501,
-      "2026-06-08": 1
+      "2026-06-08": 21
     }
   },
   {
