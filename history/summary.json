@@ -13,7 +13,7 @@
     "time": 257,
     "timeDay": 164,
     "timeWeek": 202,
-    "timeMonth": 289,
+    "timeMonth": 292,
     "timeYear": 257,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 580,
     "timeDay": 632,
     "timeWeek": 643,
-    "timeMonth": 562,
+    "timeMonth": 559,
     "timeYear": 580,
     "dailyMinutesDown": {
       "2026-03-09": 22
@@ -51,7 +51,7 @@
     "time": 682,
     "timeDay": 833,
     "timeWeek": 737,
-    "timeMonth": 673,
+    "timeMonth": 669,
     "timeYear": 682,
     "dailyMinutesDown": {}
   },
@@ -69,7 +69,7 @@
     "time": 2267,
     "timeDay": 2557,
     "timeWeek": 2578,
-    "timeMonth": 2558,
+    "timeMonth": 2561,
     "timeYear": 2267,
     "dailyMinutesDown": {
       "2026-01-15": 39,
@@ -96,7 +96,7 @@
     "time": 1529,
     "timeDay": 1395,
     "timeWeek": 1394,
-    "timeMonth": 1406,
+    "timeMonth": 1401,
     "timeYear": 1529,
     "dailyMinutesDown": {
       "2026-02-12": 18,
@@ -122,7 +122,7 @@
     "time": 3419,
     "timeDay": 2487,
     "timeWeek": 3631,
-    "timeMonth": 3928,
+    "timeMonth": 3958,
     "timeYear": 3419,
     "dailyMinutesDown": {
       "2025-12-17": 21,
@@ -180,7 +180,7 @@
     "time": 273,
     "timeDay": 275,
     "timeWeek": 241,
-    "timeMonth": 271,
+    "timeMonth": 235,
     "timeYear": 273,
     "dailyMinutesDown": {}
   },
@@ -198,7 +198,7 @@
     "time": 1254,
     "timeDay": 1423,
     "timeWeek": 1220,
-    "timeMonth": 1212,
+    "timeMonth": 1205,
     "timeYear": 1254,
     "dailyMinutesDown": {
       "2026-01-08": 84,
@@ -221,7 +221,7 @@
     "time": 443,
     "timeDay": 704,
     "timeWeek": 608,
-    "timeMonth": 567,
+    "timeMonth": 559,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2026-01-06": 657,
@@ -259,7 +259,7 @@
     "time": 2386,
     "timeDay": 2710,
     "timeWeek": 2600,
-    "timeMonth": 2523,
+    "timeMonth": 2520,
     "timeYear": 2386,
     "dailyMinutesDown": {
       "2025-12-10": 15,
@@ -294,7 +294,7 @@
     "time": 2706,
     "timeDay": 2630,
     "timeWeek": 2333,
-    "timeMonth": 2316,
+    "timeMonth": 2318,
     "timeYear": 2706,
     "dailyMinutesDown": {
       "2026-01-29": 20,
@@ -327,7 +327,7 @@
     "time": 1143,
     "timeDay": 1313,
     "timeWeek": 1188,
-    "timeMonth": 1125,
+    "timeMonth": 1123,
     "timeYear": 1143,
     "dailyMinutesDown": {
       "2026-01-23": 16
@@ -347,7 +347,7 @@
     "time": 1117,
     "timeDay": 1293,
     "timeWeek": 1205,
-    "timeMonth": 1146,
+    "timeMonth": 1141,
     "timeYear": 1117,
     "dailyMinutesDown": {}
   },
@@ -365,7 +365,7 @@
     "time": 1216,
     "timeDay": 1359,
     "timeWeek": 1242,
-    "timeMonth": 1180,
+    "timeMonth": 1174,
     "timeYear": 1216,
     "dailyMinutesDown": {
       "2026-02-04": 18,
@@ -386,7 +386,7 @@
     "time": 2462,
     "timeDay": 2524,
     "timeWeek": 2348,
-    "timeMonth": 2656,
+    "timeMonth": 2652,
     "timeYear": 2462,
     "dailyMinutesDown": {
       "2026-01-15": 20,
@@ -414,16 +414,16 @@
     "url": "https://lyrawellbeing.co.ke",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.co.ke.ico",
     "slug": "kenya-website",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.92%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "95.20%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.91%",
     "time": 763,
-    "timeDay": 1904,
-    "timeWeek": 1001,
-    "timeMonth": 843,
+    "timeDay": 1525,
+    "timeWeek": 978,
+    "timeMonth": 849,
     "timeYear": 763,
     "dailyMinutesDown": {
       "2026-02-05": 20,
@@ -431,7 +431,7 @@
       "2026-03-25": 59,
       "2026-05-10": 25,
       "2026-06-10": 61,
-      "2026-06-16": 44
+      "2026-06-16": 69
     }
   },
   {
@@ -506,7 +506,7 @@
     "time": 1431,
     "timeDay": 1612,
     "timeWeek": 1434,
-    "timeMonth": 1378,
+    "timeMonth": 1372,
     "timeYear": 1431,
     "dailyMinutesDown": {}
   },
@@ -524,7 +524,7 @@
     "time": 1346,
     "timeDay": 1637,
     "timeWeek": 1534,
-    "timeMonth": 1438,
+    "timeMonth": 1425,
     "timeYear": 1346,
     "dailyMinutesDown": {
       "2025-12-12": 153,
@@ -545,7 +545,7 @@
     "time": 590,
     "timeDay": 330,
     "timeWeek": 407,
-    "timeMonth": 436,
+    "timeMonth": 426,
     "timeYear": 590,
     "dailyMinutesDown": {}
   },
@@ -554,17 +554,17 @@
     "url": "https://lyrawellbeing.pt",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.pt.ico",
     "slug": "portugal-website",
-    "status": "down",
-    "uptime": "97.64%",
-    "uptimeDay": "61.56%",
-    "uptimeWeek": "77.83%",
-    "uptimeMonth": "87.00%",
-    "uptimeYear": "97.64%",
-    "time": 813,
-    "timeDay": 760,
-    "timeWeek": 696,
+    "status": "up",
+    "uptime": "97.63%",
+    "uptimeDay": "61.61%",
+    "uptimeWeek": "77.58%",
+    "uptimeMonth": "86.94%",
+    "uptimeYear": "97.63%",
+    "time": 814,
+    "timeDay": 783,
+    "timeWeek": 702,
     "timeMonth": 690,
-    "timeYear": 813,
+    "timeYear": 814,
     "dailyMinutesDown": {
       "2026-04-22": 88,
       "2026-04-23": 26,
@@ -605,7 +605,7 @@
       "2026-06-13": 109,
       "2026-06-14": 486,
       "2026-06-15": 244,
-      "2026-06-16": 521
+      "2026-06-16": 546
     }
   },
   {
@@ -700,7 +700,7 @@
     "time": 1817,
     "timeDay": 1478,
     "timeWeek": 1626,
-    "timeMonth": 1735,
+    "timeMonth": 1737,
     "timeYear": 1817,
     "dailyMinutesDown": {}
   },
@@ -718,7 +718,7 @@
     "time": 1279,
     "timeDay": 1350,
     "timeWeek": 1392,
-    "timeMonth": 1348,
+    "timeMonth": 1350,
     "timeYear": 1279,
     "dailyMinutesDown": {
       "2026-05-31": 33
@@ -738,7 +738,7 @@
     "time": 961,
     "timeDay": 1070,
     "timeWeek": 977,
-    "timeMonth": 931,
+    "timeMonth": 927,
     "timeYear": 961,
     "dailyMinutesDown": {}
   },
@@ -756,7 +756,7 @@
     "time": 1256,
     "timeDay": 1651,
     "timeWeek": 1499,
-    "timeMonth": 1410,
+    "timeMonth": 1399,
     "timeYear": 1256,
     "dailyMinutesDown": {
       "2026-05-16": 21
@@ -776,7 +776,7 @@
     "time": 247,
     "timeDay": 176,
     "timeWeek": 177,
-    "timeMonth": 217,
+    "timeMonth": 211,
     "timeYear": 247,
     "dailyMinutesDown": {}
   }
