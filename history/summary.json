@@ -114,11 +114,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.41%",
     "uptimeMonth": "98.61%",
-    "uptimeYear": "99.30%",
+    "uptimeYear": "99.31%",
     "time": 3414,
     "timeDay": 2361,
     "timeWeek": 3708,
@@ -416,7 +416,7 @@
     "slug": "kenya-website",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "94.72%",
+    "uptimeDay": "99.89%",
     "uptimeWeek": "98.56%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.88%",
@@ -555,19 +555,18 @@
     "url": "https://lyrawellbeing.pt",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.pt.ico",
     "slug": "portugal-website",
-    "status": "up",
-    "uptime": "97.58%",
-    "uptimeDay": "87.63%",
-    "uptimeWeek": "74.59%",
+    "status": "down",
+    "uptime": "97.60%",
+    "uptimeDay": "92.71%",
+    "uptimeWeek": "74.58%",
     "uptimeMonth": "86.30%",
-    "uptimeYear": "97.58%",
+    "uptimeYear": "97.60%",
     "time": 813,
-    "timeDay": 792,
-    "timeWeek": 691,
-    "timeMonth": 693,
+    "timeDay": 780,
+    "timeWeek": 684,
+    "timeMonth": 691,
     "timeYear": 813,
     "dailyMinutesDown": {
-      "2026-04-24": 57,
       "2026-04-25": 35,
       "2026-04-26": 199,
       "2026-04-28": 47,
@@ -606,7 +605,7 @@
       "2026-06-15": 244,
       "2026-06-16": 576,
       "2026-06-17": 216,
-      "2026-06-18": 56
+      "2026-06-18": 57
     }
   },
   {
@@ -748,10 +747,10 @@
     "url": "https://lyrawellbeing.ae",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ae.ico",
     "slug": "united-arab-emirates-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1260,
@@ -760,7 +759,8 @@
     "timeMonth": 1420,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2026-05-16": 21
+      "2026-05-16": 21,
+      "2026-06-18": 1
     }
   },
   {
