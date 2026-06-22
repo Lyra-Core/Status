@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 257,
     "timeDay": 234,
-    "timeWeek": 233,
+    "timeWeek": 243,
     "timeMonth": 283,
     "timeYear": 257,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "99.99%",
     "time": 581,
     "timeDay": 722,
-    "timeWeek": 619,
+    "timeWeek": 617,
     "timeMonth": 596,
     "timeYear": 581,
     "dailyMinutesDown": {
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 684,
     "timeDay": 881,
-    "timeWeek": 775,
+    "timeWeek": 766,
     "timeMonth": 716,
     "timeYear": 684,
     "dailyMinutesDown": {}
@@ -68,7 +68,7 @@
     "uptimeYear": "99.90%",
     "time": 2275,
     "timeDay": 2564,
-    "timeWeek": 2511,
+    "timeWeek": 2505,
     "timeMonth": 2647,
     "timeYear": 2275,
     "dailyMinutesDown": {
@@ -95,7 +95,7 @@
     "uptimeYear": "99.79%",
     "time": 1528,
     "timeDay": 1600,
-    "timeWeek": 1483,
+    "timeWeek": 1495,
     "timeMonth": 1447,
     "timeYear": 1528,
     "dailyMinutesDown": {
@@ -121,7 +121,7 @@
     "uptimeYear": "99.23%",
     "time": 3406,
     "timeDay": 2945,
-    "timeWeek": 2952,
+    "timeWeek": 2988,
     "timeMonth": 3883,
     "timeYear": 3406,
     "dailyMinutesDown": {
@@ -181,7 +181,7 @@
     "uptimeYear": "100.00%",
     "time": 272,
     "timeDay": 334,
-    "timeWeek": 252,
+    "timeWeek": 249,
     "timeMonth": 251,
     "timeYear": 272,
     "dailyMinutesDown": {}
@@ -199,7 +199,7 @@
     "uptimeYear": "99.94%",
     "time": 1257,
     "timeDay": 1389,
-    "timeWeek": 1342,
+    "timeWeek": 1331,
     "timeMonth": 1242,
     "timeYear": 1257,
     "dailyMinutesDown": {
@@ -222,7 +222,7 @@
     "uptimeYear": "91.39%",
     "time": 449,
     "timeDay": 773,
-    "timeWeek": 622,
+    "timeWeek": 610,
     "timeMonth": 587,
     "timeYear": 449,
     "dailyMinutesDown": {
@@ -260,7 +260,7 @@
     "uptimeYear": "99.85%",
     "time": 2385,
     "timeDay": 2811,
-    "timeWeek": 2406,
+    "timeWeek": 2363,
     "timeMonth": 2528,
     "timeYear": 2385,
     "dailyMinutesDown": {
@@ -295,7 +295,7 @@
     "uptimeYear": "99.46%",
     "time": 2695,
     "timeDay": 2455,
-    "timeWeek": 2223,
+    "timeWeek": 2165,
     "timeMonth": 2360,
     "timeYear": 2695,
     "dailyMinutesDown": {
@@ -328,7 +328,7 @@
     "uptimeYear": "99.99%",
     "time": 1144,
     "timeDay": 1360,
-    "timeWeek": 1193,
+    "timeWeek": 1176,
     "timeMonth": 1158,
     "timeYear": 1144,
     "dailyMinutesDown": {
@@ -348,7 +348,7 @@
     "uptimeYear": "100.00%",
     "time": 1121,
     "timeDay": 1599,
-    "timeWeek": 1229,
+    "timeWeek": 1220,
     "timeMonth": 1177,
     "timeYear": 1121,
     "dailyMinutesDown": {}
@@ -366,7 +366,7 @@
     "uptimeYear": "99.99%",
     "time": 1220,
     "timeDay": 2101,
-    "timeWeek": 1351,
+    "timeWeek": 1350,
     "timeMonth": 1234,
     "timeYear": 1220,
     "dailyMinutesDown": {
@@ -387,7 +387,7 @@
     "uptimeYear": "99.64%",
     "time": 2457,
     "timeDay": 2505,
-    "timeWeek": 2316,
+    "timeWeek": 2286,
     "timeMonth": 2537,
     "timeYear": 2457,
     "dailyMinutesDown": {
@@ -424,7 +424,7 @@
     "uptimeYear": "99.89%",
     "time": 762,
     "timeDay": 774,
-    "timeWeek": 948,
+    "timeWeek": 962,
     "timeMonth": 848,
     "timeYear": 762,
     "dailyMinutesDown": {
@@ -450,7 +450,7 @@
     "uptimeYear": "91.27%",
     "time": 3103,
     "timeDay": 2579,
-    "timeWeek": 2441,
+    "timeWeek": 2453,
     "timeMonth": 2382,
     "timeYear": 3103,
     "dailyMinutesDown": {
@@ -509,7 +509,7 @@
     "uptimeYear": "100.00%",
     "time": 1432,
     "timeDay": 1673,
-    "timeWeek": 1470,
+    "timeWeek": 1450,
     "timeMonth": 1418,
     "timeYear": 1432,
     "dailyMinutesDown": {}
@@ -527,7 +527,7 @@
     "uptimeYear": "99.92%",
     "time": 1351,
     "timeDay": 1787,
-    "timeWeek": 1530,
+    "timeWeek": 1515,
     "timeMonth": 1454,
     "timeYear": 1351,
     "dailyMinutesDown": {
@@ -559,14 +559,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.pt.ico",
     "slug": "portugal-website",
     "status": "down",
-    "uptime": "97.48%",
-    "uptimeDay": "86.64%",
-    "uptimeWeek": "81.61%",
-    "uptimeMonth": "84.44%",
-    "uptimeYear": "97.48%",
+    "uptime": "97.47%",
+    "uptimeDay": "84.95%",
+    "uptimeWeek": "81.37%",
+    "uptimeMonth": "84.38%",
+    "uptimeYear": "97.47%",
     "time": 808,
     "timeDay": 632,
-    "timeWeek": 699,
+    "timeWeek": 692,
     "timeMonth": 687,
     "timeYear": 808,
     "dailyMinutesDown": {
@@ -602,7 +602,7 @@
       "2026-06-19": 98,
       "2026-06-20": 196,
       "2026-06-21": 237,
-      "2026-06-22": 192
+      "2026-06-22": 216
     }
   },
   {
@@ -610,17 +610,17 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "degraded",
-    "uptime": "98.21%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "96.95%",
-    "uptimeYear": "98.21%",
-    "time": 6405,
-    "timeDay": 3477,
-    "timeWeek": 2878,
+    "status": "up",
+    "uptime": "98.20%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "96.90%",
+    "uptimeYear": "98.20%",
+    "time": 6400,
+    "timeDay": 3224,
+    "timeWeek": 2876,
     "timeMonth": 2923,
-    "timeYear": 6405,
+    "timeYear": 6400,
     "dailyMinutesDown": {
       "2026-03-20": 24,
       "2026-03-23": 19,
@@ -680,7 +680,7 @@
       "2026-06-11": 138,
       "2026-06-12": 229,
       "2026-06-13": 89,
-      "2026-06-22": 1
+      "2026-06-22": 24
     }
   },
   {
@@ -696,7 +696,7 @@
     "uptimeYear": "100.00%",
     "time": 1811,
     "timeDay": 1536,
-    "timeWeek": 1624,
+    "timeWeek": 1645,
     "timeMonth": 1685,
     "timeYear": 1811,
     "dailyMinutesDown": {}
@@ -714,7 +714,7 @@
     "uptimeYear": "99.98%",
     "time": 1302,
     "timeDay": 1626,
-    "timeWeek": 1805,
+    "timeWeek": 1861,
     "timeMonth": 1509,
     "timeYear": 1302,
     "dailyMinutesDown": {
@@ -735,7 +735,7 @@
     "uptimeYear": "100.00%",
     "time": 963,
     "timeDay": 1177,
-    "timeWeek": 1008,
+    "timeWeek": 999,
     "timeMonth": 953,
     "timeYear": 963,
     "dailyMinutesDown": {}
@@ -753,7 +753,7 @@
     "uptimeYear": "99.96%",
     "time": 1265,
     "timeDay": 1778,
-    "timeWeek": 1507,
+    "timeWeek": 1489,
     "timeMonth": 1449,
     "timeYear": 1265,
     "dailyMinutesDown": {
@@ -774,7 +774,7 @@
     "uptimeYear": "100.00%",
     "time": 245,
     "timeDay": 217,
-    "timeWeek": 210,
+    "timeWeek": 215,
     "timeMonth": 215,
     "timeYear": 245,
     "dailyMinutesDown": {}
