@@ -309,11 +309,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.de.ico",
     "slug": "germany-website",
     "status": "down",
-    "uptime": "99.12%",
-    "uptimeDay": "2.01%",
-    "uptimeWeek": "86.00%",
-    "uptimeMonth": "96.48%",
-    "uptimeYear": "99.12%",
+    "uptime": "99.11%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.60%",
+    "uptimeMonth": "96.39%",
+    "uptimeYear": "99.11%",
     "time": 2658,
     "timeDay": 0,
     "timeWeek": 2027,
@@ -338,7 +338,8 @@
       "2026-06-27": 24,
       "2026-07-01": 95,
       "2026-07-15": 35,
-      "2026-07-29": 1411
+      "2026-07-30": 22,
+      "2026-07-29": 1429
     }
   },
   {
