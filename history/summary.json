@@ -755,21 +755,21 @@
     "url": "https://lyrawellbeing.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.co.za.ico",
     "slug": "south-africa-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 1331,
-    "timeDay": 5702,
-    "timeWeek": 2383,
-    "timeMonth": 1574,
+    "timeDay": 4243,
+    "timeWeek": 2266,
+    "timeMonth": 1566,
     "timeYear": 1331,
     "dailyMinutesDown": {
       "2026-05-31": 33,
       "2026-06-20": 26,
-      "2026-08-11": 1
+      "2026-08-11": 25
     }
   },
   {
