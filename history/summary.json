@@ -118,16 +118,17 @@
     "slug": "argentina-website",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "89.21%",
-    "uptimeWeek": "95.22%",
-    "uptimeMonth": "97.24%",
+    "uptimeDay": "89.95%",
+    "uptimeWeek": "95.32%",
+    "uptimeMonth": "97.26%",
     "uptimeYear": "99.00%",
     "time": 3448,
     "timeDay": 2891,
-    "timeWeek": 3937,
+    "timeWeek": 3949,
     "timeMonth": 3768,
     "timeYear": 3448,
     "dailyMinutesDown": {
+      "2026-01-10": 41,
       "2026-01-14": 113,
       "2026-01-15": 191,
       "2026-01-16": 15,
@@ -190,7 +191,7 @@
       "2026-08-17": 132,
       "2026-08-18": 40,
       "2026-08-19": 53,
-      "2026-08-21": 157
+      "2026-08-21": 146
     }
   },
   {
