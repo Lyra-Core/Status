@@ -406,9 +406,9 @@
     "slug": "international-website",
     "status": "degraded",
     "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 1302,
     "timeDay": 5755,
@@ -419,6 +419,7 @@
       "2026-02-04": 18,
       "2026-02-21": 19,
       "2026-08-06": 52,
+      "2026-08-25": 6,
       "2026-08-24": 1
     }
   },
