@@ -1,7 +1,7 @@
 url: https://lyrawellbeing.ar
-status: degraded
-code: 200
-responseTime: 3191
-lastUpdated: 2026-08-28T23:03:53.194Z
+status: down
+code: 500
+responseTime: 1776
+lastUpdated: 2026-08-28T23:42:32.250Z
 startTime: 2025-12-01T11:08:35.950Z
 generator: Upptime <https://github.com/upptime/upptime>
