@@ -320,7 +320,7 @@
     "uptime": "98.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.35%",
+    "uptimeMonth": "93.37%",
     "uptimeYear": "98.71%",
     "time": 2728,
     "timeDay": 1824,
@@ -743,19 +743,19 @@
     "url": "https://lyrawellbeing.sg",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.sg.ico",
     "slug": "singapore-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1810,
-    "timeDay": 3973,
-    "timeWeek": 2371,
-    "timeMonth": 1894,
+    "timeDay": 3241,
+    "timeWeek": 2305,
+    "timeMonth": 1891,
     "timeYear": 1810,
     "dailyMinutesDown": {
-      "2026-08-29": 1
+      "2026-08-29": 5
     }
   },
   {
