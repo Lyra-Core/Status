@@ -321,7 +321,7 @@
     "uptime": "98.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.27%",
+    "uptimeMonth": "96.28%",
     "uptimeYear": "98.71%",
     "time": 2726,
     "timeDay": 1826,
@@ -785,19 +785,19 @@
     "url": "https://lyrawellbeing.es",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.es.ico",
     "slug": "spain-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 971,
-    "timeDay": 2207,
-    "timeWeek": 1185,
-    "timeMonth": 1044,
-    "timeYear": 971,
+    "time": 970,
+    "timeDay": 1763,
+    "timeWeek": 1150,
+    "timeMonth": 1039,
+    "timeYear": 970,
     "dailyMinutesDown": {
-      "2026-08-30": 1
+      "2026-08-30": 5
     }
   },
   {
