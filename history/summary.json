@@ -399,16 +399,16 @@
     "url": "https://lyrahealthinternational.com",
     "icon": "https://icons.duckduckgo.com/ip3/lyrahealthinternational.com.ico",
     "slug": "international-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.97%",
     "time": 1354,
-    "timeDay": 6501,
-    "timeWeek": 2983,
-    "timeMonth": 2286,
+    "timeDay": 4774,
+    "timeWeek": 2832,
+    "timeMonth": 2263,
     "timeYear": 1354,
     "dailyMinutesDown": {
       "2026-02-04": 18,
@@ -416,7 +416,7 @@
       "2026-08-06": 52,
       "2026-08-25": 20,
       "2026-08-24": 1,
-      "2026-09-01": 1
+      "2026-09-01": 8
     }
   },
   {
@@ -471,7 +471,7 @@
     "uptime": "99.84%",
     "uptimeDay": "97.94%",
     "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.84%",
     "time": 777,
     "timeDay": 627,
