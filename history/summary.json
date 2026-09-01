@@ -117,17 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
     "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "93.16%",
-    "uptimeWeek": "89.04%",
-    "uptimeMonth": "95.17%",
-    "uptimeYear": "98.94%",
+    "uptime": "98.93%",
+    "uptimeDay": "93.70%",
+    "uptimeWeek": "89.12%",
+    "uptimeMonth": "95.19%",
+    "uptimeYear": "98.93%",
     "time": 3414,
-    "timeDay": 3121,
+    "timeDay": 3071,
     "timeWeek": 3226,
     "timeMonth": 3601,
     "timeYear": 3414,
     "dailyMinutesDown": {
+      "2026-05-04": 51,
       "2026-05-06": 40,
       "2026-05-07": 31,
       "2026-05-09": 19,
@@ -185,7 +186,7 @@
       "2026-08-28": 324,
       "2026-08-29": 81,
       "2026-08-31": 112,
-      "2026-09-01": 38
+      "2026-09-01": 30
     }
   },
   {
@@ -496,16 +497,16 @@
     "url": "https://lyrawellbeing.lu",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "93.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "93.43%",
     "time": 2975,
-    "timeDay": 2863,
-    "timeWeek": 2656,
-    "timeMonth": 2710,
+    "timeDay": 2892,
+    "timeWeek": 2688,
+    "timeMonth": 2714,
     "timeYear": 2975,
     "dailyMinutesDown": {
       "2025-12-14": 280,
@@ -556,7 +557,8 @@
       "2026-08-09": 22,
       "2026-08-12": 22,
       "2026-08-13": 33,
-      "2026-08-15": 15
+      "2026-08-15": 15,
+      "2026-09-01": 1
     }
   },
   {
@@ -672,12 +674,12 @@
     "status": "up",
     "uptime": "98.59%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "98.34%",
     "uptimeYear": "98.59%",
     "time": 5734,
     "timeDay": 2207,
-    "timeWeek": 2905,
+    "timeWeek": 2889,
     "timeMonth": 3172,
     "timeYear": 5734,
     "dailyMinutesDown": {
