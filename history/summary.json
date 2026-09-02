@@ -783,19 +783,19 @@
     "url": "https://lyrawellbeing.es",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.es.ico",
     "slug": "spain-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1011,
-    "timeDay": 3589,
-    "timeWeek": 2065,
-    "timeMonth": 1349,
-    "timeYear": 1011,
+    "time": 1012,
+    "timeDay": 2762,
+    "timeWeek": 1991,
+    "timeMonth": 1343,
+    "timeYear": 1012,
     "dailyMinutesDown": {
-      "2026-09-02": 1
+      "2026-09-02": 5
     }
   },
   {
