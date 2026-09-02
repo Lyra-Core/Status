@@ -119,12 +119,12 @@
     "status": "up",
     "uptime": "98.94%",
     "uptimeDay": "93.72%",
-    "uptimeWeek": "88.18%",
+    "uptimeWeek": "88.25%",
     "uptimeMonth": "94.98%",
     "uptimeYear": "98.94%",
     "time": 3402,
     "timeDay": 2983,
-    "timeWeek": 3167,
+    "timeWeek": 3168,
     "timeMonth": 3558,
     "timeYear": 3402,
     "dailyMinutesDown": {
@@ -208,22 +208,23 @@
     "url": "https://lyra-wellbeing.be/",
     "icon": "https://icons.duckduckgo.com/ip3/lyra-wellbeing.be.ico",
     "slug": "belgium-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1246,
-    "timeDay": 1336,
-    "timeWeek": 1164,
-    "timeMonth": 1173,
-    "timeYear": 1246,
+    "time": 1282,
+    "timeDay": 6294,
+    "timeWeek": 2425,
+    "timeMonth": 1488,
+    "timeYear": 1282,
     "dailyMinutesDown": {
       "2026-01-08": 84,
       "2026-02-25": 16,
       "2026-03-19": 21,
-      "2026-05-10": 42
+      "2026-05-10": 42,
+      "2026-09-02": 1
     }
   },
   {
@@ -785,18 +786,16 @@
     "slug": "spain-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1012,
     "timeDay": 2762,
     "timeWeek": 1991,
     "timeMonth": 1343,
     "timeYear": 1012,
-    "dailyMinutesDown": {
-      "2026-09-02": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "United Arab Emirates Website",
