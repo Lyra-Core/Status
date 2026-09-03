@@ -60,16 +60,16 @@
     "url": "https://lyrawellbeing.help/",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.help.ico",
     "slug": "schweiz-chat",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.91%",
     "time": 2332,
-    "timeDay": 2915,
-    "timeWeek": 2598,
-    "timeMonth": 2590,
+    "timeDay": 2741,
+    "timeWeek": 2582,
+    "timeMonth": 2586,
     "timeYear": 2332,
     "dailyMinutesDown": {
       "2026-01-15": 39,
@@ -83,7 +83,7 @@
       "2026-08-05": 27,
       "2026-08-09": 24,
       "2026-08-12": 19,
-      "2026-09-03": 2
+      "2026-09-03": 5
     }
   },
   {
@@ -117,16 +117,16 @@
     "url": "https://lyrawellbeing.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "92.18%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "92.15%",
     "uptimeMonth": "94.84%",
     "uptimeYear": "98.98%",
     "time": 3423,
-    "timeDay": 3041,
-    "timeWeek": 3337,
-    "timeMonth": 3600,
+    "timeDay": 3030,
+    "timeWeek": 3334,
+    "timeMonth": 3598,
     "timeYear": 3423,
     "dailyMinutesDown": {
       "2026-06-04": 20,
@@ -181,7 +181,7 @@
       "2026-08-31": 112,
       "2026-09-01": 143,
       "2026-09-02": 68,
-      "2026-09-03": 18
+      "2026-09-03": 21
     }
   },
   {
@@ -269,16 +269,16 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.84%",
     "time": 2454,
-    "timeDay": 2766,
-    "timeWeek": 2849,
-    "timeMonth": 2708,
+    "timeDay": 2644,
+    "timeWeek": 2827,
+    "timeMonth": 2703,
     "timeYear": 2454,
     "dailyMinutesDown": {
       "2025-12-10": 15,
@@ -304,7 +304,7 @@
       "2026-08-05": 25,
       "2026-08-20": 15,
       "2026-08-30": 15,
-      "2026-09-03": 2
+      "2026-09-03": 5
     }
   },
   {
@@ -494,17 +494,17 @@
     "url": "https://lyrawellbeing.lu",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "93.46%",
-    "uptimeDay": "92.13%",
-    "uptimeWeek": "98.70%",
+    "uptimeDay": "91.93%",
+    "uptimeWeek": "98.67%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "93.46%",
-    "time": 2979,
-    "timeDay": 2991,
-    "timeWeek": 2941,
-    "timeMonth": 2779,
-    "timeYear": 2979,
+    "time": 2977,
+    "timeDay": 2818,
+    "timeWeek": 2905,
+    "timeMonth": 2770,
+    "timeYear": 2977,
     "dailyMinutesDown": {
       "2025-12-14": 280,
       "2025-12-13": 43,
@@ -556,7 +556,7 @@
       "2026-08-13": 33,
       "2026-08-15": 15,
       "2026-09-01": 18,
-      "2026-09-03": 113
+      "2026-09-03": 116
     }
   },
   {
@@ -669,17 +669,17 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.62%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "98.62%",
-    "time": 5686,
-    "timeDay": 3562,
-    "timeWeek": 3139,
-    "timeMonth": 3076,
-    "timeYear": 5686,
+    "time": 5682,
+    "timeDay": 3376,
+    "timeWeek": 3120,
+    "timeMonth": 3073,
+    "timeYear": 5682,
     "dailyMinutesDown": {
       "2026-05-08": 159,
       "2026-05-09": 27,
@@ -735,7 +735,7 @@
       "2026-08-22": 37,
       "2026-08-25": 36,
       "2026-09-02": 23,
-      "2026-09-03": 18
+      "2026-09-03": 21
     }
   },
   {
