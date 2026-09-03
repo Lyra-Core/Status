@@ -420,17 +420,17 @@
     "url": "https://lyrawellbeing.it",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.it.ico",
     "slug": "italy-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.67%",
-    "time": 2463,
-    "timeDay": 2726,
-    "timeWeek": 2681,
-    "timeMonth": 2494,
-    "timeYear": 2463,
+    "time": 2462,
+    "timeDay": 2484,
+    "timeWeek": 2646,
+    "timeMonth": 2484,
+    "timeYear": 2462,
     "dailyMinutesDown": {
       "2026-01-15": 20,
       "2026-02-12": 23,
@@ -456,7 +456,7 @@
       "2026-08-05": 25,
       "2026-08-09": 60,
       "2026-08-14": 18,
-      "2026-09-03": 1
+      "2026-09-03": 5
     }
   },
   {
