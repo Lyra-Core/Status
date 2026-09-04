@@ -118,9 +118,9 @@
     "slug": "argentina-website",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "95.24%",
-    "uptimeMonth": "94.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "94.85%",
     "uptimeYear": "98.98%",
     "time": 3415,
     "timeDay": 3056,
@@ -128,6 +128,7 @@
     "timeMonth": 3575,
     "timeYear": 3415,
     "dailyMinutesDown": {
+      "2026-05-31": 34,
       "2026-06-04": 20,
       "2026-06-05": 82,
       "2026-06-07": 65,
@@ -180,8 +181,7 @@
       "2026-08-31": 112,
       "2026-09-01": 143,
       "2026-09-02": 68,
-      "2026-09-03": 16,
-      "2026-09-04": 5
+      "2026-09-03": 16
     }
   },
   {
@@ -495,12 +495,12 @@
     "slug": "luxembourg-website",
     "status": "up",
     "uptime": "93.48%",
-    "uptimeDay": "98.38%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.71%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "93.48%",
     "time": 2976,
-    "timeDay": 2671,
+    "timeDay": 2640,
     "timeWeek": 2912,
     "timeMonth": 2777,
     "timeYear": 2976,
@@ -785,18 +785,20 @@
     "url": "https://lyrawellbeing.es",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.es.ico",
     "slug": "spain-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1011,
-    "timeDay": 946,
-    "timeWeek": 2003,
-    "timeMonth": 1347,
-    "timeYear": 1011,
-    "dailyMinutesDown": {}
+    "time": 1025,
+    "timeDay": 2938,
+    "timeWeek": 2212,
+    "timeMonth": 1441,
+    "timeYear": 1025,
+    "dailyMinutesDown": {
+      "2026-09-04": 1
+    }
   },
   {
     "name": "United Arab Emirates Website",
