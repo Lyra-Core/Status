@@ -124,7 +124,7 @@
     "uptimeYear": "98.99%",
     "time": 3410,
     "timeDay": 2918,
-    "timeWeek": 3283,
+    "timeWeek": 3288,
     "timeMonth": 3564,
     "timeYear": 3410,
     "dailyMinutesDown": {
@@ -564,19 +564,19 @@
     "url": "https://lyrawellbeing.my",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.my.ico",
     "slug": "malaysia-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1521,
-    "timeDay": 15838,
-    "timeWeek": 4968,
-    "timeMonth": 2244,
-    "timeYear": 1521,
+    "time": 1520,
+    "timeDay": 10972,
+    "timeWeek": 4554,
+    "timeMonth": 2213,
+    "timeYear": 1520,
     "dailyMinutesDown": {
-      "2026-09-06": 1
+      "2026-09-06": 16
     }
   },
   {
