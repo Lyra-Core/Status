@@ -13,7 +13,7 @@
     "time": 260,
     "timeDay": 295,
     "timeWeek": 206,
-    "timeMonth": 213,
+    "timeMonth": 211,
     "timeYear": 260,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 578,
     "timeDay": 777,
     "timeWeek": 654,
-    "timeMonth": 574,
+    "timeMonth": 570,
     "timeYear": 578,
     "dailyMinutesDown": {
       "2026-03-09": 22
@@ -51,7 +51,7 @@
     "time": 682,
     "timeDay": 923,
     "timeWeek": 666,
-    "timeMonth": 626,
+    "timeMonth": 622,
     "timeYear": 682,
     "dailyMinutesDown": {}
   },
@@ -69,7 +69,7 @@
     "time": 2335,
     "timeDay": 2569,
     "timeWeek": 2697,
-    "timeMonth": 2592,
+    "timeMonth": 2595,
     "timeYear": 2335,
     "dailyMinutesDown": {
       "2026-01-15": 39,
@@ -99,7 +99,7 @@
     "time": 1474,
     "timeDay": 1472,
     "timeWeek": 1248,
-    "timeMonth": 1218,
+    "timeMonth": 1196,
     "timeYear": 1474,
     "dailyMinutesDown": {
       "2026-02-12": 18,
@@ -119,13 +119,13 @@
     "status": "up",
     "uptime": "98.99%",
     "uptimeDay": "98.74%",
-    "uptimeWeek": "96.27%",
-    "uptimeMonth": "94.82%",
+    "uptimeWeek": "96.77%",
+    "uptimeMonth": "94.90%",
     "uptimeYear": "98.99%",
     "time": 3408,
     "timeDay": 2934,
-    "timeWeek": 3295,
-    "timeMonth": 3553,
+    "timeWeek": 3298,
+    "timeMonth": 3555,
     "timeYear": 3408,
     "dailyMinutesDown": {
       "2026-06-05": 82,
@@ -198,7 +198,7 @@
     "time": 270,
     "timeDay": 281,
     "timeWeek": 225,
-    "timeMonth": 272,
+    "timeMonth": 274,
     "timeYear": 270,
     "dailyMinutesDown": {}
   },
@@ -216,7 +216,7 @@
     "time": 1281,
     "timeDay": 1391,
     "timeWeek": 2355,
-    "timeMonth": 1478,
+    "timeMonth": 1482,
     "timeYear": 1281,
     "dailyMinutesDown": {
       "2026-01-08": 84,
@@ -240,7 +240,7 @@
     "time": 480,
     "timeDay": 676,
     "timeWeek": 553,
-    "timeMonth": 540,
+    "timeMonth": 534,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2026-01-06": 657,
@@ -320,7 +320,7 @@
     "time": 2714,
     "timeDay": 2349,
     "timeWeek": 2008,
-    "timeMonth": 3371,
+    "timeMonth": 3403,
     "timeYear": 2714,
     "dailyMinutesDown": {
       "2026-01-29": 20,
@@ -363,7 +363,7 @@
     "time": 1139,
     "timeDay": 1199,
     "timeWeek": 1123,
-    "timeMonth": 1093,
+    "timeMonth": 1092,
     "timeYear": 1139,
     "dailyMinutesDown": {
       "2026-01-23": 16
@@ -383,7 +383,7 @@
     "time": 1357,
     "timeDay": 1429,
     "timeWeek": 2162,
-    "timeMonth": 2518,
+    "timeMonth": 2553,
     "timeYear": 1357,
     "dailyMinutesDown": {
       "2026-06-29": 52,
@@ -405,7 +405,7 @@
     "time": 1351,
     "timeDay": 1370,
     "timeWeek": 2410,
-    "timeMonth": 2095,
+    "timeMonth": 2113,
     "timeYear": 1351,
     "dailyMinutesDown": {
       "2026-02-04": 18,
@@ -429,7 +429,7 @@
     "time": 2460,
     "timeDay": 2301,
     "timeWeek": 2682,
-    "timeMonth": 2475,
+    "timeMonth": 2470,
     "timeYear": 2460,
     "dailyMinutesDown": {
       "2026-01-15": 20,
@@ -473,7 +473,7 @@
     "time": 777,
     "timeDay": 700,
     "timeWeek": 729,
-    "timeMonth": 769,
+    "timeMonth": 772,
     "timeYear": 777,
     "dailyMinutesDown": {
       "2026-02-05": 20,
@@ -495,15 +495,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
     "status": "up",
-    "uptime": "93.53%",
+    "uptime": "93.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.71%",
     "uptimeMonth": "99.38%",
-    "uptimeYear": "93.53%",
+    "uptimeYear": "93.54%",
     "time": 2977,
     "timeDay": 3181,
     "timeWeek": 2978,
-    "timeMonth": 2802,
+    "timeMonth": 2801,
     "timeYear": 2977,
     "dailyMinutesDown": {
       "2025-12-14": 280,
@@ -573,7 +573,7 @@
     "time": 1520,
     "timeDay": 10994,
     "timeWeek": 4555,
-    "timeMonth": 2194,
+    "timeMonth": 2212,
     "timeYear": 1520,
     "dailyMinutesDown": {
       "2026-09-06": 16
@@ -593,7 +593,7 @@
     "time": 1363,
     "timeDay": 1490,
     "timeWeek": 1333,
-    "timeMonth": 1356,
+    "timeMonth": 1346,
     "timeYear": 1363,
     "dailyMinutesDown": {
       "2025-12-12": 153,
@@ -614,7 +614,7 @@
     "time": 510,
     "timeDay": 246,
     "timeWeek": 336,
-    "timeMonth": 303,
+    "timeMonth": 298,
     "timeYear": 510,
     "dailyMinutesDown": {}
   },
@@ -632,7 +632,7 @@
     "time": 847,
     "timeDay": 820,
     "timeWeek": 737,
-    "timeMonth": 707,
+    "timeMonth": 698,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2026-06-07": 371,
@@ -680,7 +680,7 @@
     "time": 5649,
     "timeDay": 3392,
     "timeWeek": 3133,
-    "timeMonth": 3092,
+    "timeMonth": 3093,
     "timeYear": 5649,
     "dailyMinutesDown": {
       "2026-05-07": 33,
@@ -749,13 +749,13 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 1865,
     "timeDay": 1542,
-    "timeWeek": 3232,
-    "timeMonth": 2299,
+    "timeWeek": 2968,
+    "timeMonth": 2320,
     "timeYear": 1865,
     "dailyMinutesDown": {
       "2026-08-31": 29
@@ -775,7 +775,7 @@
     "time": 1361,
     "timeDay": 1522,
     "timeWeek": 2068,
-    "timeMonth": 1772,
+    "timeMonth": 1783,
     "timeYear": 1361,
     "dailyMinutesDown": {
       "2026-05-31": 33,
@@ -797,7 +797,7 @@
     "time": 1024,
     "timeDay": 1074,
     "timeWeek": 1804,
-    "timeMonth": 1419,
+    "timeMonth": 1421,
     "timeYear": 1024,
     "dailyMinutesDown": {}
   },
@@ -806,20 +806,21 @@
     "url": "https://lyrawellbeing.ae",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ae.ico",
     "slug": "united-arab-emirates-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1295,
-    "timeDay": 1363,
-    "timeWeek": 1152,
-    "timeMonth": 1257,
-    "timeYear": 1295,
+    "time": 1400,
+    "timeDay": 15771,
+    "timeWeek": 4780,
+    "timeMonth": 2149,
+    "timeYear": 1400,
     "dailyMinutesDown": {
       "2026-05-16": 21,
-      "2026-06-18": 96
+      "2026-06-18": 96,
+      "2026-09-07": 1
     }
   },
   {
@@ -836,7 +837,7 @@
     "time": 234,
     "timeDay": 127,
     "timeWeek": 180,
-    "timeMonth": 216,
+    "timeMonth": 215,
     "timeYear": 234,
     "dailyMinutesDown": {}
   }
