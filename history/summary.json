@@ -117,17 +117,17 @@
     "url": "https://lyrawellbeing.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "95.01%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "97.89%",
+    "uptimeMonth": "95.03%",
     "uptimeYear": "99.00%",
-    "time": 3400,
-    "timeDay": 3005,
-    "timeWeek": 3316,
+    "time": 3401,
+    "timeDay": 3044,
+    "timeWeek": 3319,
     "timeMonth": 3540,
-    "timeYear": 3400,
+    "timeYear": 3401,
     "dailyMinutesDown": {
       "2026-06-05": 43,
       "2026-06-07": 65,
@@ -183,7 +183,7 @@
       "2026-09-03": 16,
       "2026-09-05": 20,
       "2026-09-06": 18,
-      "2026-09-08": 9
+      "2026-09-08": 1
     }
   },
   {
@@ -430,7 +430,7 @@
     "uptimeYear": "99.67%",
     "time": 2461,
     "timeDay": 2303,
-    "timeWeek": 2567,
+    "timeWeek": 2498,
     "timeMonth": 2469,
     "timeYear": 2461,
     "dailyMinutesDown": {
