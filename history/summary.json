@@ -61,30 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.help.ico",
     "slug": "schweiz-chat",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2338,
     "timeDay": 2507,
     "timeWeek": 2613,
     "timeMonth": 2588,
     "timeYear": 2338,
-    "dailyMinutesDown": {
-      "2026-01-15": 39,
-      "2026-01-28": 25,
-      "2026-02-04": 24,
-      "2026-02-15": 50,
-      "2026-03-04": 34,
-      "2026-04-14": 26,
-      "2026-06-06": 44,
-      "2026-06-14": 46,
-      "2026-08-05": 27,
-      "2026-08-09": 24,
-      "2026-08-12": 19,
-      "2026-09-08": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zoho",
@@ -92,41 +79,33 @@
     "icon": "https://icons.duckduckgo.com/ip3/salesiq.zoho.eu.ico",
     "slug": "zoho",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "100.00%",
     "time": 1473,
     "timeDay": 1202,
     "timeWeek": 1224,
     "timeMonth": 1172,
     "timeYear": 1473,
-    "dailyMinutesDown": {
-      "2026-02-12": 18,
-      "2026-02-16": 20,
-      "2026-03-12": 58,
-      "2026-03-18": 54,
-      "2026-03-23": 18,
-      "2026-04-15": 371,
-      "2026-04-16": 176
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Argentina Website",
     "url": "https://lyrawellbeing.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
-    "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "95.00%",
-    "uptimeYear": "99.00%",
+    "status": "degraded",
+    "uptime": "99.01%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "97.89%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "99.01%",
     "time": 3400,
-    "timeDay": 3041,
-    "timeWeek": 3316,
-    "timeMonth": 3539,
+    "timeDay": 3047,
+    "timeWeek": 3314,
+    "timeMonth": 3538,
     "timeYear": 3400,
     "dailyMinutesDown": {
       "2026-06-05": 43,
@@ -183,7 +162,7 @@
       "2026-09-03": 16,
       "2026-09-05": 20,
       "2026-09-06": 18,
-      "2026-09-08": 10
+      "2026-09-08": 1
     }
   },
   {
@@ -210,23 +189,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyra-wellbeing.be.ico",
     "slug": "belgium-website",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1281,
     "timeDay": 1324,
     "timeWeek": 2368,
     "timeMonth": 1481,
     "timeYear": 1281,
-    "dailyMinutesDown": {
-      "2026-01-08": 84,
-      "2026-02-25": 16,
-      "2026-03-19": 21,
-      "2026-05-10": 42,
-      "2026-09-02": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Canada Website",
@@ -367,9 +340,7 @@
     "timeWeek": 1133,
     "timeMonth": 1094,
     "timeYear": 1139,
-    "dailyMinutesDown": {
-      "2026-01-23": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "India Website",
@@ -399,23 +370,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrahealthinternational.com.ico",
     "slug": "international-website",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1351,
     "timeDay": 1167,
-    "timeWeek": 1232,
-    "timeMonth": 2110,
+    "timeWeek": 1220,
+    "timeMonth": 1918,
     "timeYear": 1351,
-    "dailyMinutesDown": {
-      "2026-02-04": 18,
-      "2026-02-21": 19,
-      "2026-08-06": 52,
-      "2026-08-25": 20,
-      "2026-08-24": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Italy Website",
@@ -570,17 +535,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1519,
     "timeDay": 1323,
     "timeWeek": 4564,
     "timeMonth": 2206,
     "timeYear": 1519,
-    "dailyMinutesDown": {
-      "2026-09-06": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mexico Website",
@@ -588,20 +551,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.com.mx.ico",
     "slug": "mexico-website",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 1362,
     "timeDay": 1245,
     "timeWeek": 1307,
     "timeMonth": 1337,
     "timeYear": 1362,
-    "dailyMinutesDown": {
-      "2025-12-12": 153,
-      "2026-02-04": 68
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Netherlands Website",
@@ -627,47 +587,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.pt.ico",
     "slug": "portugal-website",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.12%",
+    "uptimeYear": "100.00%",
     "time": 846,
     "timeDay": 747,
     "timeWeek": 743,
     "timeMonth": 694,
     "timeYear": 846,
-    "dailyMinutesDown": {
-      "2026-06-07": 371,
-      "2026-06-08": 354,
-      "2026-06-09": 330,
-      "2026-06-11": 381,
-      "2026-06-12": 495,
-      "2026-06-13": 109,
-      "2026-06-14": 486,
-      "2026-06-15": 244,
-      "2026-06-16": 576,
-      "2026-06-17": 216,
-      "2026-06-18": 337,
-      "2026-06-19": 98,
-      "2026-06-20": 196,
-      "2026-06-21": 237,
-      "2026-06-22": 222,
-      "2026-06-23": 322,
-      "2026-06-24": 172,
-      "2026-06-25": 368,
-      "2026-06-26": 365,
-      "2026-06-27": 610,
-      "2026-06-28": 732,
-      "2026-07-08": 92,
-      "2026-07-16": 42,
-      "2026-07-17": 19,
-      "2026-07-18": 29,
-      "2026-07-19": 50,
-      "2026-07-20": 30,
-      "2026-07-24": 49,
-      "2026-07-29": 77
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Schweiz Website",
