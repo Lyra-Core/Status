@@ -120,12 +120,12 @@
     "status": "up",
     "uptime": "99.00%",
     "uptimeDay": "98.61%",
-    "uptimeWeek": "97.94%",
+    "uptimeWeek": "98.59%",
     "uptimeMonth": "94.98%",
     "uptimeYear": "99.00%",
     "time": 3399,
     "timeDay": 3037,
-    "timeWeek": 3316,
+    "timeWeek": 3322,
     "timeMonth": 3543,
     "timeYear": 3399,
     "dailyMinutesDown": {
@@ -271,17 +271,17 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.85%",
-    "time": 2472,
-    "timeDay": 2903,
-    "timeWeek": 3003,
-    "timeMonth": 2789,
-    "timeYear": 2472,
+    "time": 2474,
+    "timeDay": 2981,
+    "timeWeek": 3012,
+    "timeMonth": 2754,
+    "timeYear": 2474,
     "dailyMinutesDown": {
       "2025-12-10": 15,
       "2026-01-15": 45,
@@ -305,7 +305,8 @@
       "2026-08-04": 25,
       "2026-08-05": 25,
       "2026-08-20": 15,
-      "2026-08-30": 15
+      "2026-08-30": 15,
+      "2026-09-08": 1
     }
   },
   {
@@ -498,15 +499,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
     "status": "up",
-    "uptime": "93.57%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "93.57%",
+    "uptime": "93.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "93.58%",
     "time": 2974,
     "timeDay": 2732,
     "timeWeek": 2972,
-    "timeMonth": 2771,
+    "timeMonth": 2763,
     "timeYear": 2974,
     "dailyMinutesDown": {
       "2025-12-14": 280,
@@ -559,8 +560,7 @@
       "2026-08-13": 33,
       "2026-08-15": 15,
       "2026-09-01": 18,
-      "2026-09-03": 112,
-      "2026-09-08": 5
+      "2026-09-03": 112
     }
   },
   {
