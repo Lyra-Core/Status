@@ -68,7 +68,7 @@
     "uptimeYear": "99.91%",
     "time": 2337,
     "timeDay": 2063,
-    "timeWeek": 2607,
+    "timeWeek": 2540,
     "timeMonth": 2579,
     "timeYear": 2337,
     "dailyMinutesDown": {
@@ -125,7 +125,7 @@
     "uptimeYear": "99.00%",
     "time": 3399,
     "timeDay": 2890,
-    "timeWeek": 3060,
+    "timeWeek": 3038,
     "timeMonth": 3563,
     "timeYear": 3399,
     "dailyMinutesDown": {
@@ -234,11 +234,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ca.ico",
     "slug": "canada-website",
     "status": "up",
-    "uptime": "93.79%",
+    "uptime": "93.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.79%",
+    "uptimeYear": "93.80%",
     "time": 480,
     "timeDay": 438,
     "timeWeek": 545,
@@ -271,17 +271,17 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "97.59%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.84%",
-    "time": 2483,
-    "timeDay": 3084,
-    "timeWeek": 2988,
-    "timeMonth": 2787,
-    "timeYear": 2483,
+    "time": 2484,
+    "timeDay": 3075,
+    "timeWeek": 2990,
+    "timeMonth": 2790,
+    "timeYear": 2484,
     "dailyMinutesDown": {
       "2025-12-10": 15,
       "2026-01-15": 45,
@@ -306,7 +306,7 @@
       "2026-08-05": 25,
       "2026-08-20": 15,
       "2026-08-30": 15,
-      "2026-09-09": 35
+      "2026-09-09": 36
     }
   },
   {
@@ -431,7 +431,7 @@
     "uptimeYear": "99.67%",
     "time": 2460,
     "timeDay": 1959,
-    "timeWeek": 2431,
+    "timeWeek": 2405,
     "timeMonth": 2443,
     "timeYear": 2460,
     "dailyMinutesDown": {
@@ -506,7 +506,7 @@
     "uptimeYear": "93.60%",
     "time": 2975,
     "timeDay": 3191,
-    "timeWeek": 2932,
+    "timeWeek": 2909,
     "timeMonth": 2783,
     "timeYear": 2975,
     "dailyMinutesDown": {
@@ -677,17 +677,17 @@
     "slug": "schweiz-website",
     "status": "up",
     "uptime": "98.64%",
-    "uptimeDay": "92.94%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "98.89%",
+    "uptimeDay": "93.53%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "98.64%",
     "time": 5676,
     "timeDay": 6072,
-    "timeWeek": 4825,
+    "timeWeek": 4946,
     "timeMonth": 3519,
     "timeYear": 5676,
     "dailyMinutesDown": {
-      "2026-05-08": 60,
+      "2026-05-08": 86,
       "2026-05-09": 27,
       "2026-05-10": 74,
       "2026-05-12": 213,
@@ -743,7 +743,7 @@
       "2026-09-02": 23,
       "2026-09-03": 17,
       "2026-09-08": 16,
-      "2026-09-09": 101
+      "2026-09-09": 93
     }
   },
   {
