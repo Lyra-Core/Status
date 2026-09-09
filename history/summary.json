@@ -271,17 +271,17 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.84%",
-    "time": 2482,
-    "timeDay": 3147,
-    "timeWeek": 2999,
-    "timeMonth": 2788,
-    "timeYear": 2482,
+    "time": 2483,
+    "timeDay": 3084,
+    "timeWeek": 2988,
+    "timeMonth": 2787,
+    "timeYear": 2483,
     "dailyMinutesDown": {
       "2025-12-10": 15,
       "2026-01-15": 45,
@@ -306,7 +306,7 @@
       "2026-08-05": 25,
       "2026-08-20": 15,
       "2026-08-30": 15,
-      "2026-09-09": 19
+      "2026-09-09": 35
     }
   },
   {
@@ -499,11 +499,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
     "status": "up",
-    "uptime": "93.59%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "93.59%",
+    "uptime": "93.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "93.60%",
     "time": 2975,
     "timeDay": 3044,
     "timeWeek": 2932,
@@ -560,8 +560,7 @@
       "2026-08-13": 33,
       "2026-08-15": 15,
       "2026-09-01": 18,
-      "2026-09-03": 112,
-      "2026-09-09": 6
+      "2026-09-03": 112
     }
   },
   {
@@ -678,9 +677,9 @@
     "slug": "schweiz-website",
     "status": "degraded",
     "uptime": "98.65%",
-    "uptimeDay": "97.45%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.04%",
+    "uptimeDay": "96.28%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.00%",
     "uptimeYear": "98.65%",
     "time": 5686,
     "timeDay": 7805,
@@ -744,7 +743,7 @@
       "2026-09-02": 23,
       "2026-09-03": 17,
       "2026-09-08": 16,
-      "2026-09-09": 36
+      "2026-09-09": 53
     }
   },
   {
