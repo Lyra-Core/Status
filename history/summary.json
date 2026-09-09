@@ -272,11 +272,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
     "status": "degraded",
-    "uptime": "99.85%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.84%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.84%",
     "time": 2482,
     "timeDay": 3147,
     "timeWeek": 2999,
@@ -306,7 +306,7 @@
       "2026-08-05": 25,
       "2026-08-20": 15,
       "2026-08-30": 15,
-      "2026-09-09": 14
+      "2026-09-09": 19
     }
   },
   {
@@ -498,17 +498,17 @@
     "url": "https://lyrawellbeing.lu",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "93.59%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "93.59%",
-    "time": 2977,
-    "timeDay": 3192,
-    "timeWeek": 2955,
-    "timeMonth": 2787,
-    "timeYear": 2977,
+    "time": 2975,
+    "timeDay": 3044,
+    "timeWeek": 2932,
+    "timeMonth": 2783,
+    "timeYear": 2975,
     "dailyMinutesDown": {
       "2025-12-14": 280,
       "2025-12-13": 43,
@@ -561,7 +561,7 @@
       "2026-08-15": 15,
       "2026-09-01": 18,
       "2026-09-03": 112,
-      "2026-09-09": 1
+      "2026-09-09": 6
     }
   },
   {
@@ -678,9 +678,9 @@
     "slug": "schweiz-website",
     "status": "degraded",
     "uptime": "98.65%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.05%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "98.65%",
     "time": 5686,
     "timeDay": 7805,
@@ -744,7 +744,7 @@
       "2026-09-02": 23,
       "2026-09-03": 17,
       "2026-09-08": 16,
-      "2026-09-09": 31
+      "2026-09-09": 36
     }
   },
   {
