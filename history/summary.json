@@ -120,15 +120,15 @@
     "slug": "argentina-website",
     "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "95.11%",
+    "uptimeDay": "95.71%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "95.09%",
     "uptimeYear": "99.02%",
-    "time": 3397,
-    "timeDay": 3212,
-    "timeWeek": 3060,
+    "time": 3396,
+    "timeDay": 3166,
+    "timeWeek": 3057,
     "timeMonth": 3469,
-    "timeYear": 3397,
+    "timeYear": 3396,
     "dailyMinutesDown": {
       "2026-06-10": 48,
       "2026-06-12": 137,
@@ -183,7 +183,7 @@
       "2026-09-05": 20,
       "2026-09-06": 18,
       "2026-09-08": 20,
-      "2026-09-10": 51
+      "2026-09-10": 63
     }
   },
   {
@@ -500,9 +500,9 @@
     "slug": "luxembourg-website",
     "status": "up",
     "uptime": "93.61%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "93.61%",
     "time": 2988,
     "timeDay": 3647,
@@ -561,7 +561,7 @@
       "2026-08-15": 15,
       "2026-09-01": 18,
       "2026-09-03": 112,
-      "2026-09-10": 24
+      "2026-09-10": 19
     }
   },
   {
