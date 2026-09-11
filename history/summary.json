@@ -118,17 +118,17 @@
     "url": "https://lyrawellbeing.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "95.05%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "95.04%",
     "uptimeYear": "99.05%",
-    "time": 3390,
-    "timeDay": 2950,
-    "timeWeek": 3028,
-    "timeMonth": 3455,
-    "timeYear": 3390,
+    "time": 3389,
+    "timeDay": 2905,
+    "timeWeek": 3018,
+    "timeMonth": 3452,
+    "timeYear": 3389,
     "dailyMinutesDown": {
       "2026-06-12": 39,
       "2026-06-13": 124,
@@ -183,7 +183,7 @@
       "2026-09-06": 18,
       "2026-09-08": 20,
       "2026-09-10": 79,
-      "2026-09-11": 1
+      "2026-09-11": 6
     }
   },
   {
@@ -379,9 +379,9 @@
     "slug": "india-website",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "28.20%",
-    "uptimeWeek": "89.74%",
-    "uptimeMonth": "97.54%",
+    "uptimeDay": "27.80%",
+    "uptimeWeek": "89.69%",
+    "uptimeMonth": "97.53%",
     "uptimeYear": "99.72%",
     "time": 1354,
     "timeDay": 1183,
@@ -392,7 +392,7 @@
       "2026-06-29": 52,
       "2026-08-14": 26,
       "2026-08-29": 16,
-      "2026-09-11": 1034
+      "2026-09-11": 1040
     }
   },
   {
@@ -593,9 +593,9 @@
     "slug": "mexico-website",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "28.22%",
-    "uptimeWeek": "89.75%",
-    "uptimeMonth": "97.64%",
+    "uptimeDay": "27.81%",
+    "uptimeWeek": "89.69%",
+    "uptimeMonth": "97.63%",
     "uptimeYear": "99.69%",
     "time": 1362,
     "timeDay": 1438,
@@ -605,7 +605,7 @@
     "dailyMinutesDown": {
       "2025-12-12": 153,
       "2026-02-04": 68,
-      "2026-09-11": 1034
+      "2026-09-11": 1040
     }
   },
   {
@@ -686,7 +686,7 @@
     "uptimeMonth": "98.87%",
     "uptimeYear": "98.66%",
     "time": 5597,
-    "timeDay": 3031,
+    "timeDay": 3080,
     "timeWeek": 4195,
     "timeMonth": 3460,
     "timeYear": 5597,
