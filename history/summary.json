@@ -499,9 +499,9 @@
     "slug": "luxembourg-website",
     "status": "up",
     "uptime": "93.62%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "93.62%",
     "time": 3000,
     "timeDay": 3761,
@@ -560,7 +560,7 @@
       "2026-08-15": 15,
       "2026-09-01": 18,
       "2026-09-03": 112,
-      "2026-09-10": 24
+      "2026-09-10": 19
     }
   },
   {
