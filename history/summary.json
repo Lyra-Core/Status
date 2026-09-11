@@ -277,7 +277,7 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.84%",
     "time": 2509,
-    "timeDay": 2955,
+    "timeDay": 3008,
     "timeWeek": 3056,
     "timeMonth": 2850,
     "timeYear": 2509,
@@ -378,9 +378,9 @@
     "slug": "india-website",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "45.12%",
-    "uptimeWeek": "92.16%",
-    "uptimeMonth": "98.10%",
+    "uptimeDay": "44.53%",
+    "uptimeWeek": "92.08%",
+    "uptimeMonth": "98.08%",
     "uptimeYear": "99.78%",
     "time": 1354,
     "timeDay": 1183,
@@ -391,7 +391,7 @@
       "2026-06-29": 52,
       "2026-08-14": 26,
       "2026-08-29": 16,
-      "2026-09-11": 790
+      "2026-09-11": 799
     }
   },
   {
@@ -498,17 +498,17 @@
     "url": "https://lyrawellbeing.lu",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "93.62%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.43%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "93.62%",
-    "time": 3005,
-    "timeDay": 3616,
-    "timeWeek": 3301,
-    "timeMonth": 2957,
-    "timeYear": 3005,
+    "time": 3004,
+    "timeDay": 3572,
+    "timeWeek": 3287,
+    "timeMonth": 2955,
+    "timeYear": 3004,
     "dailyMinutesDown": {
       "2025-12-14": 280,
       "2025-12-13": 43,
@@ -562,7 +562,7 @@
       "2026-09-01": 18,
       "2026-09-03": 112,
       "2026-09-10": 19,
-      "2026-09-11": 31
+      "2026-09-11": 39
     }
   },
   {
@@ -592,9 +592,9 @@
     "slug": "mexico-website",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "45.13%",
-    "uptimeWeek": "92.16%",
-    "uptimeMonth": "98.20%",
+    "uptimeDay": "44.55%",
+    "uptimeWeek": "92.08%",
+    "uptimeMonth": "98.18%",
     "uptimeYear": "99.75%",
     "time": 1362,
     "timeDay": 1438,
@@ -604,7 +604,7 @@
     "dailyMinutesDown": {
       "2025-12-12": 153,
       "2026-02-04": 68,
-      "2026-09-11": 790
+      "2026-09-11": 799
     }
   },
   {
