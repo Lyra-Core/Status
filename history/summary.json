@@ -277,7 +277,7 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.84%",
     "time": 2504,
-    "timeDay": 2812,
+    "timeDay": 2862,
     "timeWeek": 3052,
     "timeMonth": 2839,
     "timeYear": 2504,
@@ -378,9 +378,9 @@
     "slug": "india-website",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "69.71%",
-    "uptimeWeek": "95.67%",
-    "uptimeMonth": "98.91%",
+    "uptimeDay": "68.91%",
+    "uptimeWeek": "95.56%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "99.87%",
     "time": 1354,
     "timeDay": 1183,
@@ -391,7 +391,7 @@
       "2026-06-29": 52,
       "2026-08-14": 26,
       "2026-08-29": 16,
-      "2026-09-11": 436
+      "2026-09-11": 448
     }
   },
   {
@@ -498,17 +498,17 @@
     "url": "https://lyrawellbeing.lu",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "93.62%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "99.51%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "93.62%",
-    "time": 3003,
-    "timeDay": 3794,
-    "timeWeek": 3325,
-    "timeMonth": 2946,
-    "timeYear": 3003,
+    "time": 3004,
+    "timeDay": 3771,
+    "timeWeek": 3329,
+    "timeMonth": 2952,
+    "timeYear": 3004,
     "dailyMinutesDown": {
       "2025-12-14": 280,
       "2025-12-13": 43,
@@ -562,7 +562,7 @@
       "2026-09-01": 18,
       "2026-09-03": 112,
       "2026-09-10": 19,
-      "2026-09-11": 30
+      "2026-09-11": 31
     }
   },
   {
@@ -592,9 +592,9 @@
     "slug": "mexico-website",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "69.72%",
-    "uptimeWeek": "95.67%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "68.93%",
+    "uptimeWeek": "95.56%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "99.84%",
     "time": 1362,
     "timeDay": 1438,
@@ -604,7 +604,7 @@
     "dailyMinutesDown": {
       "2025-12-12": 153,
       "2026-02-04": 68,
-      "2026-09-11": 436
+      "2026-09-11": 447
     }
   },
   {
