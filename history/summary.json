@@ -119,14 +119,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
     "status": "down",
-    "uptime": "98.93%",
-    "uptimeDay": "64.01%",
-    "uptimeWeek": "93.71%",
-    "uptimeMonth": "93.95%",
-    "uptimeYear": "98.93%",
+    "uptime": "98.89%",
+    "uptimeDay": "51.65%",
+    "uptimeWeek": "91.94%",
+    "uptimeMonth": "93.54%",
+    "uptimeYear": "98.89%",
     "time": 3386,
     "timeDay": 2892,
-    "timeWeek": 2998,
+    "timeWeek": 2997,
     "timeMonth": 3450,
     "timeYear": 3386,
     "dailyMinutesDown": {
@@ -183,7 +183,7 @@
       "2026-09-06": 18,
       "2026-09-08": 20,
       "2026-09-10": 79,
-      "2026-09-12": 518
+      "2026-09-12": 696
     }
   },
   {
@@ -278,7 +278,7 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.84%",
     "time": 2520,
-    "timeDay": 3127,
+    "timeDay": 3145,
     "timeWeek": 3061,
     "timeMonth": 2880,
     "timeYear": 2520,
@@ -360,11 +360,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.hu.ico",
     "slug": "hungary-website",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "64.02%",
-    "uptimeWeek": "94.86%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.83%",
+    "uptimeDay": "51.65%",
+    "uptimeWeek": "93.09%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "99.83%",
     "time": 1139,
     "timeDay": 1122,
     "timeWeek": 1171,
@@ -372,7 +372,7 @@
     "timeYear": 1139,
     "dailyMinutesDown": {
       "2026-01-23": 16,
-      "2026-09-12": 518
+      "2026-09-12": 696
     }
   },
   {
@@ -381,11 +381,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.in.ico",
     "slug": "india-website",
     "status": "down",
-    "uptime": "99.50%",
+    "uptime": "99.46%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.54%",
-    "uptimeMonth": "95.42%",
-    "uptimeYear": "99.50%",
+    "uptimeWeek": "78.77%",
+    "uptimeMonth": "95.02%",
+    "uptimeYear": "99.46%",
     "time": 1354,
     "timeDay": 0,
     "timeWeek": 1217,
@@ -395,7 +395,7 @@
       "2026-06-29": 52,
       "2026-08-14": 26,
       "2026-08-29": 16,
-      "2026-09-12": 534,
+      "2026-09-12": 712,
       "2026-09-11": 1427
     }
   },
@@ -428,17 +428,17 @@
     "url": "https://lyrawellbeing.it",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.it.ico",
     "slug": "italy-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.67%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.72%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.67%",
-    "time": 2462,
-    "timeDay": 2708,
-    "timeWeek": 2480,
-    "timeMonth": 2455,
-    "timeYear": 2462,
+    "time": 2474,
+    "timeDay": 3721,
+    "timeWeek": 2837,
+    "timeMonth": 2537,
+    "timeYear": 2474,
     "dailyMinutesDown": {
       "2026-01-15": 20,
       "2026-02-12": 23,
@@ -466,7 +466,7 @@
       "2026-08-14": 18,
       "2026-09-04": 16,
       "2026-09-07": 24,
-      "2026-09-12": 4
+      "2026-09-12": 1
     }
   },
   {
@@ -505,11 +505,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
     "status": "up",
-    "uptime": "93.64%",
+    "uptime": "93.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.43%",
-    "uptimeYear": "93.64%",
+    "uptimeYear": "93.65%",
     "time": 3003,
     "timeDay": 2990,
     "timeWeek": 3265,
@@ -597,11 +597,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.com.mx.ico",
     "slug": "mexico-website",
     "status": "down",
-    "uptime": "99.47%",
+    "uptime": "99.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.54%",
-    "uptimeMonth": "95.52%",
-    "uptimeYear": "99.47%",
+    "uptimeWeek": "78.78%",
+    "uptimeMonth": "95.12%",
+    "uptimeYear": "99.42%",
     "time": 1362,
     "timeDay": 0,
     "timeWeek": 1377,
@@ -610,7 +610,7 @@
     "dailyMinutesDown": {
       "2025-12-12": 153,
       "2026-02-04": 68,
-      "2026-09-12": 535,
+      "2026-09-12": 713,
       "2026-09-11": 1427
     }
   },
@@ -686,13 +686,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
     "status": "down",
-    "uptime": "98.56%",
-    "uptimeDay": "62.80%",
-    "uptimeWeek": "93.09%",
-    "uptimeMonth": "97.77%",
-    "uptimeYear": "98.56%",
+    "uptime": "98.52%",
+    "uptimeDay": "50.43%",
+    "uptimeWeek": "91.33%",
+    "uptimeMonth": "97.37%",
+    "uptimeYear": "98.52%",
     "time": 5594,
-    "timeDay": 3029,
+    "timeDay": 2942,
     "timeWeek": 4264,
     "timeMonth": 3464,
     "timeYear": 5594,
@@ -754,7 +754,7 @@
       "2026-09-09": 93,
       "2026-09-10": 36,
       "2026-09-11": 34,
-      "2026-09-12": 518
+      "2026-09-12": 696
     }
   },
   {
@@ -805,18 +805,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.es.ico",
     "slug": "spain-website",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "64.06%",
-    "uptimeWeek": "94.87%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.83%",
+    "uptimeDay": "51.69%",
+    "uptimeWeek": "93.10%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "99.83%",
     "time": 1023,
     "timeDay": 1027,
     "timeWeek": 1004,
     "timeMonth": 1411,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2026-09-12": 518
+      "2026-09-12": 696
     }
   },
   {
