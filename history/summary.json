@@ -121,8 +121,8 @@
     "status": "down",
     "uptime": "98.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "68.33%",
-    "uptimeMonth": "88.07%",
+    "uptimeWeek": "68.27%",
+    "uptimeMonth": "88.05%",
     "uptimeYear": "98.31%",
     "time": 3386,
     "timeDay": 0,
@@ -183,7 +183,7 @@
       "2026-09-06": 18,
       "2026-09-08": 20,
       "2026-09-10": 79,
-      "2026-09-14": 230,
+      "2026-09-14": 236,
       "2026-09-13": 1440,
       "2026-09-12": 1424
     }
@@ -273,16 +273,16 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.84%",
     "time": 2526,
-    "timeDay": 3148,
-    "timeWeek": 3091,
-    "timeMonth": 2897,
+    "timeDay": 3013,
+    "timeWeek": 3077,
+    "timeMonth": 2892,
     "timeYear": 2526,
     "dailyMinutesDown": {
       "2025-12-10": 15,
@@ -310,7 +310,7 @@
       "2026-08-30": 15,
       "2026-09-09": 35,
       "2026-09-11": 15,
-      "2026-09-14": 2
+      "2026-09-14": 6
     }
   },
   {
@@ -365,8 +365,8 @@
     "status": "down",
     "uptime": "99.25%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.30%",
-    "uptimeMonth": "92.94%",
+    "uptimeWeek": "69.24%",
+    "uptimeMonth": "92.92%",
     "uptimeYear": "99.25%",
     "time": 1139,
     "timeDay": 0,
@@ -375,7 +375,7 @@
     "timeYear": 1139,
     "dailyMinutesDown": {
       "2026-01-23": 16,
-      "2026-09-14": 230,
+      "2026-09-14": 237,
       "2026-09-13": 1440,
       "2026-09-12": 1424
     }
@@ -388,8 +388,8 @@
     "status": "down",
     "uptime": "98.88%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.98%",
-    "uptimeMonth": "89.54%",
+    "uptimeWeek": "54.92%",
+    "uptimeMonth": "89.53%",
     "uptimeYear": "98.88%",
     "time": 1354,
     "timeDay": 0,
@@ -400,7 +400,7 @@
       "2026-06-29": 52,
       "2026-08-14": 26,
       "2026-08-29": 16,
-      "2026-09-14": 231,
+      "2026-09-14": 237,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 1427
@@ -607,8 +607,8 @@
     "status": "down",
     "uptime": "98.85%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.99%",
-    "uptimeMonth": "89.64%",
+    "uptimeWeek": "54.93%",
+    "uptimeMonth": "89.63%",
     "uptimeYear": "98.85%",
     "time": 1362,
     "timeDay": 0,
@@ -618,7 +618,7 @@
     "dailyMinutesDown": {
       "2025-12-12": 153,
       "2026-02-04": 68,
-      "2026-09-14": 231,
+      "2026-09-14": 237,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 1427
@@ -698,8 +698,8 @@
     "status": "down",
     "uptime": "98.00%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.54%",
-    "uptimeMonth": "92.16%",
+    "uptimeWeek": "67.48%",
+    "uptimeMonth": "92.15%",
     "uptimeYear": "98.00%",
     "time": 5594,
     "timeDay": 0,
@@ -764,7 +764,7 @@
       "2026-09-09": 93,
       "2026-09-10": 36,
       "2026-09-11": 34,
-      "2026-09-14": 231,
+      "2026-09-14": 237,
       "2026-09-13": 1440,
       "2026-09-12": 1423
     }
@@ -819,8 +819,8 @@
     "status": "down",
     "uptime": "99.25%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.31%",
-    "uptimeMonth": "92.94%",
+    "uptimeWeek": "69.25%",
+    "uptimeMonth": "92.92%",
     "uptimeYear": "99.25%",
     "time": 1023,
     "timeDay": 0,
@@ -828,7 +828,7 @@
     "timeMonth": 1438,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2026-09-14": 231,
+      "2026-09-14": 237,
       "2026-09-13": 1440,
       "2026-09-12": 1423
     }
