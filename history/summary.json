@@ -120,9 +120,9 @@
     "slug": "argentina-website",
     "status": "up",
     "uptime": "98.25%",
-    "uptimeDay": "86.09%",
-    "uptimeWeek": "60.89%",
-    "uptimeMonth": "86.71%",
+    "uptimeDay": "86.80%",
+    "uptimeWeek": "60.99%",
+    "uptimeMonth": "86.74%",
     "uptimeYear": "98.25%",
     "time": 3376,
     "timeDay": 3015,
@@ -130,6 +130,7 @@
     "timeMonth": 3399,
     "timeYear": 3376,
     "dailyMinutesDown": {
+      "2026-06-23": 36,
       "2026-06-24": 57,
       "2026-06-27": 33,
       "2026-06-30": 76,
@@ -181,7 +182,7 @@
       "2026-09-14": 800,
       "2026-09-13": 1440,
       "2026-09-12": 1424,
-      "2026-09-15": 200
+      "2026-09-15": 190
     }
   },
   {
@@ -430,17 +431,17 @@
     "url": "https://lyrawellbeing.it",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.it.ico",
     "slug": "italy-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.66%",
-    "time": 2494,
-    "timeDay": 2687,
-    "timeWeek": 3107,
-    "timeMonth": 2632,
-    "timeYear": 2494,
+    "time": 2502,
+    "timeDay": 4184,
+    "timeWeek": 3236,
+    "timeMonth": 2683,
+    "timeYear": 2502,
     "dailyMinutesDown": {
       "2026-01-15": 20,
       "2026-02-12": 23,
@@ -469,7 +470,8 @@
       "2026-09-04": 16,
       "2026-09-07": 24,
       "2026-09-12": 15,
-      "2026-09-13": 26
+      "2026-09-13": 26,
+      "2026-09-15": 1
     }
   },
   {
@@ -771,19 +773,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.sg.ico",
     "slug": "singapore-website",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1860,
     "timeDay": 1655,
     "timeWeek": 1706,
     "timeMonth": 2317,
     "timeYear": 1860,
-    "dailyMinutesDown": {
-      "2026-08-31": 29
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "South Africa Website",
