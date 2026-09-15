@@ -127,7 +127,7 @@
     "time": 3376,
     "timeDay": 3015,
     "timeWeek": 3007,
-    "timeMonth": 3399,
+    "timeMonth": 3401,
     "timeYear": 3376,
     "dailyMinutesDown": {
       "2026-06-23": 36,
@@ -270,17 +270,17 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.84%",
-    "time": 2529,
-    "timeDay": 2845,
+    "time": 2530,
+    "timeDay": 2874,
     "timeWeek": 3032,
-    "timeMonth": 2894,
-    "timeYear": 2529,
+    "timeMonth": 2895,
+    "timeYear": 2530,
     "dailyMinutesDown": {
       "2025-12-10": 15,
       "2026-01-15": 45,
@@ -306,7 +306,8 @@
       "2026-08-20": 15,
       "2026-08-30": 15,
       "2026-09-09": 35,
-      "2026-09-11": 15
+      "2026-09-11": 15,
+      "2026-09-15": 1
     }
   },
   {
@@ -431,17 +432,17 @@
     "url": "https://lyrawellbeing.it",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.it.ico",
     "slug": "italy-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.66%",
-    "time": 2502,
-    "timeDay": 4184,
-    "timeWeek": 3236,
-    "timeMonth": 2683,
-    "timeYear": 2502,
+    "time": 2503,
+    "timeDay": 3653,
+    "timeWeek": 3205,
+    "timeMonth": 2681,
+    "timeYear": 2503,
     "dailyMinutesDown": {
       "2026-01-15": 20,
       "2026-02-12": 23,
@@ -471,7 +472,7 @@
       "2026-09-07": 24,
       "2026-09-12": 15,
       "2026-09-13": 26,
-      "2026-09-15": 1
+      "2026-09-15": 22
     }
   },
   {
@@ -773,17 +774,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.sg.ico",
     "slug": "singapore-website",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 1860,
     "timeDay": 1655,
     "timeWeek": 1706,
     "timeMonth": 2317,
     "timeYear": 1860,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-31": 29
+    }
   },
   {
     "name": "South Africa Website",
