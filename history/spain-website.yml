@@ -1,7 +1,7 @@
 url: https://lyrawellbeing.es
-status: down
-code: 403
-responseTime: 169
-lastUpdated: 2026-09-18T01:30:47.910Z
+status: degraded
+code: 504
+responseTime: 8025
+lastUpdated: 2026-09-18T11:39:20.759Z
 startTime: 2025-12-01T11:08:44.455Z
 generator: Upptime <https://github.com/upptime/upptime>
