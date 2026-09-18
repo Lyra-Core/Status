@@ -118,16 +118,16 @@
     "url": "https://lyrawellbeing.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
-    "status": "degraded",
-    "uptime": "98.33%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "60.07%",
-    "uptimeMonth": "86.91%",
-    "uptimeYear": "98.33%",
+    "status": "up",
+    "uptime": "98.32%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "59.96%",
+    "uptimeMonth": "86.89%",
+    "uptimeYear": "98.32%",
     "time": 3396,
-    "timeDay": 3000,
-    "timeWeek": 3449,
-    "timeMonth": 3287,
+    "timeDay": 3024,
+    "timeWeek": 3443,
+    "timeMonth": 3286,
     "timeYear": 3396,
     "dailyMinutesDown": {
       "2026-07-07": 29,
@@ -178,7 +178,7 @@
       "2026-09-15": 190,
       "2026-09-16": 141,
       "2026-09-17": 28,
-      "2026-09-18": 1
+      "2026-09-18": 12
     }
   },
   {
@@ -380,7 +380,7 @@
     "status": "up",
     "uptime": "98.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "56.20%",
+    "uptimeWeek": "56.33%",
     "uptimeMonth": "88.30%",
     "uptimeYear": "98.76%",
     "time": 1350,
@@ -601,7 +601,7 @@
     "status": "up",
     "uptime": "98.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "56.20%",
+    "uptimeWeek": "56.32%",
     "uptimeMonth": "88.34%",
     "uptimeYear": "98.73%",
     "time": 1361,
@@ -696,7 +696,7 @@
     "uptimeMonth": "89.52%",
     "uptimeYear": "98.30%",
     "time": 5484,
-    "timeDay": 2952,
+    "timeDay": 2983,
     "timeWeek": 3689,
     "timeMonth": 3638,
     "timeYear": 5484,
@@ -812,9 +812,9 @@
     "slug": "spain-website",
     "status": "degraded",
     "uptime": "98.98%",
-    "uptimeDay": "57.25%",
-    "uptimeWeek": "57.54%",
-    "uptimeMonth": "90.23%",
+    "uptimeDay": "56.40%",
+    "uptimeWeek": "57.42%",
+    "uptimeMonth": "90.20%",
     "uptimeYear": "98.98%",
     "time": 1042,
     "timeDay": 3022,
@@ -825,7 +825,7 @@
       "2026-09-14": 801,
       "2026-09-13": 1440,
       "2026-09-12": 1423,
-      "2026-09-18": 616
+      "2026-09-18": 628
     }
   },
   {
