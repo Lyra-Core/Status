@@ -118,17 +118,17 @@
     "url": "https://lyrawellbeing.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.43%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "91.24%",
-    "uptimeMonth": "85.74%",
+    "uptimeDay": "95.49%",
+    "uptimeWeek": "91.02%",
+    "uptimeMonth": "85.69%",
     "uptimeYear": "98.43%",
-    "time": 3366,
-    "timeDay": 3093,
-    "timeWeek": 3206,
-    "timeMonth": 3270,
-    "timeYear": 3366,
+    "time": 3365,
+    "timeDay": 3069,
+    "timeWeek": 3203,
+    "timeMonth": 3268,
+    "timeYear": 3365,
     "dailyMinutesDown": {
       "2026-08-17": 113,
       "2026-08-18": 40,
@@ -162,7 +162,7 @@
       "2026-09-24": 240,
       "2026-09-25": 178,
       "2026-09-26": 41,
-      "2026-09-27": 2
+      "2026-09-27": 24
     }
   },
   {
@@ -251,16 +251,16 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.83%",
     "time": 2563,
-    "timeDay": 3179,
-    "timeWeek": 3204,
-    "timeMonth": 2985,
+    "timeDay": 3071,
+    "timeWeek": 3186,
+    "timeMonth": 2984,
     "timeYear": 2563,
     "dailyMinutesDown": {
       "2025-12-10": 15,
@@ -291,7 +291,7 @@
       "2026-09-21": 29,
       "2026-09-20": 3,
       "2026-09-25": 24,
-      "2026-09-27": 2
+      "2026-09-27": 24
     }
   },
   {
@@ -683,12 +683,12 @@
     "status": "up",
     "uptime": "98.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.05%",
+    "uptimeWeek": "99.27%",
     "uptimeMonth": "89.53%",
     "uptimeYear": "98.35%",
     "time": 5459,
     "timeDay": 2672,
-    "timeWeek": 4767,
+    "timeWeek": 4867,
     "timeMonth": 3922,
     "timeYear": 5459,
     "dailyMinutesDown": {
