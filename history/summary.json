@@ -92,17 +92,17 @@
     "url": "https://salesiq.zoho.eu/icas/liveview",
     "icon": "https://icons.duckduckgo.com/ip3/salesiq.zoho.eu.ico",
     "slug": "zoho",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.85%",
-    "time": 1462,
-    "timeDay": 1440,
-    "timeWeek": 1326,
-    "timeMonth": 1244,
-    "timeYear": 1462,
+    "time": 1461,
+    "timeDay": 1442,
+    "timeWeek": 1341,
+    "timeMonth": 1250,
+    "timeYear": 1461,
     "dailyMinutesDown": {
       "2026-02-12": 18,
       "2026-02-16": 20,
@@ -111,7 +111,7 @@
       "2026-03-23": 18,
       "2026-04-15": 371,
       "2026-04-16": 176,
-      "2026-09-28": 1
+      "2026-09-28": 22
     }
   },
   {
