@@ -252,7 +252,7 @@
     "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.40%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.80%",
     "time": 2595,
@@ -420,11 +420,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.it.ico",
     "slug": "italy-website",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.67%",
     "time": 2500,
     "timeDay": 2513,
     "timeWeek": 2579,
@@ -462,9 +462,7 @@
       "2026-09-15": 22,
       "2026-09-22": 17,
       "2026-09-29": 16,
-      "2026-09-30": 34,
-      "2026-10-07": 11,
-      "2026-10-06": 4
+      "2026-09-30": 34
     }
   },
   {
