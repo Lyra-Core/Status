@@ -122,12 +122,12 @@
     "status": "up",
     "uptime": "99.41%",
     "uptimeDay": "90.99%",
-    "uptimeWeek": "91.38%",
+    "uptimeWeek": "91.57%",
     "uptimeMonth": "93.74%",
     "uptimeYear": "99.41%",
     "time": 3365,
     "timeDay": 3391,
-    "timeWeek": 3562,
+    "timeWeek": 3558,
     "timeMonth": 3321,
     "timeYear": 3365,
     "dailyMinutesDown": {
@@ -349,9 +349,9 @@
     "slug": "hungary-website",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
     "time": 1149,
     "timeDay": 1158,
@@ -362,8 +362,7 @@
       "2026-01-23": 16,
       "2026-09-14": 801,
       "2026-09-13": 1440,
-      "2026-09-12": 1424,
-      "2026-10-20": 4
+      "2026-09-12": 1424
     }
   },
   {
@@ -580,22 +579,23 @@
     "url": "https://lyrawellbeing.my",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.my.ico",
     "slug": "malaysia-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "70.16%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "70.15%",
     "uptimeMonth": "93.13%",
     "uptimeYear": "99.35%",
-    "time": 1596,
-    "timeDay": 1397,
-    "timeWeek": 4581,
-    "timeMonth": 2183,
-    "timeYear": 1596,
+    "time": 1711,
+    "timeDay": 20278,
+    "timeWeek": 8423,
+    "timeMonth": 3339,
+    "timeYear": 1711,
     "dailyMinutesDown": {
       "2026-09-06": 16,
       "2026-10-16": 509,
       "2026-10-15": 1440,
-      "2026-10-14": 1059
+      "2026-10-14": 1059,
+      "2026-10-20": 1
     }
   },
   {
