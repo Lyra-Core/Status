@@ -347,23 +347,23 @@
     "url": "https://lyrawellbeing.hu",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.hu.ico",
     "slug": "hungary-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.21%",
     "time": 1149,
-    "timeDay": 1312,
-    "timeWeek": 1267,
-    "timeMonth": 1248,
+    "timeDay": 1158,
+    "timeWeek": 1234,
+    "timeMonth": 1240,
     "timeYear": 1149,
     "dailyMinutesDown": {
       "2026-01-23": 16,
       "2026-09-14": 801,
       "2026-09-13": 1440,
       "2026-09-12": 1424,
-      "2026-10-20": 2
+      "2026-10-20": 4
     }
   },
   {
