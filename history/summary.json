@@ -254,7 +254,7 @@
     "time": 2682,
     "timeDay": 3281,
     "timeWeek": 3305,
-    "timeMonth": 3577,
+    "timeMonth": 3586,
     "timeYear": 2682,
     "dailyMinutesDown": {
       "2025-12-10": 15,
@@ -429,7 +429,7 @@
     "time": 2529,
     "timeDay": 3494,
     "timeWeek": 3139,
-    "timeMonth": 2711,
+    "timeMonth": 2719,
     "timeYear": 2529,
     "dailyMinutesDown": {
       "2026-01-15": 20,
@@ -503,17 +503,17 @@
     "url": "https://lyrawellbeing.lu",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "94.38%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "94.38%",
-    "time": 2986,
-    "timeDay": 4130,
-    "timeWeek": 3147,
-    "timeMonth": 2837,
-    "timeYear": 2986,
+    "time": 2987,
+    "timeDay": 4096,
+    "timeWeek": 3195,
+    "timeMonth": 2858,
+    "timeYear": 2987,
     "dailyMinutesDown": {
       "2025-12-14": 280,
       "2025-12-13": 43,
@@ -571,7 +571,7 @@
       "2026-09-14": 21,
       "2026-09-19": 22,
       "2026-10-17": 30,
-      "2026-10-20": 40
+      "2026-10-20": 29
     }
   },
   {
