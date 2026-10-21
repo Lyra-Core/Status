@@ -128,7 +128,7 @@
     "uptimeYear": "99.41%",
     "time": 3362,
     "timeDay": 3162,
-    "timeWeek": 3577,
+    "timeWeek": 3583,
     "timeMonth": 3324,
     "timeYear": 3362,
     "dailyMinutesDown": {
@@ -430,7 +430,7 @@
     "uptimeYear": "99.67%",
     "time": 2531,
     "timeDay": 2724,
-    "timeWeek": 3166,
+    "timeWeek": 3229,
     "timeMonth": 2726,
     "timeYear": 2531,
     "dailyMinutesDown": {
@@ -586,7 +586,7 @@
     "status": "up",
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "79.12%",
+    "uptimeWeek": "79.39%",
     "uptimeMonth": "93.13%",
     "uptimeYear": "99.35%",
     "time": 1709,
@@ -697,17 +697,17 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.41%",
-    "uptimeDay": "95.77%",
-    "uptimeWeek": "97.54%",
-    "uptimeMonth": "97.03%",
+    "uptimeDay": "93.92%",
+    "uptimeWeek": "97.28%",
+    "uptimeMonth": "96.96%",
     "uptimeYear": "98.41%",
-    "time": 5310,
-    "timeDay": 2930,
-    "timeWeek": 3264,
-    "timeMonth": 3807,
-    "timeYear": 5310,
+    "time": 5307,
+    "timeDay": 2895,
+    "timeWeek": 3273,
+    "timeMonth": 3795,
+    "timeYear": 5307,
     "dailyMinutesDown": {
       "2026-06-05": 25,
       "2026-06-07": 81,
@@ -765,7 +765,7 @@
       "2026-10-18": 25,
       "2026-10-19": 53,
       "2026-10-20": 44,
-      "2026-10-21": 61
+      "2026-10-21": 88
     }
   },
   {
