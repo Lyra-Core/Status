@@ -208,11 +208,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ca.ico",
     "slug": "canada-website",
     "status": "up",
-    "uptime": "94.59%",
+    "uptime": "94.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "94.59%",
+    "uptimeYear": "94.60%",
     "time": 512,
     "timeDay": 714,
     "timeWeek": 642,
@@ -506,16 +506,16 @@
     "url": "https://lyrawellbeing.lu",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "94.38%",
-    "uptimeDay": "95.28%",
-    "uptimeWeek": "98.76%",
+    "uptimeDay": "95.22%",
+    "uptimeWeek": "98.75%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "94.38%",
     "time": 3001,
-    "timeDay": 3910,
-    "timeWeek": 3369,
-    "timeMonth": 3004,
+    "timeDay": 3859,
+    "timeWeek": 3359,
+    "timeMonth": 3006,
     "timeYear": 3001,
     "dailyMinutesDown": {
       "2025-12-14": 280,
@@ -575,7 +575,7 @@
       "2026-09-19": 22,
       "2026-10-17": 30,
       "2026-10-20": 28,
-      "2026-10-21": 68
+      "2026-10-21": 69
     }
   },
   {
@@ -586,7 +586,7 @@
     "status": "up",
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "79.55%",
+    "uptimeWeek": "79.70%",
     "uptimeMonth": "93.13%",
     "uptimeYear": "99.35%",
     "time": 1709,
@@ -699,9 +699,9 @@
     "slug": "schweiz-website",
     "status": "up",
     "uptime": "98.41%",
-    "uptimeDay": "93.24%",
-    "uptimeWeek": "97.18%",
-    "uptimeMonth": "96.94%",
+    "uptimeDay": "93.92%",
+    "uptimeWeek": "97.28%",
+    "uptimeMonth": "96.96%",
     "uptimeYear": "98.41%",
     "time": 5303,
     "timeDay": 2919,
@@ -709,6 +709,7 @@
     "timeMonth": 3780,
     "timeYear": 5303,
     "dailyMinutesDown": {
+      "2026-06-05": 25,
       "2026-06-07": 81,
       "2026-06-08": 151,
       "2026-06-11": 138,
@@ -764,7 +765,7 @@
       "2026-10-18": 25,
       "2026-10-19": 53,
       "2026-10-20": 44,
-      "2026-10-21": 98
+      "2026-10-21": 88
     }
   },
   {
