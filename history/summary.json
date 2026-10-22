@@ -248,9 +248,9 @@
     "slug": "france-website",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "87.46%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "98.83%",
+    "uptimeDay": "85.72%",
+    "uptimeWeek": "96.92%",
+    "uptimeMonth": "98.77%",
     "uptimeYear": "99.75%",
     "time": 2687,
     "timeDay": 2933,
@@ -294,7 +294,7 @@
       "2026-10-18": 33,
       "2026-10-20": 19,
       "2026-10-21": 26,
-      "2026-10-22": 181
+      "2026-10-22": 206
     }
   },
   {
@@ -433,7 +433,7 @@
     "time": 2530,
     "timeDay": 2697,
     "timeWeek": 3226,
-    "timeMonth": 2728,
+    "timeMonth": 2708,
     "timeYear": 2530,
     "dailyMinutesDown": {
       "2026-01-15": 20,
@@ -588,7 +588,7 @@
     "status": "up",
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.95%",
+    "uptimeWeek": "91.20%",
     "uptimeMonth": "93.13%",
     "uptimeYear": "99.35%",
     "time": 1708,
@@ -699,19 +699,18 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "68.76%",
-    "uptimeWeek": "94.06%",
-    "uptimeMonth": "96.15%",
-    "uptimeYear": "98.45%",
-    "time": 5246,
-    "timeDay": 3324,
-    "timeWeek": 3247,
-    "timeMonth": 3401,
-    "timeYear": 5246,
+    "status": "degraded",
+    "uptime": "98.46%",
+    "uptimeDay": "68.67%",
+    "uptimeWeek": "94.05%",
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "98.46%",
+    "time": 5244,
+    "timeDay": 3334,
+    "timeWeek": 3255,
+    "timeMonth": 3404,
+    "timeYear": 5244,
     "dailyMinutesDown": {
-      "2026-06-12": 54,
       "2026-06-13": 89,
       "2026-06-22": 24,
       "2026-07-09": 51,
@@ -764,7 +763,7 @@
       "2026-10-19": 53,
       "2026-10-20": 44,
       "2026-10-21": 91,
-      "2026-10-22": 385
+      "2026-10-22": 386
     }
   },
   {
@@ -773,17 +772,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.sg.ico",
     "slug": "singapore-website",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 1860,
     "timeDay": 1778,
     "timeWeek": 2117,
     "timeMonth": 1883,
     "timeYear": 1860,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-31": 29
+    }
   },
   {
     "name": "South Africa Website",
