@@ -120,19 +120,19 @@
     "url": "https://lyrawellbeing.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.41%",
-    "uptimeDay": "93.58%",
-    "uptimeWeek": "93.41%",
-    "uptimeMonth": "93.64%",
+    "uptimeDay": "93.49%",
+    "uptimeWeek": "93.40%",
+    "uptimeMonth": "93.69%",
     "uptimeYear": "99.41%",
     "time": 3353,
-    "timeDay": 3325,
-    "timeWeek": 3353,
+    "timeDay": 3322,
+    "timeWeek": 3356,
     "timeMonth": 3315,
     "timeYear": 3353,
     "dailyMinutesDown": {
-      "2026-09-30": 113,
+      "2026-09-30": 90,
       "2026-10-01": 26,
       "2026-10-02": 169,
       "2026-10-03": 50,
@@ -156,7 +156,7 @@
       "2026-10-21": 51,
       "2026-10-22": 81,
       "2026-10-23": 139,
-      "2026-10-24": 56
+      "2026-10-24": 57
     }
   },
   {
@@ -247,7 +247,7 @@
     "slug": "france-website",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "82.59%",
+    "uptimeDay": "84.13%",
     "uptimeWeek": "84.42%",
     "uptimeMonth": "95.83%",
     "uptimeYear": "99.50%",
@@ -304,9 +304,9 @@
     "slug": "germany-website",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "98.86%",
     "time": 2877,
     "timeDay": 4765,
@@ -344,8 +344,7 @@
       "2026-10-11": 16,
       "2026-10-20": 17,
       "2026-10-22": 28,
-      "2026-10-23": 48,
-      "2026-10-24": 6
+      "2026-10-23": 48
     }
   },
   {
@@ -705,9 +704,9 @@
     "slug": "schweiz-website",
     "status": "degraded",
     "uptime": "98.53%",
-    "uptimeDay": "75.37%",
-    "uptimeWeek": "88.50%",
-    "uptimeMonth": "94.87%",
+    "uptimeDay": "73.83%",
+    "uptimeWeek": "88.28%",
+    "uptimeMonth": "94.82%",
     "uptimeYear": "98.53%",
     "time": 5137,
     "timeDay": 4036,
@@ -757,7 +756,7 @@
       "2026-10-21": 91,
       "2026-10-22": 427,
       "2026-10-23": 311,
-      "2026-10-24": 208
+      "2026-10-24": 230
     }
   },
   {
