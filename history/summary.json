@@ -129,7 +129,7 @@
     "time": 3351,
     "timeDay": 3194,
     "timeWeek": 3294,
-    "timeMonth": 3313,
+    "timeMonth": 3315,
     "timeYear": 3351,
     "dailyMinutesDown": {
       "2026-09-30": 113,
@@ -184,9 +184,9 @@
     "slug": "belgium-website",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1301,
     "timeDay": 2057,
@@ -198,8 +198,7 @@
       "2026-02-25": 16,
       "2026-03-19": 21,
       "2026-05-10": 42,
-      "2026-09-02": 20,
-      "2026-10-24": 9
+      "2026-09-02": 20
     }
   },
   {
@@ -513,12 +512,12 @@
     "status": "up",
     "uptime": "94.42%",
     "uptimeDay": "98.78%",
-    "uptimeWeek": "98.35%",
+    "uptimeWeek": "98.42%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "94.42%",
     "time": 3006,
     "timeDay": 3084,
-    "timeWeek": 3386,
+    "timeWeek": 3361,
     "timeMonth": 2987,
     "timeYear": 3006,
     "dailyMinutesDown": {
@@ -703,19 +702,18 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "up",
-    "uptime": "98.53%",
-    "uptimeDay": "64.77%",
-    "uptimeWeek": "85.53%",
+    "status": "degraded",
+    "uptime": "98.54%",
+    "uptimeDay": "64.70%",
+    "uptimeWeek": "85.52%",
     "uptimeMonth": "94.18%",
-    "uptimeYear": "98.53%",
-    "time": 5118,
-    "timeDay": 3696,
-    "timeWeek": 3579,
-    "timeMonth": 3582,
-    "timeYear": 5118,
+    "uptimeYear": "98.54%",
+    "time": 5116,
+    "timeDay": 3709,
+    "timeWeek": 3576,
+    "timeMonth": 3580,
+    "timeYear": 5116,
     "dailyMinutesDown": {
-      "2026-08-04": 20,
       "2026-08-05": 24,
       "2026-08-08": 18,
       "2026-08-09": 39,
@@ -755,7 +753,7 @@
       "2026-10-21": 91,
       "2026-10-22": 427,
       "2026-10-23": 311,
-      "2026-10-24": 509
+      "2026-10-24": 510
     }
   },
   {
