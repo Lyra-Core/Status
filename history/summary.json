@@ -122,9 +122,9 @@
     "slug": "argentina-website",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "94.79%",
-    "uptimeWeek": "92.79%",
-    "uptimeMonth": "93.66%",
+    "uptimeDay": "95.68%",
+    "uptimeWeek": "92.92%",
+    "uptimeMonth": "93.65%",
     "uptimeYear": "99.42%",
     "time": 3348,
     "timeDay": 3433,
@@ -132,7 +132,7 @@
     "timeMonth": 3318,
     "timeYear": 3348,
     "dailyMinutesDown": {
-      "2026-10-05": 182,
+      "2026-10-05": 200,
       "2026-10-06": 85,
       "2026-10-07": 19,
       "2026-10-08": 41,
@@ -155,7 +155,7 @@
       "2026-10-25": 16,
       "2026-10-26": 176,
       "2026-10-27": 181,
-      "2026-10-28": 75
+      "2026-10-28": 62
     }
   },
   {
@@ -434,7 +434,7 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.67%",
     "time": 2527,
-    "timeDay": 2619,
+    "timeDay": 2323,
     "timeWeek": 2348,
     "timeMonth": 2727,
     "timeYear": 2527,
@@ -519,7 +519,7 @@
     "uptimeYear": "94.49%",
     "time": 3004,
     "timeDay": 3042,
-    "timeWeek": 3056,
+    "timeWeek": 3074,
     "timeMonth": 2999,
     "timeYear": 3004,
     "dailyMinutesDown": {
@@ -705,19 +705,18 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.38%",
-    "uptimeDay": "79.60%",
-    "uptimeWeek": "70.68%",
-    "uptimeMonth": "92.57%",
+    "uptimeDay": "79.53%",
+    "uptimeWeek": "70.67%",
+    "uptimeMonth": "92.62%",
     "uptimeYear": "99.38%",
-    "time": 4866,
-    "timeDay": 3350,
-    "timeWeek": 3498,
-    "timeMonth": 3483,
-    "timeYear": 4866,
+    "time": 4865,
+    "timeDay": 3346,
+    "timeWeek": 3497,
+    "timeMonth": 3482,
+    "timeYear": 4865,
     "dailyMinutesDown": {
-      "2026-10-09": 25,
       "2026-10-15": 65,
       "2026-10-18": 25,
       "2026-10-19": 53,
@@ -729,7 +728,7 @@
       "2026-10-25": 477,
       "2026-10-26": 462,
       "2026-10-27": 443,
-      "2026-10-28": 276
+      "2026-10-28": 277
     }
   },
   {
