@@ -123,12 +123,12 @@
     "status": "up",
     "uptime": "99.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.63%",
+    "uptimeWeek": "93.73%",
     "uptimeMonth": "93.65%",
     "uptimeYear": "99.42%",
     "time": 3347,
     "timeDay": 3071,
-    "timeWeek": 3238,
+    "timeWeek": 3241,
     "timeMonth": 3321,
     "timeYear": 3347,
     "dailyMinutesDown": {
@@ -245,11 +245,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
     "status": "degraded",
-    "uptime": "99.49%",
-    "uptimeDay": "93.88%",
+    "uptime": "99.48%",
+    "uptimeDay": "93.04%",
     "uptimeWeek": "87.72%",
-    "uptimeMonth": "95.76%",
-    "uptimeYear": "99.49%",
+    "uptimeMonth": "95.73%",
+    "uptimeYear": "99.48%",
     "time": 2722,
     "timeDay": 3060,
     "timeWeek": 3081,
@@ -295,7 +295,7 @@
       "2026-10-22": 584,
       "2026-10-23": 909,
       "2026-10-26": 8,
-      "2026-10-29": 89
+      "2026-10-29": 101
     }
   },
   {
@@ -386,7 +386,7 @@
     "uptimeYear": "98.91%",
     "time": 1490,
     "timeDay": 990,
-    "timeWeek": 1974,
+    "timeWeek": 1217,
     "timeMonth": 2713,
     "timeYear": 1490,
     "dailyMinutesDown": {
@@ -706,16 +706,16 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.40%",
-    "uptimeDay": "80.99%",
-    "uptimeWeek": "71.89%",
-    "uptimeMonth": "92.83%",
+    "uptimeDay": "81.92%",
+    "uptimeWeek": "72.12%",
+    "uptimeMonth": "92.86%",
     "uptimeYear": "99.40%",
     "time": 4797,
-    "timeDay": 3184,
-    "timeWeek": 3463,
-    "timeMonth": 3449,
+    "timeDay": 3181,
+    "timeWeek": 3465,
+    "timeMonth": 3450,
     "timeYear": 4797,
     "dailyMinutesDown": {
       "2026-10-22": 342,
@@ -725,7 +725,7 @@
       "2026-10-26": 462,
       "2026-10-27": 443,
       "2026-10-28": 276,
-      "2026-10-29": 274
+      "2026-10-29": 260
     }
   },
   {
