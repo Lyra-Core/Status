@@ -120,16 +120,16 @@
     "url": "https://lyrawellbeing.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "97.69%",
-    "uptimeWeek": "94.25%",
-    "uptimeMonth": "93.66%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "94.19%",
+    "uptimeMonth": "93.65%",
     "uptimeYear": "99.42%",
     "time": 3349,
-    "timeDay": 3464,
-    "timeWeek": 3290,
-    "timeMonth": 3329,
+    "timeDay": 3427,
+    "timeWeek": 3287,
+    "timeMonth": 3328,
     "timeYear": 3349,
     "dailyMinutesDown": {
       "2026-10-05": 160,
@@ -156,7 +156,7 @@
       "2026-10-26": 176,
       "2026-10-27": 181,
       "2026-10-28": 62,
-      "2026-10-30": 33
+      "2026-10-30": 40
     }
   },
   {
@@ -247,9 +247,9 @@
     "slug": "france-website",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "90.05%",
-    "uptimeWeek": "93.67%",
-    "uptimeMonth": "95.88%",
+    "uptimeDay": "90.43%",
+    "uptimeWeek": "93.81%",
+    "uptimeMonth": "95.89%",
     "uptimeYear": "99.47%",
     "time": 2742,
     "timeDay": 3085,
@@ -297,7 +297,7 @@
       "2026-10-23": 909,
       "2026-10-26": 8,
       "2026-10-29": 108,
-      "2026-10-30": 66
+      "2026-10-30": 61
     }
   },
   {
@@ -514,16 +514,16 @@
     "url": "https://lyrawellbeing.lu",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "94.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.57%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "94.51%",
     "time": 3002,
-    "timeDay": 2982,
-    "timeWeek": 2930,
-    "timeMonth": 3003,
+    "timeDay": 3027,
+    "timeWeek": 2944,
+    "timeMonth": 3006,
     "timeYear": 3002,
     "dailyMinutesDown": {
       "2025-12-14": 280,
@@ -586,7 +586,8 @@
       "2026-10-21": 68,
       "2026-10-23": 23,
       "2026-10-24": 18,
-      "2026-10-27": 26
+      "2026-10-27": 26,
+      "2026-10-30": 1
     }
   },
   {
@@ -710,12 +711,12 @@
     "slug": "schweiz-website",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "86.89%",
+    "uptimeDay": "86.96%",
     "uptimeWeek": "72.29%",
     "uptimeMonth": "92.80%",
     "uptimeYear": "99.40%",
     "time": 4760,
-    "timeDay": 3136,
+    "timeDay": 3139,
     "timeWeek": 3456,
     "timeMonth": 3425,
     "timeYear": 4760,
