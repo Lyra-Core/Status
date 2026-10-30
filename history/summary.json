@@ -129,7 +129,7 @@
     "time": 3349,
     "timeDay": 3474,
     "timeWeek": 3290,
-    "timeMonth": 3328,
+    "timeMonth": 3329,
     "timeYear": 3349,
     "dailyMinutesDown": {
       "2026-10-05": 182,
@@ -245,17 +245,17 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.47%",
-    "uptimeDay": "91.51%",
-    "uptimeWeek": "93.46%",
-    "uptimeMonth": "95.93%",
+    "uptimeDay": "91.44%",
+    "uptimeWeek": "93.56%",
+    "uptimeMonth": "95.92%",
     "uptimeYear": "99.47%",
-    "time": 2741,
-    "timeDay": 3094,
-    "timeWeek": 3091,
-    "timeMonth": 3283,
-    "timeYear": 2741,
+    "time": 2742,
+    "timeDay": 3093,
+    "timeWeek": 3090,
+    "timeMonth": 3281,
+    "timeYear": 2742,
     "dailyMinutesDown": {
       "2025-12-10": 15,
       "2026-01-15": 45,
@@ -297,7 +297,7 @@
       "2026-10-23": 909,
       "2026-10-26": 8,
       "2026-10-29": 108,
-      "2026-10-30": 45
+      "2026-10-30": 46
     }
   },
   {
@@ -308,12 +308,12 @@
     "status": "up",
     "uptime": "98.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "98.87%",
     "time": 2880,
     "timeDay": 2658,
-    "timeWeek": 3676,
+    "timeWeek": 3716,
     "timeMonth": 3912,
     "timeYear": 2880,
     "dailyMinutesDown": {
@@ -710,9 +710,9 @@
     "slug": "schweiz-website",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "85.18%",
-    "uptimeWeek": "71.99%",
-    "uptimeMonth": "92.82%",
+    "uptimeDay": "85.89%",
+    "uptimeWeek": "72.13%",
+    "uptimeMonth": "92.80%",
     "uptimeYear": "99.40%",
     "time": 4760,
     "timeDay": 3153,
@@ -720,7 +720,7 @@
     "timeMonth": 3425,
     "timeYear": 4760,
     "dailyMinutesDown": {
-      "2026-10-22": 255,
+      "2026-10-22": 277,
       "2026-10-23": 311,
       "2026-10-24": 555,
       "2026-10-25": 477,
@@ -728,7 +728,7 @@
       "2026-10-27": 443,
       "2026-10-28": 276,
       "2026-10-29": 274,
-      "2026-10-30": 88
+      "2026-10-30": 78
     }
   },
   {
