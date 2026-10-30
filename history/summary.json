@@ -95,9 +95,9 @@
     "slug": "zoho",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 1445,
     "timeDay": 1242,
@@ -112,9 +112,7 @@
       "2026-03-23": 18,
       "2026-04-15": 371,
       "2026-04-16": 176,
-      "2026-09-28": 22,
-      "2026-10-30": 4,
-      "2026-10-29": 0
+      "2026-09-28": 22
     }
   },
   {
@@ -125,7 +123,7 @@
     "status": "up",
     "uptime": "99.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.77%",
+    "uptimeWeek": "93.80%",
     "uptimeMonth": "93.65%",
     "uptimeYear": "99.42%",
     "time": 3347,
@@ -249,7 +247,7 @@
     "status": "up",
     "uptime": "99.48%",
     "uptimeDay": "92.57%",
-    "uptimeWeek": "89.89%",
+    "uptimeWeek": "89.92%",
     "uptimeMonth": "95.94%",
     "uptimeYear": "99.48%",
     "time": 2733,
@@ -710,9 +708,9 @@
     "slug": "schweiz-website",
     "status": "degraded",
     "uptime": "99.40%",
-    "uptimeDay": "80.82%",
-    "uptimeWeek": "72.22%",
-    "uptimeMonth": "92.87%",
+    "uptimeDay": "80.64%",
+    "uptimeWeek": "72.19%",
+    "uptimeMonth": "92.86%",
     "uptimeYear": "99.40%",
     "time": 4781,
     "timeDay": 3161,
@@ -728,7 +726,7 @@
       "2026-10-27": 443,
       "2026-10-28": 276,
       "2026-10-29": 274,
-      "2026-10-30": 2
+      "2026-10-30": 5
     }
   },
   {
