@@ -709,17 +709,17 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "79.56%",
-    "uptimeWeek": "74.27%",
-    "uptimeMonth": "93.37%",
+    "uptimeDay": "79.30%",
+    "uptimeWeek": "74.28%",
+    "uptimeMonth": "93.36%",
     "uptimeYear": "99.45%",
-    "time": 4676,
-    "timeDay": 3518,
-    "timeWeek": 3355,
-    "timeMonth": 3428,
-    "timeYear": 4598,
+    "time": 4675,
+    "timeDay": 3508,
+    "timeWeek": 3354,
+    "timeMonth": 3426,
+    "timeYear": 4597,
     "dailyMinutesDown": {
       "2026-10-24": 555,
       "2026-10-25": 477,
@@ -728,7 +728,7 @@
       "2026-10-28": 276,
       "2026-10-29": 274,
       "2026-10-30": 294,
-      "2026-10-31": 122
+      "2026-10-31": 126
     }
   },
   {
