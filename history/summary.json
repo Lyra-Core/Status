@@ -62,9 +62,9 @@
     "slug": "schweiz-chat",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.91%",
     "time": 2352,
     "timeDay": 2593,
@@ -85,8 +85,7 @@
       "2026-08-12": 19,
       "2026-09-08": 16,
       "2026-09-10": 16,
-      "2026-10-21": 27,
-      "2026-10-31": 6
+      "2026-10-21": 27
     }
   },
   {
@@ -122,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
     "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "95.71%",
-    "uptimeWeek": "94.88%",
-    "uptimeMonth": "93.75%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.42%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "94.94%",
+    "uptimeMonth": "93.69%",
+    "uptimeYear": "99.42%",
     "time": 3351,
     "timeDay": 3543,
     "timeWeek": 3328,
     "timeMonth": 3336,
     "timeYear": 3351,
     "dailyMinutesDown": {
-      "2026-10-05": 93,
+      "2026-10-05": 126,
       "2026-10-06": 85,
       "2026-10-07": 19,
       "2026-10-08": 41,
@@ -157,8 +156,7 @@
       "2026-10-26": 176,
       "2026-10-27": 181,
       "2026-10-28": 62,
-      "2026-10-30": 56,
-      "2026-10-31": 6
+      "2026-10-30": 56
     }
   },
   {
@@ -249,9 +247,9 @@
     "slug": "france-website",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "93.71%",
-    "uptimeWeek": "97.51%",
-    "uptimeMonth": "95.72%",
+    "uptimeDay": "94.53%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "95.75%",
     "uptimeYear": "99.46%",
     "time": 2761,
     "timeDay": 3041,
@@ -299,8 +297,7 @@
       "2026-10-23": 909,
       "2026-10-26": 8,
       "2026-10-29": 108,
-      "2026-10-30": 124,
-      "2026-10-31": 12
+      "2026-10-30": 124
     }
   },
   {
@@ -712,17 +709,17 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.44%",
-    "uptimeDay": "78.25%",
-    "uptimeWeek": "71.67%",
-    "uptimeMonth": "93.26%",
+    "uptimeDay": "78.97%",
+    "uptimeWeek": "71.78%",
+    "uptimeMonth": "93.29%",
     "uptimeYear": "99.44%",
-    "time": 4695,
-    "timeDay": 3416,
-    "timeWeek": 3388,
-    "timeMonth": 3426,
-    "timeYear": 4695,
+    "time": 4698,
+    "timeDay": 3490,
+    "timeWeek": 3402,
+    "timeMonth": 3436,
+    "timeYear": 4698,
     "dailyMinutesDown": {
       "2026-10-23": 71,
       "2026-10-24": 555,
@@ -732,7 +729,7 @@
       "2026-10-28": 276,
       "2026-10-29": 274,
       "2026-10-30": 294,
-      "2026-10-31": 98
+      "2026-10-31": 87
     }
   },
   {
