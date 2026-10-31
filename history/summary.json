@@ -120,19 +120,19 @@
     "url": "https://lyrawellbeing.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.12%",
-    "uptimeMonth": "93.69%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "95.10%",
+    "uptimeMonth": "93.76%",
     "uptimeYear": "99.43%",
     "time": 3354,
-    "timeDay": 3451,
-    "timeWeek": 3367,
+    "timeDay": 3443,
+    "timeWeek": 3366,
     "timeMonth": 3346,
     "timeYear": 3354,
     "dailyMinutesDown": {
-      "2026-10-05": 126,
+      "2026-10-05": 93,
       "2026-10-06": 85,
       "2026-10-07": 19,
       "2026-10-08": 41,
@@ -156,7 +156,8 @@
       "2026-10-26": 176,
       "2026-10-27": 181,
       "2026-10-28": 62,
-      "2026-10-30": 56
+      "2026-10-30": 56,
+      "2026-10-31": 2
     }
   },
   {
@@ -252,8 +253,8 @@
     "uptimeMonth": "95.75%",
     "uptimeYear": "99.46%",
     "time": 2766,
-    "timeDay": 3026,
-    "timeWeek": 3045,
+    "timeDay": 3029,
+    "timeWeek": 3048,
     "timeMonth": 3206,
     "timeYear": 2773,
     "dailyMinutesDown": {
@@ -710,17 +711,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
     "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "79.25%",
-    "uptimeWeek": "73.93%",
-    "uptimeMonth": "93.36%",
-    "uptimeYear": "99.45%",
+    "uptime": "99.44%",
+    "uptimeDay": "79.64%",
+    "uptimeWeek": "74.22%",
+    "uptimeMonth": "93.34%",
+    "uptimeYear": "99.44%",
     "time": 4677,
-    "timeDay": 3487,
-    "timeWeek": 3358,
+    "timeDay": 3500,
+    "timeWeek": 3359,
     "timeMonth": 3426,
     "timeYear": 4598,
     "dailyMinutesDown": {
+      "2026-10-23": 15,
       "2026-10-24": 555,
       "2026-10-25": 477,
       "2026-10-26": 462,
@@ -728,7 +730,7 @@
       "2026-10-28": 276,
       "2026-10-29": 274,
       "2026-10-30": 294,
-      "2026-10-31": 127
+      "2026-10-31": 121
     }
   },
   {
