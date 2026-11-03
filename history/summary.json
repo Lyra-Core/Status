@@ -122,9 +122,9 @@
     "slug": "argentina-website",
     "status": "degraded",
     "uptime": "99.43%",
-    "uptimeDay": "95.40%",
+    "uptimeDay": "94.61%",
     "uptimeWeek": "94.89%",
-    "uptimeMonth": "93.67%",
+    "uptimeMonth": "93.65%",
     "uptimeYear": "99.43%",
     "time": 3354,
     "timeDay": 3305,
@@ -157,7 +157,7 @@
       "2026-10-30": 56,
       "2026-11-01": 122,
       "2026-11-02": 95,
-      "2026-11-03": 1
+      "2026-11-03": 12
     }
   },
   {
@@ -246,17 +246,17 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.26%",
-    "uptimeDay": "51.49%",
-    "uptimeWeek": "87.06%",
+    "uptimeDay": "52.21%",
+    "uptimeWeek": "87.05%",
     "uptimeMonth": "93.30%",
     "uptimeYear": "99.26%",
     "time": 2854,
-    "timeDay": 3132,
+    "timeDay": 3133,
     "timeWeek": 3097,
     "timeMonth": 3170,
-    "timeYear": 2865,
+    "timeYear": 2866,
     "dailyMinutesDown": {
       "2025-12-10": 15,
       "2026-01-15": 45,
@@ -302,7 +302,7 @@
       "2026-10-31": 18,
       "2026-11-01": 263,
       "2026-11-02": 657,
-      "2026-11-03": 133
+      "2026-11-03": 134
     }
   },
   {
@@ -313,12 +313,12 @@
     "status": "up",
     "uptime": "98.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.47%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "98.87%",
     "time": 2890,
     "timeDay": 1952,
-    "timeWeek": 3158,
+    "timeWeek": 3098,
     "timeMonth": 3660,
     "timeYear": 2897,
     "dailyMinutesDown": {
@@ -717,13 +717,13 @@
     "slug": "schweiz-website",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "83.32%",
-    "uptimeWeek": "82.46%",
+    "uptimeDay": "84.10%",
+    "uptimeWeek": "82.52%",
     "uptimeMonth": "93.78%",
     "uptimeYear": "99.48%",
     "time": 4336,
-    "timeDay": 3601,
-    "timeWeek": 3380,
+    "timeDay": 3613,
+    "timeWeek": 3378,
     "timeMonth": 3399,
     "timeYear": 3770,
     "dailyMinutesDown": {
