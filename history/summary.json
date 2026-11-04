@@ -247,7 +247,7 @@
     "slug": "france-website",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "70.02%",
+    "uptimeDay": "70.65%",
     "uptimeWeek": "84.14%",
     "uptimeMonth": "92.62%",
     "uptimeYear": "99.20%",
@@ -717,12 +717,12 @@
     "status": "degraded",
     "uptime": "99.50%",
     "uptimeDay": "86.72%",
-    "uptimeWeek": "84.10%",
-    "uptimeMonth": "93.97%",
+    "uptimeWeek": "84.08%",
+    "uptimeMonth": "93.95%",
     "uptimeYear": "99.50%",
     "time": 4433,
     "timeDay": 4133,
-    "timeWeek": 3499,
+    "timeWeek": 3498,
     "timeMonth": 3484,
     "timeYear": 3621,
     "dailyMinutesDown": {
@@ -735,7 +735,8 @@
       "2026-10-31": 165,
       "2026-11-01": 176,
       "2026-11-02": 228,
-      "2026-11-03": 190
+      "2026-11-03": 192,
+      "2026-11-04": 7
     }
   },
   {
