@@ -122,9 +122,9 @@
     "slug": "argentina-website",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "93.67%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "96.54%",
+    "uptimeMonth": "93.68%",
     "uptimeYear": "99.43%",
     "time": 3356,
     "timeDay": 3120,
@@ -156,7 +156,7 @@
       "2026-11-01": 122,
       "2026-11-02": 95,
       "2026-11-03": 44,
-      "2026-11-04": 38
+      "2026-11-04": 32
     }
   },
   {
@@ -245,16 +245,16 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "69.75%",
-    "uptimeWeek": "80.57%",
-    "uptimeMonth": "91.80%",
+    "uptimeDay": "69.47%",
+    "uptimeWeek": "80.53%",
+    "uptimeMonth": "91.79%",
     "uptimeYear": "99.14%",
     "time": 2889,
-    "timeDay": 3106,
-    "timeWeek": 3098,
-    "timeMonth": 3152,
+    "timeDay": 3102,
+    "timeWeek": 3097,
+    "timeMonth": 3151,
     "timeYear": 2900,
     "dailyMinutesDown": {
       "2026-01-18": 16,
@@ -300,7 +300,7 @@
       "2026-11-01": 263,
       "2026-11-02": 657,
       "2026-11-03": 428,
-      "2026-11-04": 360
+      "2026-11-04": 364
     }
   },
   {
@@ -714,17 +714,17 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "83.97%",
-    "uptimeWeek": "84.79%",
-    "uptimeMonth": "94.06%",
-    "uptimeYear": "99.51%",
-    "time": 4239,
-    "timeDay": 4408,
-    "timeWeek": 3570,
-    "timeMonth": 3520,
-    "timeYear": 3581,
+    "uptimeDay": "83.70%",
+    "uptimeWeek": "84.75%",
+    "uptimeMonth": "94.05%",
+    "uptimeYear": "99.50%",
+    "time": 4232,
+    "timeDay": 4379,
+    "timeWeek": 3569,
+    "timeMonth": 3519,
+    "timeYear": 3572,
     "dailyMinutesDown": {
       "2026-10-26": 363,
       "2026-10-27": 443,
@@ -735,7 +735,7 @@
       "2026-11-01": 176,
       "2026-11-02": 228,
       "2026-11-03": 192,
-      "2026-11-04": 189
+      "2026-11-04": 193
     }
   },
   {
