@@ -245,11 +245,11 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.21%",
-    "uptimeDay": "71.64%",
-    "uptimeWeek": "84.02%",
-    "uptimeMonth": "92.60%",
+    "uptimeDay": "73.25%",
+    "uptimeWeek": "84.12%",
+    "uptimeMonth": "92.62%",
     "uptimeYear": "99.20%",
     "time": 2871,
     "timeDay": 3095,
@@ -302,7 +302,7 @@
       "2026-11-01": 263,
       "2026-11-02": 657,
       "2026-11-03": 428,
-      "2026-11-04": 11
+      "2026-11-04": 2
     }
   },
   {
@@ -312,9 +312,9 @@
     "slug": "germany-website",
     "status": "degraded",
     "uptime": "98.87%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "98.86%",
     "time": 2897,
     "timeDay": 5001,
@@ -356,7 +356,7 @@
       "2026-10-26": 24,
       "2026-10-27": 33,
       "2026-10-30": 21,
-      "2026-11-04": 25
+      "2026-11-04": 38
     }
   },
   {
@@ -716,19 +716,19 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.49%",
-    "uptimeDay": "85.70%",
-    "uptimeWeek": "84.09%",
-    "uptimeMonth": "93.83%",
+    "uptimeDay": "85.61%",
+    "uptimeWeek": "84.12%",
+    "uptimeMonth": "93.86%",
     "uptimeYear": "99.49%",
-    "time": 4433,
-    "timeDay": 4138,
-    "timeWeek": 3497,
+    "time": 4422,
+    "timeDay": 4139,
+    "timeWeek": 3498,
     "timeMonth": 3483,
-    "timeYear": 3617,
+    "timeYear": 3616,
     "dailyMinutesDown": {
-      "2026-10-25": 131,
+      "2026-10-25": 114,
       "2026-10-26": 462,
       "2026-10-27": 443,
       "2026-10-28": 276,
@@ -738,7 +738,7 @@
       "2026-11-01": 176,
       "2026-11-02": 228,
       "2026-11-03": 192,
-      "2026-11-04": 61
+      "2026-11-04": 62
     }
   },
   {
