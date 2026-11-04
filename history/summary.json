@@ -122,17 +122,16 @@
     "slug": "argentina-website",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "96.52%",
-    "uptimeMonth": "93.64%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "93.66%",
     "uptimeYear": "99.43%",
     "time": 3357,
     "timeDay": 3117,
-    "timeWeek": 3419,
+    "timeWeek": 3422,
     "timeMonth": 3375,
     "timeYear": 3357,
     "dailyMinutesDown": {
-      "2026-10-08": 21,
       "2026-10-09": 154,
       "2026-10-10": 92,
       "2026-10-11": 60,
@@ -157,7 +156,7 @@
       "2026-11-01": 122,
       "2026-11-02": 95,
       "2026-11-03": 44,
-      "2026-11-04": 9
+      "2026-11-04": 22
     }
   },
   {
@@ -248,15 +247,15 @@
     "slug": "france-website",
     "status": "degraded",
     "uptime": "99.17%",
-    "uptimeDay": "69.83%",
-    "uptimeWeek": "82.02%",
-    "uptimeMonth": "92.14%",
+    "uptimeDay": "69.70%",
+    "uptimeWeek": "81.89%",
+    "uptimeMonth": "92.11%",
     "uptimeYear": "99.16%",
     "time": 2882,
-    "timeDay": 3092,
+    "timeDay": 3087,
     "timeWeek": 3097,
     "timeMonth": 3155,
-    "timeYear": 2892,
+    "timeYear": 2893,
     "dailyMinutesDown": {
       "2025-12-10": 15,
       "2026-01-15": 45,
@@ -303,7 +302,7 @@
       "2026-11-01": 263,
       "2026-11-02": 657,
       "2026-11-03": 428,
-      "2026-11-04": 213
+      "2026-11-04": 226
     }
   },
   {
@@ -724,8 +723,8 @@
     "uptimeMonth": "93.93%",
     "uptimeYear": "99.49%",
     "time": 4311,
-    "timeDay": 4530,
-    "timeWeek": 3570,
+    "timeDay": 4561,
+    "timeWeek": 3571,
     "timeMonth": 3520,
     "timeYear": 3599,
     "dailyMinutesDown": {
