@@ -122,9 +122,9 @@
     "slug": "argentina-website",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "94.63%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "93.63%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "96.20%",
+    "uptimeMonth": "93.60%",
     "uptimeYear": "99.43%",
     "time": 3357,
     "timeDay": 3303,
@@ -132,7 +132,7 @@
     "timeMonth": 3375,
     "timeYear": 3357,
     "dailyMinutesDown": {
-      "2026-10-09": 111,
+      "2026-10-09": 137,
       "2026-10-10": 92,
       "2026-10-11": 60,
       "2026-10-12": 288,
@@ -157,7 +157,7 @@
       "2026-11-02": 95,
       "2026-11-03": 44,
       "2026-11-04": 32,
-      "2026-11-05": 46
+      "2026-11-05": 34
     }
   },
   {
@@ -248,12 +248,12 @@
     "slug": "france-website",
     "status": "degraded",
     "uptime": "99.16%",
-    "uptimeDay": "70.63%",
-    "uptimeWeek": "78.69%",
-    "uptimeMonth": "91.37%",
+    "uptimeDay": "70.27%",
+    "uptimeWeek": "78.63%",
+    "uptimeMonth": "91.36%",
     "uptimeYear": "99.15%",
     "time": 2896,
-    "timeDay": 3139,
+    "timeDay": 3133,
     "timeWeek": 3100,
     "timeMonth": 3151,
     "timeYear": 2907,
@@ -294,7 +294,7 @@
       "2026-11-02": 657,
       "2026-11-03": 428,
       "2026-11-04": 410,
-      "2026-11-05": 141
+      "2026-11-05": 146
     }
   },
   {
@@ -708,17 +708,17 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "85.42%",
-    "uptimeWeek": "84.65%",
-    "uptimeMonth": "93.85%",
+    "uptimeDay": "85.14%",
+    "uptimeWeek": "84.61%",
+    "uptimeMonth": "93.84%",
     "uptimeYear": "99.49%",
-    "time": 4096,
-    "timeDay": 3380,
-    "timeWeek": 3581,
-    "timeMonth": 3517,
-    "timeYear": 3532,
+    "time": 4084,
+    "timeDay": 3372,
+    "timeWeek": 3580,
+    "timeMonth": 3516,
+    "timeYear": 3531,
     "dailyMinutesDown": {
       "2026-10-26": 328,
       "2026-10-27": 443,
@@ -730,7 +730,7 @@
       "2026-11-02": 228,
       "2026-11-03": 192,
       "2026-11-04": 318,
-      "2026-11-05": 1
+      "2026-11-05": 5
     }
   },
   {
