@@ -122,14 +122,14 @@
     "slug": "argentina-website",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "96.72%",
+    "uptimeDay": "97.12%",
     "uptimeWeek": "96.20%",
     "uptimeMonth": "93.60%",
     "uptimeYear": "99.43%",
     "time": 3358,
     "timeDay": 3400,
     "timeWeek": 3433,
-    "timeMonth": 3374,
+    "timeMonth": 3371,
     "timeYear": 3358,
     "dailyMinutesDown": {
       "2026-10-09": 137,
@@ -246,17 +246,17 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "66.26%",
-    "uptimeWeek": "77.40%",
-    "uptimeMonth": "91.07%",
+    "status": "degraded",
+    "uptime": "99.18%",
+    "uptimeDay": "67.38%",
+    "uptimeWeek": "77.50%",
+    "uptimeMonth": "91.09%",
     "uptimeYear": "99.16%",
-    "time": 2902,
-    "timeDay": 3133,
+    "time": 2903,
+    "timeDay": 3134,
     "timeWeek": 3107,
     "timeMonth": 3153,
-    "timeYear": 2913,
+    "timeYear": 2914,
     "dailyMinutesDown": {
       "2026-07-21": 29,
       "2026-07-23": 31,
@@ -288,7 +288,7 @@
       "2026-11-02": 657,
       "2026-11-03": 428,
       "2026-11-04": 410,
-      "2026-11-05": 300
+      "2026-11-05": 289
     }
   },
   {
@@ -704,17 +704,17 @@
     "slug": "schweiz-website",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "86.67%",
-    "uptimeWeek": "85.46%",
-    "uptimeMonth": "93.84%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "86.93%",
+    "uptimeWeek": "85.49%",
+    "uptimeMonth": "93.81%",
+    "uptimeYear": "99.48%",
     "time": 3980,
     "timeDay": 3420,
     "timeWeek": 3585,
     "timeMonth": 3515,
     "timeYear": 3530,
     "dailyMinutesDown": {
-      "2026-10-26": 311,
+      "2026-10-26": 328,
       "2026-10-27": 443,
       "2026-10-28": 276,
       "2026-10-29": 274,
@@ -724,7 +724,7 @@
       "2026-11-02": 228,
       "2026-11-03": 192,
       "2026-11-04": 318,
-      "2026-11-05": 22
+      "2026-11-05": 18
     }
   },
   {
