@@ -714,17 +714,17 @@
     "slug": "schweiz-website",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "77.36%",
-    "uptimeWeek": "83.62%",
-    "uptimeMonth": "93.84%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "78.43%",
+    "uptimeWeek": "83.67%",
+    "uptimeMonth": "93.77%",
+    "uptimeYear": "99.48%",
     "time": 4196,
-    "timeDay": 4196,
+    "timeDay": 4140,
     "timeWeek": 3579,
     "timeMonth": 3521,
     "timeYear": 3554,
     "dailyMinutesDown": {
-      "2026-10-26": 328,
+      "2026-10-26": 363,
       "2026-10-27": 443,
       "2026-10-28": 276,
       "2026-10-29": 274,
@@ -733,7 +733,7 @@
       "2026-11-01": 176,
       "2026-11-02": 228,
       "2026-11-03": 192,
-      "2026-11-04": 323
+      "2026-11-04": 318
     }
   },
   {
