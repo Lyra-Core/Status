@@ -122,17 +122,17 @@
     "slug": "argentina-website",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "93.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.76%",
+    "uptimeMonth": "93.60%",
     "uptimeYear": "99.43%",
     "time": 3358,
     "timeDay": 3343,
     "timeWeek": 3401,
-    "timeMonth": 3377,
+    "timeMonth": 3376,
     "timeYear": 3358,
     "dailyMinutesDown": {
-      "2026-10-09": 111,
+      "2026-10-09": 137,
       "2026-10-10": 92,
       "2026-10-11": 60,
       "2026-10-12": 288,
@@ -157,8 +157,7 @@
       "2026-11-02": 95,
       "2026-11-03": 44,
       "2026-11-04": 32,
-      "2026-11-05": 34,
-      "2026-11-06": 4
+      "2026-11-05": 34
     }
   },
   {
@@ -250,8 +249,8 @@
     "status": "degraded",
     "uptime": "99.17%",
     "uptimeDay": "66.48%",
-    "uptimeWeek": "73.63%",
-    "uptimeMonth": "89.93%",
+    "uptimeWeek": "73.59%",
+    "uptimeMonth": "89.92%",
     "uptimeYear": "99.16%",
     "time": 2925,
     "timeDay": 3150,
@@ -272,7 +271,7 @@
       "2026-11-03": 428,
       "2026-11-04": 410,
       "2026-11-05": 491,
-      "2026-11-06": 370
+      "2026-11-06": 373
     }
   },
   {
@@ -687,17 +686,17 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "67.18%",
-    "uptimeWeek": "82.78%",
-    "uptimeMonth": "93.72%",
+    "uptimeDay": "67.04%",
+    "uptimeWeek": "82.76%",
+    "uptimeMonth": "93.71%",
     "uptimeYear": "99.48%",
-    "time": 4101,
-    "timeDay": 5131,
-    "timeWeek": 3843,
-    "timeMonth": 3626,
-    "timeYear": 3581,
+    "time": 4092,
+    "timeDay": 5102,
+    "timeWeek": 3825,
+    "timeMonth": 3625,
+    "timeYear": 3580,
     "dailyMinutesDown": {
       "2026-10-27": 321,
       "2026-10-28": 276,
@@ -709,7 +708,7 @@
       "2026-11-03": 192,
       "2026-11-04": 318,
       "2026-11-05": 44,
-      "2026-11-06": 467
+      "2026-11-06": 469
     }
   },
   {
