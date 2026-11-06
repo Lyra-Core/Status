@@ -246,15 +246,15 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "68.43%",
-    "uptimeWeek": "76.19%",
-    "uptimeMonth": "90.51%",
-    "uptimeYear": "99.17%",
+    "uptimeDay": "68.50%",
+    "uptimeWeek": "76.15%",
+    "uptimeMonth": "90.50%",
+    "uptimeYear": "99.16%",
     "time": 2915,
-    "timeDay": 3143,
-    "timeWeek": 3108,
+    "timeDay": 3141,
+    "timeWeek": 3107,
     "timeMonth": 3151,
     "timeYear": 2927,
     "dailyMinutesDown": {
@@ -278,7 +278,7 @@
       "2026-11-03": 428,
       "2026-11-04": 410,
       "2026-11-05": 491,
-      "2026-11-06": 54
+      "2026-11-06": 59
     }
   },
   {
@@ -695,17 +695,17 @@
     "slug": "schweiz-website",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "96.43%",
-    "uptimeWeek": "86.66%",
-    "uptimeMonth": "94.05%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "86.73%",
+    "uptimeMonth": "94.03%",
     "uptimeYear": "99.50%",
     "time": 4181,
-    "timeDay": 3197,
-    "timeWeek": 3589,
+    "timeDay": 3200,
+    "timeWeek": 3591,
     "timeMonth": 3499,
     "timeYear": 3512,
     "dailyMinutesDown": {
-      "2026-10-26": 190,
+      "2026-10-26": 205,
       "2026-10-27": 443,
       "2026-10-28": 276,
       "2026-10-29": 274,
@@ -715,8 +715,7 @@
       "2026-11-02": 228,
       "2026-11-03": 192,
       "2026-11-04": 318,
-      "2026-11-05": 44,
-      "2026-11-06": 7
+      "2026-11-05": 44
     }
   },
   {
