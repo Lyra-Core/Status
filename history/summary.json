@@ -60,17 +60,17 @@
     "url": "https://lyrawellbeing.help/",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.help.ico",
     "slug": "schweiz-chat",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.92%",
-    "time": 2350,
-    "timeDay": 1941,
-    "timeWeek": 2300,
-    "timeMonth": 2323,
-    "timeYear": 2350,
+    "status": "degraded",
+    "uptime": "99.91%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 2353,
+    "timeDay": 2668,
+    "timeWeek": 2400,
+    "timeMonth": 2352,
+    "timeYear": 2353,
     "dailyMinutesDown": {
       "2026-01-15": 39,
       "2026-01-28": 25,
@@ -85,7 +85,8 @@
       "2026-08-12": 19,
       "2026-09-08": 16,
       "2026-09-10": 16,
-      "2026-10-21": 27
+      "2026-10-21": 27,
+      "2026-11-07": 11
     }
   },
   {
@@ -246,19 +247,19 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.43%",
-    "uptimeDay": "60.54%",
-    "uptimeWeek": "71.72%",
-    "uptimeMonth": "93.03%",
+    "uptimeDay": "59.80%",
+    "uptimeWeek": "71.61%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "99.42%",
-    "time": 2930,
-    "timeDay": 3174,
-    "timeWeek": 3121,
+    "time": 2931,
+    "timeDay": 3184,
+    "timeWeek": 3122,
     "timeMonth": 3155,
-    "timeYear": 2942,
+    "timeYear": 2943,
     "dailyMinutesDown": {
-      "2026-10-29": 78,
+      "2026-10-29": 47,
       "2026-10-30": 124,
       "2026-10-31": 18,
       "2026-11-01": 263,
@@ -267,7 +268,7 @@
       "2026-11-04": 410,
       "2026-11-05": 491,
       "2026-11-06": 533,
-      "2026-11-07": 54
+      "2026-11-07": 65
     }
   },
   {
@@ -487,17 +488,17 @@
     "url": "https://lyrawellbeing.lu",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "94.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "94.63%",
-    "time": 3009,
-    "timeDay": 2926,
-    "timeWeek": 3204,
-    "timeMonth": 3099,
-    "timeYear": 3009,
+    "time": 3010,
+    "timeDay": 3001,
+    "timeWeek": 3220,
+    "timeMonth": 3105,
+    "timeYear": 3010,
     "dailyMinutesDown": {
       "2025-12-14": 280,
       "2025-12-13": 43,
@@ -560,7 +561,8 @@
       "2026-10-23": 23,
       "2026-10-24": 18,
       "2026-10-27": 26,
-      "2026-10-31": 16
+      "2026-10-31": 16,
+      "2026-11-07": 10
     }
   },
   {
@@ -684,13 +686,13 @@
     "slug": "schweiz-website",
     "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "42.09%",
-    "uptimeWeek": "81.20%",
-    "uptimeMonth": "93.39%",
+    "uptimeDay": "41.22%",
+    "uptimeWeek": "81.14%",
+    "uptimeMonth": "93.36%",
     "uptimeYear": "99.45%",
     "time": 3996,
-    "timeDay": 8349,
-    "timeWeek": 4197,
+    "timeDay": 8435,
+    "timeWeek": 4200,
     "timeMonth": 3784,
     "timeYear": 3667,
     "dailyMinutesDown": {
@@ -705,7 +707,7 @@
       "2026-11-04": 318,
       "2026-11-05": 44,
       "2026-11-06": 768,
-      "2026-11-07": 67
+      "2026-11-07": 79
     }
   },
   {
