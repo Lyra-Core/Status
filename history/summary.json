@@ -248,7 +248,7 @@
     "slug": "france-website",
     "status": "degraded",
     "uptime": "99.43%",
-    "uptimeDay": "83.29%",
+    "uptimeDay": "83.19%",
     "uptimeWeek": "70.08%",
     "uptimeMonth": "93.00%",
     "uptimeYear": "99.42%",
@@ -267,7 +267,7 @@
       "2026-11-05": 491,
       "2026-11-06": 533,
       "2026-11-07": 236,
-      "2026-11-08": 8
+      "2026-11-08": 9
     }
   },
   {
@@ -684,9 +684,9 @@
     "slug": "schweiz-website",
     "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "45.66%",
+    "uptimeDay": "45.57%",
     "uptimeWeek": "75.22%",
-    "uptimeMonth": "92.57%",
+    "uptimeMonth": "92.56%",
     "uptimeYear": "99.38%",
     "time": 4225,
     "timeDay": 6023,
@@ -705,7 +705,7 @@
       "2026-11-05": 44,
       "2026-11-06": 768,
       "2026-11-07": 782,
-      "2026-11-08": 1
+      "2026-11-08": 3
     }
   },
   {
