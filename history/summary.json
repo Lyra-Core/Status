@@ -67,7 +67,7 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.92%",
     "time": 2352,
-    "timeDay": 2664,
+    "timeDay": 2300,
     "timeWeek": 2383,
     "timeMonth": 2355,
     "timeYear": 2352,
@@ -128,7 +128,7 @@
     "uptimeYear": "99.43%",
     "time": 3355,
     "timeDay": 2844,
-    "timeWeek": 3376,
+    "timeWeek": 3374,
     "timeMonth": 3375,
     "timeYear": 3355,
     "dailyMinutesDown": {
@@ -246,17 +246,17 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "83.51%",
-    "uptimeWeek": "69.93%",
-    "uptimeMonth": "92.95%",
+    "uptimeDay": "83.27%",
+    "uptimeWeek": "69.90%",
+    "uptimeMonth": "92.94%",
     "uptimeYear": "99.41%",
     "time": 2941,
-    "timeDay": 3077,
-    "timeWeek": 3118,
+    "timeDay": 3068,
+    "timeWeek": 3116,
     "timeMonth": 3146,
-    "timeYear": 2954,
+    "timeYear": 2953,
     "dailyMinutesDown": {
       "2026-10-31": 18,
       "2026-11-01": 263,
@@ -266,7 +266,7 @@
       "2026-11-05": 491,
       "2026-11-06": 533,
       "2026-11-07": 236,
-      "2026-11-08": 55
+      "2026-11-08": 58
     }
   },
   {
@@ -493,7 +493,7 @@
     "uptimeMonth": "99.53%",
     "uptimeYear": "94.65%",
     "time": 3007,
-    "timeDay": 2689,
+    "timeDay": 2193,
     "timeWeek": 3192,
     "timeMonth": 3099,
     "timeYear": 3007,
@@ -684,12 +684,12 @@
     "status": "down",
     "uptime": "99.38%",
     "uptimeDay": "44.74%",
-    "uptimeWeek": "74.95%",
-    "uptimeMonth": "92.43%",
+    "uptimeWeek": "74.87%",
+    "uptimeMonth": "92.40%",
     "uptimeYear": "99.37%",
     "time": 4201,
     "timeDay": 6059,
-    "timeWeek": 4536,
+    "timeWeek": 4540,
     "timeMonth": 3900,
     "timeYear": 3735,
     "dailyMinutesDown": {
@@ -703,7 +703,7 @@
       "2026-11-05": 44,
       "2026-11-06": 768,
       "2026-11-07": 782,
-      "2026-11-08": 78
+      "2026-11-08": 92
     }
   },
   {
