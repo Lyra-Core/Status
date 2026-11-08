@@ -186,9 +186,9 @@
     "slug": "belgium-website",
     "status": "degraded",
     "uptime": "99.93%",
-    "uptimeDay": "89.41%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "88.97%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.93%",
     "time": 1320,
     "timeDay": 4705,
@@ -201,7 +201,7 @@
       "2026-03-19": 21,
       "2026-05-10": 42,
       "2026-09-02": 20,
-      "2026-11-08": 152
+      "2026-11-08": 159
     }
   },
   {
@@ -248,17 +248,17 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.39%",
-    "uptimeDay": "69.01%",
-    "uptimeWeek": "67.90%",
-    "uptimeMonth": "92.52%",
+    "uptimeDay": "69.73%",
+    "uptimeWeek": "68.06%",
+    "uptimeMonth": "92.54%",
     "uptimeYear": "99.38%",
     "time": 2951,
-    "timeDay": 3104,
-    "timeWeek": 3113,
-    "timeMonth": 3145,
-    "timeYear": 2962,
+    "timeDay": 3113,
+    "timeWeek": 3114,
+    "timeMonth": 3146,
+    "timeYear": 2963,
     "dailyMinutesDown": {
       "2026-11-01": 99,
       "2026-11-02": 657,
@@ -267,7 +267,7 @@
       "2026-11-05": 491,
       "2026-11-06": 533,
       "2026-11-07": 236,
-      "2026-11-08": 427
+      "2026-11-08": 417
     }
   },
   {
@@ -684,7 +684,7 @@
     "slug": "schweiz-website",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "70.01%",
+    "uptimeDay": "70.45%",
     "uptimeWeek": "73.10%",
     "uptimeMonth": "92.16%",
     "uptimeYear": "99.35%",
@@ -781,9 +781,9 @@
     "slug": "united-arab-emirates-website",
     "status": "degraded",
     "uptime": "99.94%",
-    "uptimeDay": "89.63%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "89.19%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.94%",
     "time": 1493,
     "timeDay": 4646,
@@ -794,7 +794,7 @@
       "2026-05-16": 21,
       "2026-06-18": 96,
       "2026-09-07": 29,
-      "2026-11-08": 149
+      "2026-11-08": 156
     }
   },
   {
