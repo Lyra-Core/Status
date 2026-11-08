@@ -248,13 +248,13 @@
     "slug": "france-website",
     "status": "degraded",
     "uptime": "99.41%",
-    "uptimeDay": "76.69%",
-    "uptimeWeek": "68.71%",
-    "uptimeMonth": "92.72%",
+    "uptimeDay": "76.34%",
+    "uptimeWeek": "68.68%",
+    "uptimeMonth": "92.71%",
     "uptimeYear": "99.39%",
     "time": 2945,
-    "timeDay": 3066,
-    "timeWeek": 3108,
+    "timeDay": 3068,
+    "timeWeek": 3107,
     "timeMonth": 3142,
     "timeYear": 2956,
     "dailyMinutesDown": {
@@ -265,7 +265,7 @@
       "2026-11-05": 491,
       "2026-11-06": 533,
       "2026-11-07": 236,
-      "2026-11-08": 250
+      "2026-11-08": 255
     }
   },
   {
@@ -487,9 +487,9 @@
     "slug": "luxembourg-website",
     "status": "up",
     "uptime": "94.65%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "94.65%",
     "time": 3007,
     "timeDay": 2701,
@@ -558,8 +558,7 @@
       "2026-10-23": 23,
       "2026-10-24": 18,
       "2026-10-27": 26,
-      "2026-10-31": 16,
-      "2026-11-08": 6
+      "2026-10-31": 16
     }
   },
   {
@@ -681,19 +680,19 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.37%",
-    "uptimeDay": "50.64%",
+    "uptimeDay": "50.56%",
     "uptimeWeek": "73.98%",
-    "uptimeMonth": "92.26%",
-    "uptimeYear": "99.35%",
-    "time": 4031,
-    "timeDay": 4058,
+    "uptimeMonth": "92.32%",
+    "uptimeYear": "99.36%",
+    "time": 4024,
+    "timeDay": 4061,
     "timeWeek": 4528,
     "timeMonth": 3889,
     "timeYear": 3731,
     "dailyMinutesDown": {
-      "2026-10-29": 154,
+      "2026-10-29": 124,
       "2026-10-30": 294,
       "2026-10-31": 165,
       "2026-11-01": 176,
@@ -703,7 +702,7 @@
       "2026-11-05": 44,
       "2026-11-06": 768,
       "2026-11-07": 782,
-      "2026-11-08": 271
+      "2026-11-08": 272
     }
   },
   {
