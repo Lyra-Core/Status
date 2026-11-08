@@ -246,15 +246,15 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "75.96%",
-    "uptimeWeek": "68.61%",
-    "uptimeMonth": "92.70%",
+    "status": "degraded",
+    "uptime": "99.41%",
+    "uptimeDay": "76.69%",
+    "uptimeWeek": "68.71%",
+    "uptimeMonth": "92.72%",
     "uptimeYear": "99.39%",
-    "time": 2944,
-    "timeDay": 3061,
-    "timeWeek": 3107,
+    "time": 2945,
+    "timeDay": 3066,
+    "timeWeek": 3108,
     "timeMonth": 3142,
     "timeYear": 2956,
     "dailyMinutesDown": {
@@ -265,7 +265,7 @@
       "2026-11-05": 491,
       "2026-11-06": 533,
       "2026-11-07": 236,
-      "2026-11-08": 261
+      "2026-11-08": 250
     }
   },
   {
@@ -485,16 +485,16 @@
     "url": "https://lyrawellbeing.lu",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "94.65%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "94.65%",
     "time": 3007,
-    "timeDay": 2674,
-    "timeWeek": 3210,
-    "timeMonth": 3099,
+    "timeDay": 2701,
+    "timeWeek": 3189,
+    "timeMonth": 3096,
     "timeYear": 3007,
     "dailyMinutesDown": {
       "2025-12-14": 280,
@@ -559,7 +559,7 @@
       "2026-10-24": 18,
       "2026-10-27": 26,
       "2026-10-31": 16,
-      "2026-11-08": 1
+      "2026-11-08": 6
     }
   },
   {
@@ -683,17 +683,17 @@
     "slug": "schweiz-website",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "50.18%",
-    "uptimeWeek": "73.91%",
-    "uptimeMonth": "92.31%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "50.64%",
+    "uptimeWeek": "73.98%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "99.35%",
     "time": 4031,
     "timeDay": 4058,
     "timeWeek": 4528,
     "timeMonth": 3889,
     "timeYear": 3731,
     "dailyMinutesDown": {
-      "2026-10-29": 124,
+      "2026-10-29": 154,
       "2026-10-30": 294,
       "2026-10-31": 165,
       "2026-11-01": 176,
@@ -703,7 +703,7 @@
       "2026-11-05": 44,
       "2026-11-06": 768,
       "2026-11-07": 782,
-      "2026-11-08": 278
+      "2026-11-08": 271
     }
   },
   {
