@@ -247,13 +247,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
     "status": "degraded",
-    "uptime": "99.42%",
-    "uptimeDay": "81.08%",
-    "uptimeWeek": "69.57%",
-    "uptimeMonth": "92.88%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.41%",
+    "uptimeDay": "79.03%",
+    "uptimeWeek": "69.19%",
+    "uptimeMonth": "92.79%",
+    "uptimeYear": "99.40%",
     "time": 2944,
-    "timeDay": 3078,
+    "timeDay": 3069,
     "timeWeek": 3108,
     "timeMonth": 3143,
     "timeYear": 2956,
@@ -265,7 +265,7 @@
       "2026-11-05": 491,
       "2026-11-06": 533,
       "2026-11-07": 236,
-      "2026-11-08": 164
+      "2026-11-08": 202
     }
   },
   {
@@ -274,7 +274,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.de.ico",
     "slug": "germany-website",
     "status": "up",
-    "uptime": "98.87%",
+    "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.37%",
@@ -493,7 +493,7 @@
     "uptimeYear": "94.65%",
     "time": 3007,
     "timeDay": 2236,
-    "timeWeek": 3192,
+    "timeWeek": 3180,
     "timeMonth": 3099,
     "timeYear": 3007,
     "dailyMinutesDown": {
@@ -680,17 +680,17 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "degraded",
-    "uptime": "99.38%",
-    "uptimeDay": "53.19%",
-    "uptimeWeek": "74.02%",
-    "uptimeMonth": "92.34%",
-    "uptimeYear": "99.36%",
-    "time": 4055,
-    "timeDay": 4991,
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "50.64%",
+    "uptimeWeek": "73.82%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "99.35%",
+    "time": 4054,
+    "timeDay": 4634,
     "timeWeek": 4525,
-    "timeMonth": 3893,
-    "timeYear": 3733,
+    "timeMonth": 3892,
+    "timeYear": 3732,
     "dailyMinutesDown": {
       "2026-10-29": 154,
       "2026-10-30": 294,
@@ -702,7 +702,7 @@
       "2026-11-05": 44,
       "2026-11-06": 768,
       "2026-11-07": 782,
-      "2026-11-08": 234
+      "2026-11-08": 271
     }
   },
   {
