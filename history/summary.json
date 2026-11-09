@@ -120,16 +120,16 @@
     "url": "https://lyrawellbeing.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "97.89%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "97.86%",
     "uptimeMonth": "93.70%",
     "uptimeYear": "99.44%",
     "time": 3355,
-    "timeDay": 3319,
-    "timeWeek": 3357,
-    "timeMonth": 3374,
+    "timeDay": 3276,
+    "timeWeek": 3353,
+    "timeMonth": 3373,
     "timeYear": 3355,
     "dailyMinutesDown": {
       "2026-10-09": 84,
@@ -159,7 +159,7 @@
       "2026-11-04": 32,
       "2026-11-05": 34,
       "2026-11-08": 6,
-      "2026-11-09": 2
+      "2026-11-09": 5
     }
   },
   {
@@ -187,9 +187,9 @@
     "slug": "belgium-website",
     "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "69.84%",
-    "uptimeWeek": "95.69%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "69.43%",
+    "uptimeWeek": "95.63%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "99.87%",
     "time": 1339,
     "timeDay": 8140,
@@ -202,7 +202,7 @@
       "2026-03-19": 21,
       "2026-05-10": 42,
       "2026-09-02": 20,
-      "2026-11-09": 84,
+      "2026-11-09": 90,
       "2026-11-08": 350
     }
   },
@@ -252,12 +252,12 @@
     "slug": "france-website",
     "status": "degraded",
     "uptime": "99.40%",
-    "uptimeDay": "67.67%",
-    "uptimeWeek": "68.11%",
-    "uptimeMonth": "92.66%",
+    "uptimeDay": "67.26%",
+    "uptimeWeek": "68.05%",
+    "uptimeMonth": "92.65%",
     "uptimeYear": "99.39%",
     "time": 2953,
-    "timeDay": 3123,
+    "timeDay": 3124,
     "timeWeek": 3117,
     "timeMonth": 3146,
     "timeYear": 2965,
@@ -269,7 +269,7 @@
       "2026-11-06": 533,
       "2026-11-07": 236,
       "2026-11-08": 503,
-      "2026-11-09": 8
+      "2026-11-09": 14
     }
   },
   {
@@ -686,17 +686,17 @@
     "slug": "schweiz-website",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "72.32%",
-    "uptimeWeek": "72.17%",
-    "uptimeMonth": "92.06%",
+    "uptimeDay": "72.75%",
+    "uptimeWeek": "72.24%",
+    "uptimeMonth": "92.04%",
     "uptimeYear": "99.34%",
     "time": 4248,
-    "timeDay": 3752,
+    "timeDay": 3725,
     "timeWeek": 4592,
     "timeMonth": 3892,
     "timeYear": 3732,
     "dailyMinutesDown": {
-      "2026-10-29": 36,
+      "2026-10-29": 52,
       "2026-10-30": 294,
       "2026-10-31": 165,
       "2026-11-01": 176,
@@ -707,7 +707,7 @@
       "2026-11-06": 768,
       "2026-11-07": 782,
       "2026-11-08": 437,
-      "2026-11-09": 38
+      "2026-11-09": 32
     }
   },
   {
@@ -784,9 +784,9 @@
     "slug": "united-arab-emirates-website",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "70.06%",
-    "uptimeWeek": "95.72%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "69.65%",
+    "uptimeWeek": "95.66%",
+    "uptimeMonth": "99.00%",
     "uptimeYear": "99.88%",
     "time": 1512,
     "timeDay": 8051,
@@ -797,7 +797,7 @@
       "2026-05-16": 21,
       "2026-06-18": 96,
       "2026-09-07": 29,
-      "2026-11-09": 85,
+      "2026-11-09": 91,
       "2026-11-08": 346
     }
   },
