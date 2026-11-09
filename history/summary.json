@@ -210,17 +210,17 @@
     "url": "https://lyrawellbeing.ca",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ca.ico",
     "slug": "canada-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "94.89%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "94.89%",
-    "time": 540,
-    "timeDay": 3758,
-    "timeWeek": 1495,
-    "timeMonth": 844,
-    "timeYear": 540,
+    "time": 541,
+    "timeDay": 2746,
+    "timeWeek": 1398,
+    "timeMonth": 840,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2026-01-06": 657,
       "2026-01-05": 1440,
@@ -242,7 +242,7 @@
       "2025-12-20": 1417,
       "2026-02-17": 117,
       "2026-09-22": 24,
-      "2026-11-09": 2
+      "2026-11-09": 6
     }
   },
   {
@@ -251,10 +251,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
     "status": "degraded",
-    "uptime": "99.50%",
-    "uptimeDay": "75.85%",
-    "uptimeWeek": "73.03%",
-    "uptimeMonth": "93.79%",
+    "uptime": "99.49%",
+    "uptimeDay": "75.42%",
+    "uptimeWeek": "72.97%",
+    "uptimeMonth": "93.78%",
     "uptimeYear": "99.48%",
     "time": 2959,
     "timeDay": 3161,
@@ -269,7 +269,7 @@
       "2026-11-06": 533,
       "2026-11-07": 236,
       "2026-11-08": 503,
-      "2026-11-09": 108
+      "2026-11-09": 115
     }
   },
   {
@@ -686,10 +686,10 @@
     "slug": "schweiz-website",
     "status": "degraded",
     "uptime": "99.32%",
-    "uptimeDay": "63.04%",
-    "uptimeWeek": "70.00%",
-    "uptimeMonth": "91.67%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "62.61%",
+    "uptimeWeek": "69.94%",
+    "uptimeMonth": "91.66%",
+    "uptimeYear": "99.30%",
     "time": 4110,
     "timeDay": 4104,
     "timeWeek": 4651,
@@ -706,7 +706,7 @@
       "2026-11-06": 768,
       "2026-11-07": 782,
       "2026-11-08": 437,
-      "2026-11-09": 367
+      "2026-11-09": 373
     }
   },
   {
