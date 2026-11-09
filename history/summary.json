@@ -186,7 +186,7 @@
     "slug": "belgium-website",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "51.75%",
+    "uptimeDay": "52.11%",
     "uptimeWeek": "92.77%",
     "uptimeMonth": "98.34%",
     "uptimeYear": "99.82%",
@@ -249,17 +249,17 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "77.90%",
-    "uptimeWeek": "72.86%",
+    "uptimeDay": "77.63%",
+    "uptimeWeek": "72.82%",
     "uptimeMonth": "93.75%",
     "uptimeYear": "99.48%",
     "time": 2963,
-    "timeDay": 3167,
+    "timeDay": 3164,
     "timeWeek": 3122,
     "timeMonth": 3147,
-    "timeYear": 2976,
+    "timeYear": 2975,
     "dailyMinutesDown": {
       "2026-11-03": 376,
       "2026-11-04": 410,
@@ -267,7 +267,7 @@
       "2026-11-06": 533,
       "2026-11-07": 236,
       "2026-11-08": 503,
-      "2026-11-09": 189
+      "2026-11-09": 193
     }
   },
   {
@@ -683,17 +683,17 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "57.78%",
-    "uptimeWeek": "69.48%",
-    "uptimeMonth": "91.61%",
+    "uptimeDay": "57.69%",
+    "uptimeWeek": "69.44%",
+    "uptimeMonth": "91.60%",
     "uptimeYear": "99.30%",
     "time": 4005,
     "timeDay": 4116,
     "timeWeek": 4625,
     "timeMonth": 3890,
-    "timeYear": 3736,
+    "timeYear": 3735,
     "dailyMinutesDown": {
       "2026-10-30": 86,
       "2026-10-31": 165,
@@ -705,7 +705,7 @@
       "2026-11-06": 768,
       "2026-11-07": 782,
       "2026-11-08": 437,
-      "2026-11-09": 479
+      "2026-11-09": 483
     }
   },
   {
@@ -782,7 +782,7 @@
     "slug": "united-arab-emirates-website",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "51.78%",
+    "uptimeDay": "52.14%",
     "uptimeWeek": "92.80%",
     "uptimeMonth": "98.34%",
     "uptimeYear": "99.82%",
