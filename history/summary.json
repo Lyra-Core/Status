@@ -187,7 +187,7 @@
     "slug": "belgium-website",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "90.02%",
+    "uptimeDay": "90.42%",
     "uptimeWeek": "92.77%",
     "uptimeMonth": "98.34%",
     "uptimeYear": "99.82%",
@@ -252,13 +252,13 @@
     "slug": "france-website",
     "status": "degraded",
     "uptime": "99.48%",
-    "uptimeDay": "77.23%",
-    "uptimeWeek": "72.13%",
-    "uptimeMonth": "93.59%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "76.83%",
+    "uptimeWeek": "72.07%",
+    "uptimeMonth": "93.57%",
+    "uptimeYear": "99.46%",
     "time": 2971,
     "timeDay": 3238,
-    "timeWeek": 3137,
+    "timeWeek": 3136,
     "timeMonth": 3154,
     "timeYear": 2984,
     "dailyMinutesDown": {
@@ -269,7 +269,7 @@
       "2026-11-07": 236,
       "2026-11-08": 503,
       "2026-11-09": 309,
-      "2026-11-10": 70
+      "2026-11-10": 76
     }
   },
   {
@@ -685,17 +685,17 @@
     "url": "https://lyrawellbeing.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ch.ico",
     "slug": "schweiz-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "51.15%",
-    "uptimeWeek": "67.56%",
-    "uptimeMonth": "91.11%",
+    "uptimeDay": "50.83%",
+    "uptimeWeek": "67.52%",
+    "uptimeMonth": "91.10%",
     "uptimeYear": "99.26%",
-    "time": 3941,
-    "timeDay": 4230,
-    "timeWeek": 4723,
-    "timeMonth": 3920,
-    "timeYear": 3755,
+    "time": 3934,
+    "timeDay": 4231,
+    "timeWeek": 4720,
+    "timeMonth": 3919,
+    "timeYear": 3754,
     "dailyMinutesDown": {
       "2026-10-31": 152,
       "2026-11-01": 176,
@@ -707,7 +707,7 @@
       "2026-11-07": 782,
       "2026-11-08": 437,
       "2026-11-09": 713,
-      "2026-11-10": 88
+      "2026-11-10": 92
     }
   },
   {
@@ -784,7 +784,7 @@
     "slug": "united-arab-emirates-website",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "90.04%",
+    "uptimeDay": "90.44%",
     "uptimeWeek": "92.80%",
     "uptimeMonth": "98.34%",
     "uptimeYear": "99.82%",
