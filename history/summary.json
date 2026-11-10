@@ -60,17 +60,17 @@
     "url": "https://lyrawellbeing.help/",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.help.ico",
     "slug": "schweiz-chat",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.92%",
-    "time": 2358,
-    "timeDay": 2792,
-    "timeWeek": 2609,
-    "timeMonth": 2430,
-    "timeYear": 2358,
+    "time": 2362,
+    "timeDay": 2948,
+    "timeWeek": 2695,
+    "timeMonth": 2460,
+    "timeYear": 2362,
     "dailyMinutesDown": {
       "2026-01-15": 39,
       "2026-01-28": 25,
@@ -85,7 +85,8 @@
       "2026-08-12": 19,
       "2026-09-08": 16,
       "2026-09-10": 16,
-      "2026-10-21": 27
+      "2026-10-21": 27,
+      "2026-11-10": 2
     }
   },
   {
@@ -253,8 +254,8 @@
     "status": "degraded",
     "uptime": "99.45%",
     "uptimeDay": "56.11%",
-    "uptimeWeek": "70.80%",
-    "uptimeMonth": "93.28%",
+    "uptimeWeek": "70.73%",
+    "uptimeMonth": "93.27%",
     "uptimeYear": "99.44%",
     "time": 2975,
     "timeDay": 3234,
@@ -268,7 +269,7 @@
       "2026-11-07": 236,
       "2026-11-08": 503,
       "2026-11-09": 309,
-      "2026-11-10": 465
+      "2026-11-10": 471
     }
   },
   {
@@ -687,8 +688,8 @@
     "status": "degraded",
     "uptime": "99.23%",
     "uptimeDay": "43.21%",
-    "uptimeWeek": "63.64%",
-    "uptimeMonth": "90.50%",
+    "uptimeWeek": "63.58%",
+    "uptimeMonth": "90.49%",
     "uptimeYear": "99.21%",
     "time": 4260,
     "timeDay": 4228,
@@ -705,7 +706,7 @@
       "2026-11-07": 782,
       "2026-11-08": 437,
       "2026-11-09": 713,
-      "2026-11-10": 542
+      "2026-11-10": 549
     }
   },
   {
