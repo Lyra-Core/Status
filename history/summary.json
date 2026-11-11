@@ -250,15 +250,15 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "57.94%",
-    "uptimeWeek": "70.93%",
-    "uptimeMonth": "93.31%",
+    "uptimeDay": "57.66%",
+    "uptimeWeek": "70.89%",
+    "uptimeMonth": "93.30%",
     "uptimeYear": "99.44%",
     "time": 2977,
-    "timeDay": 3156,
-    "timeWeek": 3143,
+    "timeDay": 3149,
+    "timeWeek": 3142,
     "timeMonth": 3153,
     "timeYear": 2991,
     "dailyMinutesDown": {
@@ -269,7 +269,7 @@
       "2026-11-08": 503,
       "2026-11-09": 309,
       "2026-11-10": 576,
-      "2026-11-11": 70
+      "2026-11-11": 74
     }
   },
   {
@@ -280,12 +280,12 @@
     "status": "up",
     "uptime": "98.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "98.85%",
     "time": 2927,
     "timeDay": 2845,
-    "timeWeek": 4500,
+    "timeWeek": 4730,
     "timeMonth": 3919,
     "timeYear": 2939,
     "dailyMinutesDown": {
@@ -489,17 +489,17 @@
     "url": "https://lyrawellbeing.lu",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "94.69%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "94.69%",
-    "time": 3010,
-    "timeDay": 3498,
-    "timeWeek": 2997,
-    "timeMonth": 3122,
-    "timeYear": 3010,
+    "time": 3009,
+    "timeDay": 3196,
+    "timeWeek": 2971,
+    "timeMonth": 3114,
+    "timeYear": 3009,
     "dailyMinutesDown": {
       "2025-12-14": 280,
       "2025-12-13": 43,
@@ -564,7 +564,7 @@
       "2026-10-27": 26,
       "2026-10-31": 16,
       "2026-11-09": 16,
-      "2026-11-11": 1
+      "2026-11-11": 5
     }
   },
   {
@@ -694,7 +694,7 @@
     "uptimeYear": "99.21%",
     "time": 4123,
     "timeDay": 3223,
-    "timeWeek": 4684,
+    "timeWeek": 4686,
     "timeMonth": 3899,
     "timeYear": 3746,
     "dailyMinutesDown": {
