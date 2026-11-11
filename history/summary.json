@@ -120,19 +120,19 @@
     "url": "https://lyrawellbeing.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.16%",
+    "status": "degraded",
+    "uptime": "99.45%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.15%",
     "uptimeMonth": "93.91%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 3362,
-    "timeDay": 3525,
-    "timeWeek": 3420,
+    "timeDay": 3516,
+    "timeWeek": 3419,
     "timeMonth": 3391,
     "timeYear": 3362,
     "dailyMinutesDown": {
-      "2026-10-10": 74,
+      "2026-10-10": 33,
       "2026-10-11": 60,
       "2026-10-12": 288,
       "2026-10-13": 235,
@@ -159,7 +159,8 @@
       "2026-11-05": 34,
       "2026-11-08": 6,
       "2026-11-09": 124,
-      "2026-11-10": 22
+      "2026-11-10": 22,
+      "2026-11-11": 1
     }
   },
   {
@@ -252,9 +253,9 @@
     "slug": "france-website",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "65.88%",
-    "uptimeWeek": "69.18%",
-    "uptimeMonth": "92.83%",
+    "uptimeDay": "66.28%",
+    "uptimeWeek": "69.24%",
+    "uptimeMonth": "92.79%",
     "uptimeYear": "99.40%",
     "time": 2995,
     "timeDay": 3349,
@@ -262,14 +263,14 @@
     "timeMonth": 3170,
     "timeYear": 3008,
     "dailyMinutesDown": {
-      "2026-11-04": 85,
+      "2026-11-04": 109,
       "2026-11-05": 491,
       "2026-11-06": 533,
       "2026-11-07": 236,
       "2026-11-08": 503,
       "2026-11-09": 309,
       "2026-11-10": 576,
-      "2026-11-11": 410
+      "2026-11-11": 404
     }
   },
   {
@@ -687,12 +688,12 @@
     "slug": "schweiz-website",
     "status": "degraded",
     "uptime": "99.23%",
-    "uptimeDay": "84.70%",
+    "uptimeDay": "84.30%",
     "uptimeWeek": "63.58%",
-    "uptimeMonth": "90.48%",
+    "uptimeMonth": "90.46%",
     "uptimeYear": "99.21%",
     "time": 3894,
-    "timeDay": 3478,
+    "timeDay": 3479,
     "timeWeek": 4568,
     "timeMonth": 3882,
     "timeYear": 3739,
@@ -706,7 +707,7 @@
       "2026-11-08": 437,
       "2026-11-09": 713,
       "2026-11-10": 629,
-      "2026-11-11": 172
+      "2026-11-11": 178
     }
   },
   {
