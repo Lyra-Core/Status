@@ -120,17 +120,17 @@
     "url": "https://lyrawellbeing.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "93.81%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "93.80%",
     "uptimeYear": "99.44%",
-    "time": 3363,
-    "timeDay": 4199,
-    "timeWeek": 3425,
-    "timeMonth": 3393,
-    "timeYear": 3363,
+    "time": 3362,
+    "timeDay": 4148,
+    "timeWeek": 3421,
+    "timeMonth": 3392,
+    "timeYear": 3362,
     "dailyMinutesDown": {
       "2026-10-10": 33,
       "2026-10-11": 60,
@@ -160,7 +160,7 @@
       "2026-11-08": 6,
       "2026-11-09": 124,
       "2026-11-10": 22,
-      "2026-11-11": 3
+      "2026-11-11": 8
     }
   },
   {
@@ -252,10 +252,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
     "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "47.92%",
-    "uptimeWeek": "68.66%",
-    "uptimeMonth": "92.79%",
+    "uptime": "99.41%",
+    "uptimeDay": "48.33%",
+    "uptimeWeek": "68.54%",
+    "uptimeMonth": "92.76%",
     "uptimeYear": "99.40%",
     "time": 2979,
     "timeDay": 3119,
@@ -263,14 +263,14 @@
     "timeMonth": 3153,
     "timeYear": 2992,
     "dailyMinutesDown": {
-      "2026-11-04": 179,
+      "2026-11-04": 197,
       "2026-11-05": 491,
       "2026-11-06": 533,
       "2026-11-07": 236,
       "2026-11-08": 503,
       "2026-11-09": 309,
       "2026-11-10": 576,
-      "2026-11-11": 335
+      "2026-11-11": 329
     }
   },
   {
@@ -406,17 +406,17 @@
     "url": "https://lyrawellbeing.it",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.it.ico",
     "slug": "italy-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.68%",
-    "time": 2535,
-    "timeDay": 4876,
-    "timeWeek": 3022,
-    "timeMonth": 2751,
-    "timeYear": 2535,
+    "time": 2534,
+    "timeDay": 4156,
+    "timeWeek": 2954,
+    "timeMonth": 2739,
+    "timeYear": 2534,
     "dailyMinutesDown": {
       "2026-01-15": 20,
       "2026-02-12": 23,
@@ -453,7 +453,7 @@
       "2026-10-14": 43,
       "2026-10-19": 19,
       "2026-10-21": 19,
-      "2026-11-11": 2
+      "2026-11-11": 6
     }
   },
   {
@@ -689,9 +689,9 @@
     "slug": "schweiz-website",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "65.53%",
-    "uptimeWeek": "64.36%",
-    "uptimeMonth": "90.50%",
+    "uptimeDay": "66.45%",
+    "uptimeWeek": "64.44%",
+    "uptimeMonth": "90.48%",
     "uptimeYear": "99.21%",
     "time": 4056,
     "timeDay": 3298,
@@ -699,7 +699,7 @@
     "timeMonth": 3893,
     "timeYear": 3743,
     "dailyMinutesDown": {
-      "2026-11-01": 22,
+      "2026-11-01": 37,
       "2026-11-02": 228,
       "2026-11-03": 192,
       "2026-11-04": 318,
@@ -709,7 +709,7 @@
       "2026-11-08": 437,
       "2026-11-09": 713,
       "2026-11-10": 629,
-      "2026-11-11": 29
+      "2026-11-11": 21
     }
   },
   {
