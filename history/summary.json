@@ -127,7 +127,7 @@
     "uptimeMonth": "93.90%",
     "uptimeYear": "99.44%",
     "time": 3362,
-    "timeDay": 3448,
+    "timeDay": 3457,
     "timeWeek": 3420,
     "timeMonth": 3393,
     "timeYear": 3362,
@@ -254,8 +254,8 @@
     "status": "degraded",
     "uptime": "99.42%",
     "uptimeDay": "73.20%",
-    "uptimeWeek": "69.69%",
-    "uptimeMonth": "92.78%",
+    "uptimeWeek": "69.64%",
+    "uptimeMonth": "92.77%",
     "uptimeYear": "99.40%",
     "time": 2997,
     "timeDay": 3403,
@@ -271,7 +271,7 @@
       "2026-11-09": 309,
       "2026-11-10": 576,
       "2026-11-11": 450,
-      "2026-11-12": 48
+      "2026-11-12": 53
     }
   },
   {
@@ -279,16 +279,16 @@
     "url": "https://lyrawellbeing.de",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.de.ico",
     "slug": "germany-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.41%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "98.85%",
     "time": 2928,
-    "timeDay": 3131,
-    "timeWeek": 2609,
-    "timeMonth": 3934,
+    "timeDay": 3075,
+    "timeWeek": 2628,
+    "timeMonth": 3924,
     "timeYear": 2943,
     "dailyMinutesDown": {
       "2026-01-29": 20,
@@ -327,7 +327,7 @@
       "2026-10-30": 21,
       "2026-11-04": 74,
       "2026-11-06": 16,
-      "2026-11-12": 1
+      "2026-11-12": 5
     }
   },
   {
@@ -494,9 +494,9 @@
     "slug": "luxembourg-website",
     "status": "up",
     "uptime": "94.71%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "94.71%",
     "time": 3042,
     "timeDay": 3984,
@@ -566,8 +566,7 @@
       "2026-10-24": 18,
       "2026-10-27": 26,
       "2026-10-31": 16,
-      "2026-11-09": 16,
-      "2026-11-12": 5
+      "2026-11-09": 16
     }
   },
   {
@@ -691,17 +690,17 @@
     "slug": "schweiz-website",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "86.47%",
-    "uptimeWeek": "64.39%",
-    "uptimeMonth": "90.51%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "86.82%",
+    "uptimeWeek": "64.44%",
+    "uptimeMonth": "90.46%",
+    "uptimeYear": "99.20%",
     "time": 4199,
-    "timeDay": 3471,
-    "timeWeek": 4576,
+    "timeDay": 3484,
+    "timeWeek": 4580,
     "timeMonth": 3877,
     "timeYear": 3738,
     "dailyMinutesDown": {
-      "2026-11-02": 58,
+      "2026-11-02": 87,
       "2026-11-03": 192,
       "2026-11-04": 318,
       "2026-11-05": 44,
@@ -710,8 +709,7 @@
       "2026-11-08": 437,
       "2026-11-09": 713,
       "2026-11-10": 629,
-      "2026-11-11": 212,
-      "2026-11-12": 5
+      "2026-11-11": 212
     }
   },
   {
