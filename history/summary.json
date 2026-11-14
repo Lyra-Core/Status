@@ -120,19 +120,18 @@
     "url": "https://lyrawellbeing.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.64%",
-    "uptimeDay": "86.09%",
-    "uptimeWeek": "93.00%",
-    "uptimeMonth": "95.83%",
+    "uptimeDay": "86.30%",
+    "uptimeWeek": "92.99%",
+    "uptimeMonth": "95.88%",
     "uptimeYear": "99.64%",
-    "time": 3361,
-    "timeDay": 3498,
-    "timeWeek": 3405,
-    "timeMonth": 3401,
-    "timeYear": 3361,
+    "time": 3362,
+    "timeDay": 3444,
+    "timeWeek": 3412,
+    "timeMonth": 3403,
+    "timeYear": 3362,
     "dailyMinutesDown": {
-      "2026-10-21": 25,
       "2026-10-22": 81,
       "2026-10-23": 139,
       "2026-10-24": 56,
@@ -151,7 +150,7 @@
       "2026-11-10": 22,
       "2026-11-12": 291,
       "2026-11-13": 117,
-      "2026-11-14": 146
+      "2026-11-14": 148
     }
   },
   {
@@ -242,21 +241,21 @@
     "url": "https://lyrawellbeing.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.fr.ico",
     "slug": "france-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.81%",
-    "uptimeDay": "76.76%",
-    "uptimeWeek": "89.62%",
-    "uptimeMonth": "97.61%",
-    "uptimeYear": "99.80%",
+    "uptimeDay": "76.80%",
+    "uptimeWeek": "89.85%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "99.81%",
     "time": 3014,
-    "timeDay": 3085,
+    "timeDay": 3089,
     "timeWeek": 3181,
     "timeMonth": 3142,
     "timeYear": 3028,
     "dailyMinutesDown": {
-      "2026-11-12": 422,
+      "2026-11-12": 397,
       "2026-11-13": 476,
-      "2026-11-14": 146
+      "2026-11-14": 147
     }
   },
   {
@@ -569,7 +568,7 @@
     "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.24%",
+    "uptimeMonth": "94.25%",
     "uptimeYear": "99.40%",
     "time": 1690,
     "timeDay": 1144,
@@ -683,13 +682,13 @@
     "slug": "schweiz-website",
     "status": "degraded",
     "uptime": "99.63%",
-    "uptimeDay": "67.15%",
-    "uptimeWeek": "80.21%",
-    "uptimeMonth": "95.45%",
+    "uptimeDay": "66.82%",
+    "uptimeWeek": "80.15%",
+    "uptimeMonth": "95.43%",
     "uptimeYear": "99.62%",
     "time": 3952,
-    "timeDay": 3478,
-    "timeWeek": 3754,
+    "timeDay": 3484,
+    "timeWeek": 3756,
     "timeMonth": 3859,
     "timeYear": 3735,
     "dailyMinutesDown": {
@@ -698,7 +697,7 @@
       "2026-11-11": 212,
       "2026-11-12": 332,
       "2026-11-13": 335,
-      "2026-11-14": 234
+      "2026-11-14": 241
     }
   },
   {
