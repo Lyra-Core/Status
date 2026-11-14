@@ -122,9 +122,9 @@
     "slug": "argentina-website",
     "status": "degraded",
     "uptime": "99.62%",
-    "uptimeDay": "88.09%",
-    "uptimeWeek": "93.29%",
-    "uptimeMonth": "95.70%",
+    "uptimeDay": "87.75%",
+    "uptimeWeek": "93.24%",
+    "uptimeMonth": "95.69%",
     "uptimeYear": "99.62%",
     "time": 3360,
     "timeDay": 3471,
@@ -152,7 +152,7 @@
       "2026-11-10": 22,
       "2026-11-12": 291,
       "2026-11-13": 117,
-      "2026-11-14": 118
+      "2026-11-14": 123
     }
   },
   {
@@ -245,13 +245,13 @@
     "slug": "france-website",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "75.35%",
+    "uptimeDay": "75.44%",
     "uptimeWeek": "88.78%",
     "uptimeMonth": "97.42%",
     "uptimeYear": "99.78%",
     "time": 3014,
-    "timeDay": 3172,
-    "timeWeek": 3183,
+    "timeDay": 3175,
+    "timeWeek": 3182,
     "timeMonth": 3142,
     "timeYear": 3028,
     "dailyMinutesDown": {
@@ -482,17 +482,17 @@
     "url": "https://lyrawellbeing.lu",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "94.69%",
-    "uptimeDay": "82.72%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "98.85%",
+    "uptimeDay": "82.46%",
+    "uptimeWeek": "97.04%",
+    "uptimeMonth": "98.84%",
     "uptimeYear": "94.69%",
-    "time": 3168,
-    "timeDay": 5092,
-    "timeWeek": 4291,
-    "timeMonth": 3691,
-    "timeYear": 3168,
+    "time": 3167,
+    "timeDay": 5005,
+    "timeWeek": 4265,
+    "timeMonth": 3682,
+    "timeYear": 3167,
     "dailyMinutesDown": {
       "2025-12-14": 280,
       "2025-12-13": 43,
@@ -559,7 +559,7 @@
       "2026-11-09": 16,
       "2026-11-12": 17,
       "2026-11-13": 36,
-      "2026-11-14": 227
+      "2026-11-14": 231
     }
   },
   {
@@ -571,7 +571,7 @@
     "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.80%",
+    "uptimeMonth": "93.81%",
     "uptimeYear": "99.40%",
     "time": 1690,
     "timeDay": 1144,
