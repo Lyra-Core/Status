@@ -120,16 +120,16 @@
     "url": "https://lyrawellbeing.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.ar.ico",
     "slug": "argentina-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "89.57%",
-    "uptimeWeek": "93.67%",
-    "uptimeMonth": "95.57%",
+    "uptimeDay": "89.29%",
+    "uptimeWeek": "93.63%",
+    "uptimeMonth": "95.56%",
     "uptimeYear": "99.61%",
     "time": 3359,
-    "timeDay": 3441,
-    "timeWeek": 3390,
-    "timeMonth": 3392,
+    "timeDay": 3423,
+    "timeWeek": 3387,
+    "timeMonth": 3391,
     "timeYear": 3359,
     "dailyMinutesDown": {
       "2026-10-19": 26,
@@ -153,7 +153,7 @@
       "2026-11-10": 22,
       "2026-11-12": 291,
       "2026-11-13": 117,
-      "2026-11-14": 80
+      "2026-11-14": 84
     }
   },
   {
@@ -246,7 +246,7 @@
     "slug": "france-website",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "72.33%",
+    "uptimeDay": "72.69%",
     "uptimeWeek": "88.66%",
     "uptimeMonth": "97.39%",
     "uptimeYear": "99.78%",
@@ -269,7 +269,7 @@
     "slug": "germany-website",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "94.27%",
+    "uptimeDay": "94.63%",
     "uptimeWeek": "97.31%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "98.80%",
@@ -572,7 +572,7 @@
     "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.46%",
+    "uptimeMonth": "93.48%",
     "uptimeYear": "99.40%",
     "time": 1690,
     "timeDay": 1144,
@@ -686,9 +686,9 @@
     "slug": "schweiz-website",
     "status": "degraded",
     "uptime": "99.59%",
-    "uptimeDay": "69.66%",
-    "uptimeWeek": "78.00%",
-    "uptimeMonth": "94.94%",
+    "uptimeDay": "69.30%",
+    "uptimeWeek": "77.95%",
+    "uptimeMonth": "94.93%",
     "uptimeYear": "99.58%",
     "time": 3989,
     "timeDay": 3433,
@@ -701,7 +701,7 @@
       "2026-11-11": 212,
       "2026-11-12": 332,
       "2026-11-13": 335,
-      "2026-11-14": 144
+      "2026-11-14": 149
     }
   },
   {
