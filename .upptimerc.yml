@@ -3,10 +3,13 @@ owner: Lyra-Core # Your GitHub organization or username, where this repository l
 repo: Status # The name of this repository
 
 sites:
+  # maxResponseTime marks a check "degraded" and opens an issue. Checks run from GitHub's US runners, so set
+  # each limit well above the site's normal response from there (about 2.5-3x), or the status flaps:
+  # 3000 ms for the fast app and API (normally under 1 s), 10000 ms for public websites and chat (normally 1-4 s).
   # Backend APIs
   - name: Backend APIs
     url: https://api.lyrawellbeing.health/status-0123456789abcdef
-    maxResponseTime: 3000  
+    maxResponseTime: 3000
 
   # Main sites
   - name: Hub
@@ -20,7 +23,7 @@ sites:
   # Chat Platforms
   - name: Schweiz Chat
     url: https://lyrawellbeing.help/
-    maxResponseTime: 3000
+    maxResponseTime: 10000
     
   - name: Zoho
     url: https://salesiq.zoho.eu/icas/liveview
@@ -29,91 +32,91 @@ sites:
   # Additional International Domains
   - name: Argentina Website
     url: https://lyrawellbeing.ar
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: Austria Website
     url: https://lyrawellbeing.at
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: Belgium Website
     url: https://lyra-wellbeing.be/
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: Canada Website
     url: https://lyrawellbeing.ca
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: France Website
     url: https://lyrawellbeing.fr
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: Germany Website
     url: https://lyrawellbeing.de
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: Hungary Website
     url: https://lyrawellbeing.hu
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: India Website
     url: https://lyrawellbeing.in
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: International Website
     url: https://lyrahealthinternational.com
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: Italy Website
     url: https://lyrawellbeing.it
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: Kenya Website
     url: https://lyrawellbeing.co.ke
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: Luxembourg Website
     url: https://lyrawellbeing.lu
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: Malaysia Website
     url: https://lyrawellbeing.my
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: Mexico Website
     url: https://lyrawellbeing.com.mx
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: Netherlands Website
     url: https://lyrawellbeing.nl
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: Portugal Website
     url: https://lyrawellbeing.pt
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: Schweiz Website
     url: https://lyrawellbeing.ch
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: Singapore Website
     url: https://lyrawellbeing.sg
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: South Africa Website
     url: https://lyrawellbeing.co.za
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: Spain Website
     url: https://lyrawellbeing.es
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: United Arab Emirates Website
     url: https://lyrawellbeing.ae
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
   - name: United Kingdom Website
     url: https://lyrawellbeing.uk
-    maxResponseTime: 3000
+    maxResponseTime: 10000
 
 
 status-website:
