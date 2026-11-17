@@ -474,17 +474,17 @@
     "url": "https://lyrawellbeing.lu",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.lu.ico",
     "slug": "luxembourg-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "94.73%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "96.79%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "96.76%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "94.73%",
-    "time": 3197,
-    "timeDay": 8372,
-    "timeWeek": 4501,
-    "timeMonth": 3793,
-    "timeYear": 3197,
+    "time": 3198,
+    "timeDay": 6772,
+    "timeWeek": 4516,
+    "timeMonth": 3792,
+    "timeYear": 3198,
     "dailyMinutesDown": {
       "2025-12-14": 280,
       "2025-12-13": 43,
@@ -553,7 +553,7 @@
       "2026-11-13": 36,
       "2026-11-14": 254,
       "2026-11-15": 15,
-      "2026-11-17": 2
+      "2026-11-17": 6
     }
   },
   {
