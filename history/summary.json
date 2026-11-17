@@ -128,8 +128,8 @@
     "uptimeYear": "99.79%",
     "time": 3368,
     "timeDay": 2801,
-    "timeWeek": 3454,
-    "timeMonth": 3399,
+    "timeWeek": 3452,
+    "timeMonth": 3398,
     "timeYear": 3368,
     "dailyMinutesDown": {
       "2026-11-09": 106,
@@ -687,7 +687,7 @@
     "uptimeYear": "99.72%",
     "time": 4078,
     "timeDay": 10499,
-    "timeWeek": 3845,
+    "timeWeek": 3848,
     "timeMonth": 3898,
     "timeYear": 3769,
     "dailyMinutesDown": {
@@ -724,17 +724,17 @@
     "url": "https://lyrawellbeing.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.co.za.ico",
     "slug": "south-africa-website",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 1414,
-    "timeDay": 1376,
-    "timeWeek": 2125,
-    "timeMonth": 1754,
-    "timeYear": 1414,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.96%",
+    "time": 1413,
+    "timeDay": 1356,
+    "timeWeek": 2037,
+    "timeMonth": 1742,
+    "timeYear": 1413,
     "dailyMinutesDown": {
       "2026-05-31": 33,
       "2026-06-20": 26,
@@ -742,7 +742,7 @@
       "2026-09-16": 49,
       "2026-09-15": 0,
       "2026-11-16": 15,
-      "2026-11-17": 2
+      "2026-11-17": 36
     }
   },
   {
