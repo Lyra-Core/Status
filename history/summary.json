@@ -60,17 +60,17 @@
     "url": "https://lyrawellbeing.help/",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.help.ico",
     "slug": "schweiz-chat",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
-    "time": 2455,
-    "timeDay": 11322,
-    "timeWeek": 5741,
-    "timeMonth": 3237,
-    "timeYear": 2455,
+    "time": 2454,
+    "timeDay": 8239,
+    "timeWeek": 5435,
+    "timeMonth": 3214,
+    "timeYear": 2454,
     "dailyMinutesDown": {
       "2026-01-15": 39,
       "2026-01-28": 25,
@@ -87,7 +87,7 @@
       "2026-09-10": 16,
       "2026-10-21": 27,
       "2026-11-18": 9,
-      "2026-11-19": 1
+      "2026-11-19": 4
     }
   },
   {
