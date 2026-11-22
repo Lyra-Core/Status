@@ -685,8 +685,8 @@
     "slug": "schweiz-website",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "91.01%",
-    "uptimeWeek": "92.59%",
+    "uptimeDay": "91.18%",
+    "uptimeWeek": "92.62%",
     "uptimeMonth": "96.04%",
     "uptimeYear": "99.67%",
     "time": 4045,
@@ -730,16 +730,16 @@
     "url": "https://lyrawellbeing.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.co.za.ico",
     "slug": "south-africa-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "95.02%",
-    "uptimeWeek": "98.12%",
+    "uptimeDay": "94.94%",
+    "uptimeWeek": "98.11%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.94%",
     "time": 1544,
-    "timeDay": 10034,
-    "timeWeek": 4604,
-    "timeMonth": 2865,
+    "timeDay": 8573,
+    "timeWeek": 4419,
+    "timeMonth": 2827,
     "timeYear": 1544,
     "dailyMinutesDown": {
       "2026-05-31": 33,
@@ -752,7 +752,7 @@
       "2026-11-19": 17,
       "2026-11-20": 26,
       "2026-11-21": 23,
-      "2026-11-22": 72
+      "2026-11-22": 73
     }
   },
   {
