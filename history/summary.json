@@ -713,23 +713,23 @@
     "url": "https://lyrawellbeing.sg",
     "icon": "https://icons.duckduckgo.com/ip3/lyrawellbeing.sg.ico",
     "slug": "singapore-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.92%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 2109,
-    "timeDay": 18358,
-    "timeWeek": 7967,
-    "timeMonth": 4232,
+    "timeDay": 12916,
+    "timeWeek": 7428,
+    "timeMonth": 4177,
     "timeYear": 2109,
     "dailyMinutesDown": {
       "2026-08-31": 29,
       "2026-11-14": 5,
       "2026-11-16": 8,
       "2026-11-21": 5,
-      "2026-11-25": 2
+      "2026-11-25": 4
     }
   },
   {
