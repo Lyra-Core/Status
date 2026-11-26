@@ -95,16 +95,16 @@
     "url": "https://salesiq.zoho.eu/icas/liveview",
     "icon": "https://icons.duckduckgo.com/ip3/salesiq.zoho.eu.ico",
     "slug": "zoho",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.86%",
-    "time": 1431,
-    "timeDay": 1543,
-    "timeWeek": 1187,
-    "timeMonth": 1232,
+    "time": 1432,
+    "timeDay": 1621,
+    "timeWeek": 1251,
+    "timeMonth": 1246,
     "timeYear": 1433,
     "dailyMinutesDown": {
       "2026-02-12": 18,
@@ -115,7 +115,7 @@
       "2026-04-15": 371,
       "2026-04-16": 176,
       "2026-09-28": 22,
-      "2026-11-26": 1
+      "2026-11-26": 14
     }
   },
   {
@@ -125,9 +125,9 @@
     "slug": "argentina-website",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "7.91%",
-    "uptimeWeek": "86.84%",
-    "uptimeMonth": "94.58%",
+    "uptimeDay": "6.92%",
+    "uptimeWeek": "86.70%",
+    "uptimeMonth": "94.55%",
     "uptimeYear": "99.54%",
     "time": 3373,
     "timeDay": 7008,
@@ -142,7 +142,7 @@
       "2026-11-14": 226,
       "2026-11-15": 237,
       "2026-11-16": 66,
-      "2026-11-26": 841,
+      "2026-11-26": 855,
       "2026-11-25": 485
     }
   },
